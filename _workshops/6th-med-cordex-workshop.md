@@ -25,12 +25,12 @@ The workshop consisted of a series of short talks to review the model and run st
 
 Researchers interested in Med-CORDEX or CORDEX-FPS modelling activities or in regional climate multi-model analyses and Med-CORDEX data users are welcome.
 
-## Participants
+# Participants
 
 Load the [list of workshop participants](list_of_participants.pdf).
 
 ![Group photo](images/groupe.png)
 
-## Programme
+# Programme
 
 Load the [programme](programme.pdf) of the workshop.
