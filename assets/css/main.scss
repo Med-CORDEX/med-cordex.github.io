@@ -15,7 +15,7 @@ body h2 {
   color: #217a9b !important; /* Lighter blue for subheadings */
 }
 
-body a {
+body a:not(.site-nav a) {
   color: #0077cc !important;
   text-decoration: none !important;
   transition: color 0.2s;
