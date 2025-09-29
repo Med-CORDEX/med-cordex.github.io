@@ -6,7 +6,8 @@ permalink: /workshops.html
 
 Below is a list of Med-CORDEX workshops. Click on a workshop title to view more details.
 
-{% for workshop in site.workshops %}
+{% assign sorted_workshops = site.workshops | sort: 'date' | reverse %}
+{% for workshop in sorted_workshops %}
   {% assign start_day = workshop.date | date: "%d" %}
   {% assign end_day = workshop.date_end | date: "%d" %}
   {% assign month = workshop.date | date: "%b" %}
