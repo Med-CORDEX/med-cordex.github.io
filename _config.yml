@@ -7,19 +7,20 @@ description: "International initiative for coordinated regional climate modeling
 url: "https://www.medcordex.eu" # Update if deploying elsewhere
 baseurl: "" # No subdirectory
 
+
 # Author settings
 author:
-	name: "Med-CORDEX Team"
-	email: "info@medcordex.eu"
+  name: "Med-CORDEX Team"
+  email: "info@medcordex.eu"
 
 # Navigation (example)
 nav:
-	- title: "Home"
-		url: "/"
-	- title: "About"
-		url: "/about/"
-	- title: "Contact"
-		url: "/contact/"
+  - title: "Home"
+    url: "/"
+  - title: "About"
+    url: "/about/"
+  - title: "Contact"
+    url: "/contact/"
 
 # Theme settings (optional, see so-simple-theme docs for more)
 logo: "/images/logo_medcordex_200_square.png" # Add your logo if available
