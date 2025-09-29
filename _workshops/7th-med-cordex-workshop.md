@@ -1,3 +1,4 @@
+---
 layout: workshop
 title: 7th Med-CORDEX workshop
 date: 2023-05-15
