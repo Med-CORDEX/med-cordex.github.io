@@ -1,6 +1,8 @@
 ---
 layout: page
 title: 7th Med-CORDEX workshop
+date: 2023-05-15
+location: Online
 ---
 
 # 7th Med-CORDEX workshop
