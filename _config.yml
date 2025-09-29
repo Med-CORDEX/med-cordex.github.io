@@ -21,6 +21,8 @@ nav:
     url: "/about/"
   - title: "Contact"
     url: "/contact/"
+  - title: "Workshops"
+    url: "/workshops/"
 
 # Theme settings (optional, see so-simple-theme docs for more)
 logo: "/images/logo_medcordex_200_square.png" # Add your logo if available
