@@ -13,7 +13,6 @@ author:
   email: "info@medcordex.eu"
 
 # Theme settings (optional, see so-simple-theme docs for more)
-skin: "/assets/css/skins/medcordex.scss"
 logo: "/images/logo_medcordex_200_square.png" # Add your logo if available
 locale: en-US
 date_format: "%B %-d, %Y"
@@ -46,5 +45,3 @@ collections:
   workshops:
     output: true
     permalink: /workshops/:name/
-
-custom_css: /assets/css/custom.css
