@@ -1,2 +1,3 @@
 # med-cordex.github.io
-Med-CORDEX website
+
+This is the source code for the Med-CORDEX website. Visit https://med-cordex.github.io

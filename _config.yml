@@ -1,0 +1,25 @@
+# Configuration file for Jekyll
+remote_theme: "mmistakes/so-simple-theme@3.2.0"
+
+# Site settings
+title: "Med-CORDEX"
+description: "International initiative for coordinated regional climate modeling in the Mediterranean region."
+url: "https://www.medcordex.eu" # Update if deploying elsewhere
+baseurl: "" # No subdirectory
+
+# Author settings
+author:
+	name: "Med-CORDEX Team"
+	email: "info@medcordex.eu"
+
+# Navigation (example)
+nav:
+	- title: "Home"
+		url: "/"
+	- title: "About"
+		url: "/about/"
+	- title: "Contact"
+		url: "/contact/"
+
+# Theme settings (optional, see so-simple-theme docs for more)
+logo: "/images/logo_medcordex_200_square.png" # Add your logo if available
