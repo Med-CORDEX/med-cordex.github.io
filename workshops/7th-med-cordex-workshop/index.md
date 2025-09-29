@@ -1,3 +1,4 @@
+---
 layout: page
 title: 7th Med-CORDEX workshop
 ---

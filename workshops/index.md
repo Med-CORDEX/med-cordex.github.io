@@ -1,10 +1,7 @@
 ---
 layout: page
 title: Workshops
-permalink: /workshops/
 ---
-
-
 
 # Med-CORDEX Workshops
 
