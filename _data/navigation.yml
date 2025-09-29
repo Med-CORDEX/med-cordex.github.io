@@ -1,8 +1,6 @@
 - title: Home
   url: /
-- title: About
-  url: /about/
 - title: Workshops
   url: /workshops.html
-- title: Contact
-  url: /contact/
+- title: Database
+  url: /database.html

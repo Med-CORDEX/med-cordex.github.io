@@ -1,16 +1,19 @@
 ---
-# Layout for individual workshop pages
+layout: default
 ---
-{% raw %}
-{% include header.html %}
+
 <main id="main" class="site-main" role="main">
   <article class="workshop">
     <header class="workshop-header">
       <h1 class="page-title">{{ page.title }}</h1>
       {% if page.date and page.date_end %}
-        <p><strong>Date:</strong> {{ page.date | date: "%B %d, %Y" }} – {{ page.date_end | date: "%B %d, %Y" }}</p>
+        {% assign start_day = page.date | date: "%d" %}
+        {% assign end_day = page.date_end | date: "%d" %}
+        {% assign month = page.date | date: "%b" %}
+        {% assign year = page.date | date: "%Y" %}
+        <p><strong>Date:</strong> {{ start_day }}-{{ end_day }} {{ month }} {{ year }}</p>
       {% elsif page.date %}
-        <p><strong>Date:</strong> {{ page.date | date: "%B %d, %Y" }}</p>
+        <p><strong>Date:</strong> {{ page.date | date: "%d %b %Y" }}</p>
       {% endif %}
       {% if page.location %}
         <p><strong>Location:</strong> {{ page.location }}</p>
@@ -20,5 +23,6 @@
       {{ content }}
     </section>
   </article>
+
 </main>
-{% endraw %}
+{% include github-footer-include.html %}
