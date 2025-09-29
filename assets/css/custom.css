@@ -1,21 +1,23 @@
 /* Custom color styles for Med-CORDEX site */
 
-h1.page-title, h1 {
-  color: #1a4d6e; /* Deep blue for main headings */
+body h1.page-title,
+body h1 {
+  color: #1a4d6e !important; /* Deep blue for main headings */
 }
-h2 {
-  color: #217a9b; /* Lighter blue for subheadings */
+body h2 {
+  color: #217a9b !important; /* Lighter blue for subheadings */
 }
 
-a {
-  color: #0077cc;
-  text-decoration: none;
+body a {
+  color: #0077cc !important;
+  text-decoration: none !important;
   transition: color 0.2s;
 }
-a:visited {
-  color: #0077cc;
+body a:visited {
+  color: #0077cc !important;
 }
-a:hover, a:focus {
-  color: #ff9900; /* Orange on hover */
-  text-decoration: underline;
+body a:hover,
+body a:focus {
+  color: #ff9900 !important; /* Orange on hover */
+  text-decoration: underline !important;
 }

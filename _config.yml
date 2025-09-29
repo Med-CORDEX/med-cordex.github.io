@@ -7,23 +7,39 @@ description: "International initiative for coordinated regional climate modeling
 url: "https://www.medcordex.eu" # Update if deploying elsewhere
 baseurl: "" # No subdirectory
 
-
 # Author settings
 author:
   name: "Med-CORDEX Team"
   email: "info@medcordex.eu"
 
-# Navigation (example)
-nav:
-  - title: "Home"
-    url: "/"
-  - title: "About"
-    url: "/about/"
-  - title: "Contact"
-    url: "/contact/"
-  - title: "Workshops"
-    url: "/workshops/"
-
 # Theme settings (optional, see so-simple-theme docs for more)
+skin: "/assets/css/skins/default.css"
 logo: "/images/logo_medcordex_200_square.png" # Add your logo if available
+locale: en-US
+date_format: "%B %-d, %Y"
+mathjax:
+  enable: true
+  combo: tex-svg # "tex-svg" (default), "tex-mml-chtml", etc.: docs.mathjax.org/en/latest/web/components/combined.html
+  tags: ams # "none", "ams" (default), "all"
+
+google_fonts:
+  - name: "Source Sans Pro"
+    weights: "400,400i,700,700i"
+  - name: "Lora"
+    weights: "400,400i,700,700i"
+
+# Jekyll 3 now only supports Kramdown for Markdown
+kramdown:
+  # Use GitHub flavored markdown, including triple backtick fenced code blocks
+  input: GFM
+  # Jekyll 3 and GitHub Pages now only support rouge for syntax highlighting
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    # Use existing pygments syntax highlighting css
+    css_class: 'highlight'
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-toc
+
 custom_css: /assets/css/custom.css
