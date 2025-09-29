@@ -12,7 +12,7 @@ layout: default
         {% assign month = page.date | date: "%b" %}
         {% assign year = page.date | date: "%Y" %}
         <p><strong>Date:</strong> {{ start_day }}-{{ end_day }} {{ month }} {{ year }}</p>
-      {% elseif page.date %}
+      {% elsif page.date %}
         <p><strong>Date:</strong> {{ page.date | date: "%d %b %Y" }}</p>
       {% endif %}
       {% if page.location %}
