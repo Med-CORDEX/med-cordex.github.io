@@ -1,14 +1,10 @@
----
-layout: page
+layout: workshop
 title: 7th Med-CORDEX workshop
 date: 2023-05-15
 location: Online
 ---
 
 # 7th Med-CORDEX workshop
-
-**Date:** 15-16 May 2023  
-**Location:** Online
 
 The 7th Med-CORDEX workshop was held online and brought together scientists and stakeholders to discuss the latest advances in regional climate modeling for the Mediterranean region. The event included presentations, breakout sessions, and collaborative discussions on ongoing and future projects.
 

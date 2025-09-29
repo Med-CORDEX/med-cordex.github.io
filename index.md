@@ -1,6 +1,5 @@
 ---
 layout: home
-title: Med-CORDEX
 ---
 
 Med-CORDEX is an international initiative to coordinate and promote the use of Regional Climate Models (RCMs) and Regional Earth System Models (RESMs) for the Mediterranean region, including atmosphere, ocean, and land surface processes.
@@ -21,7 +20,7 @@ The Mediterranean region is consequently a good case study for climate regionali
 The MED domain is defined in the [CORDEX domain document](https://web.archive.org/web/20240416072240/https://www.medcordex.eu/cordex_domains_250610.pdf).
 
 
-## Scientific Steering Committee
+# Scientific Steering Committee
 
 | Institution | Member |
 |-------------|--------|
@@ -33,7 +32,7 @@ The MED domain is defined in the [CORDEX domain document](https://web.archive.or
 | [LA](http://www.aero.obs-mip.fr/en) | [Fabien Solmon](mailto:fabien.solmon(AT)aero.obs-mip.fr) |
 | [CNRM](http://www.cnrm-game.fr/?lang=en) | [Samuel Somot](mailto:samuel.somot(AT)meteo.fr) |
 
-## Contact Points
+# Contact Points
 
 | Institution | Contact Point |
 |-------------|--------------|

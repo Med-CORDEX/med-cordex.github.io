@@ -1,0 +1,24 @@
+---
+# Layout for individual workshop pages
+---
+{% raw %}
+{% include header.html %}
+<main id="main" class="site-main" role="main">
+  <article class="workshop">
+    <header class="workshop-header">
+      <h1 class="page-title">{{ page.title }}</h1>
+      {% if page.date and page.date_end %}
+        <p><strong>Date:</strong> {{ page.date | date: "%B %d, %Y" }} – {{ page.date_end | date: "%B %d, %Y" }}</p>
+      {% elsif page.date %}
+        <p><strong>Date:</strong> {{ page.date | date: "%B %d, %Y" }}</p>
+      {% endif %}
+      {% if page.location %}
+        <p><strong>Location:</strong> {{ page.location }}</p>
+      {% endif %}
+    </header>
+    <section class="workshop-content">
+      {{ content }}
+    </section>
+  </article>
+</main>
+{% endraw %}

@@ -44,4 +44,4 @@ plugins:
 collections:
   workshops:
     output: true
-    permalink: /workshops/:name/
+    permalink: /workshops/:name.html

@@ -15,7 +15,7 @@ body h2 {
   color: #217a9b !important; /* Lighter blue for subheadings */
 }
 
-body a:not(.site-nav a) {
+body a {
   color: #0077cc !important;
   text-decoration: none !important;
   transition: color 0.2s;
@@ -27,4 +27,14 @@ body a:hover,
 body a:focus {
   color: #ff9900 !important; /* Orange on hover */
   text-decoration: underline !important;
+}
+
+/* Restore default nav tab link styles */
+.site-nav a,
+.site-nav a:visited,
+.site-nav a:hover,
+.site-nav a:focus {
+  color: inherit !important;
+  text-decoration: inherit !important;
+  transition: none;
 }
