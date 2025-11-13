@@ -17,7 +17,7 @@ You can find below the main documents attached to the production of the Med-CORD
    - [List of participating institutes and models](documents/Med-CORDEX-2_baseline-runs_merged-list-InstituteModel.pdf)
    - [List of evaluation runs](documents/Med-CORDEX-2_baseline-runs_merged-list-ERAIntEvaluationRuns.pdf)
    - [List of historical and scenario runs](documents/Med-CORDEX-2_baseline-runs_merged-list-CMIP5ScenarioRuns.pdf)
-   - Variable requirement and Archive specification     
+   - [Variable requirement and Archive specification](references.md)     
 
 More information about the runs (see the metadata tables):
 
