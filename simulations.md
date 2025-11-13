@@ -30,7 +30,7 @@ The TIER1 Med-CORDEX simulations include:
 - Production of an ensemble of simulations with coupled Regional Climate System Models (RCSM), i.e. with fully interactive Atmosphere-Land surface-River-Ocean components, covering the whole Mediterranean basin at high resolution.
 - Production of stand-alone simulations for all the components of the RCSM
 
-![The Med-CORDEX simulations](/web/20240816034834im_/https://www.medcordex.eu/mdcx1.png)
+![The Med-CORDEX simulations](images/phase1.png)
 
 ## Participating teams
 
@@ -38,43 +38,43 @@ Med-CORDEX gathered 22 different modelling groups from 9 different countries in 
 
 | Country   |
 |-----------|
-| ![France](/web/20240816034834im_/https://www.medcordex.eu/FLAGS/40pct/France.png) France |
-| ![Germany](/web/20240816034834im_/https://www.medcordex.eu/FLAGS/40pct/Germany.png) Germany |
-| ![Greece](/web/20240816034834im_/https://www.medcordex.eu/FLAGS/40pct/Greece.png) Greece |
-| ![Hungary](/web/20240816034834im_/https://www.medcordex.eu/FLAGS/40pct/Hungary.png) Hungary |
-| ![Italy](/web/20240816034834im_/https://www.medcordex.eu/FLAGS/40pct/Italy.png) Italy |
-| ![Serbia](/web/20240816034834im_/https://www.medcordex.eu/FLAGS/40pct/Serbia.png) Serbia |
-| ![Spain](/web/20240816034834im_/https://www.medcordex.eu/FLAGS/40pct/Spain.png) Spain |
-| ![Tunisia](/web/20240816034834im_/https://www.medcordex.eu/FLAGS/40pct/Tunisia.png) Tunisia |
-| ![Turkey](/web/20240816034834im_/https://www.medcordex.eu/FLAGS/40pct/Turkey.png) Turkey |
+| ![France](https://www.medcordex.eu/FLAGS/40pct/France.png) France |
+| ![Germany](https://www.medcordex.eu/FLAGS/40pct/Germany.png) Germany |
+| ![Greece](https://www.medcordex.eu/FLAGS/40pct/Greece.png) Greece |
+| ![Hungary](https://www.medcordex.eu/FLAGS/40pct/Hungary.png) Hungary |
+| ![Italy](https://www.medcordex.eu/FLAGS/40pct/Italy.png) Italy |
+| ![Serbia](https://www.medcordex.eu/FLAGS/40pct/Serbia.png) Serbia |
+| ![Spain](https://www.medcordex.eu/FLAGS/40pct/Spain.png) Spain |
+| ![Tunisia](https://www.medcordex.eu/FLAGS/40pct/Tunisia.png) Tunisia |
+| ![Turkey](https://www.medcordex.eu/FLAGS/40pct/Turkey.png) Turkey |
 
 The registered modelling groups were:
 
 | Institution | Contact Point |
 |-------------|--------------|
-| ![Germany](/web/20240816034834im_/https://www.medcordex.eu/FLAGS/40pct/Germany.png) [AWI](https://web.archive.org/web/20240816034834/https://www.awi.de/en.html) - [GERICS](https://web.archive.org/web/20240816034834/http://www.climate-service-center.de/index.php.en) | [William Cabos](mailto:william.cabos(AT)uah.es), [Dimitry Sein](mailto:dimitry.sein(AT)zmaw.de) |
-| ![Spain](/web/20240816034834im_/https://www.medcordex.eu/FLAGS/40pct/Spain.png) [BSC](https://web.archive.org/web/20240816034834/http://www.bsc.es/) | [Maria Gonçalves Ageitos](mailto:mariag(AT)bsc.es) |
-| ![Italy](/web/20240816034834im_/https://www.medcordex.eu/FLAGS/40pct/Italy.png) [CMCC](https://web.archive.org/web/20240816034834/http://www.cmcc.it/) - [Univ Salento](https://web.archive.org/web/20240816034834/https://www.unisalento.it/) | [Dario Conte](mailto:dario.conte(AT)cmcc.it), [Piero Lionello](mailto:piero.lionello(AT)unisalento.it) |
-| ![France](/web/20240816034834im_/https://www.medcordex.eu/FLAGS/40pct/France.png) [CNRM](https://web.archive.org/web/20240816034834/http://www.cnrm-game.fr/?lang=en) | [Samuel Somot](mailto:samuel.somot(AT)meteo.fr) |
-| ![Italy](/web/20240816034834im_/https://www.medcordex.eu/FLAGS/40pct/Italy.png) [ENEA](https://web.archive.org/web/20240816034834/http://www.enea.it/) | [Alessandro Anav](mailto:alessandro.anav(AT)enea.it), [Gianmaria Sannino](mailto:gianmaria.sannino(AT)enea.it) |
-| ![France](/web/20240816034834im_/https://www.medcordex.eu/FLAGS/40pct/France.png) [ENSTA](https://web.archive.org/web/20240816034834/http://www.ensta-paristech.fr/) | [Thomas Arsouze](mailto:thomas.arsouze(AT)ensta-paristech.fr) |
-| ![Hungary](/web/20240816034834im_/https://www.medcordex.eu/FLAGS/40pct/Hungary.png) [Eotvos Lorand U](https://web.archive.org/web/20240816034834/http://www.elte.hu/) | [Judit Bartholy](mailto:bari(AT)ludens.elte.hu) |
-| ![Germany](/web/20240816034834im_/https://www.medcordex.eu/FLAGS/40pct/Germany.png) [GUF](https://web.archive.org/web/20240816034834/http://www.iau.uni-frankfurt.de/) | [Bodo Ahrens](mailto:bodo.ahrens(AT)iau.uni-frankfurt.de) |
-| ![Italy](/web/20240816034834im_/https://www.medcordex.eu/FLAGS/40pct/Italy.png) [ICTP](https://web.archive.org/web/20240816034834/http://www.ictp.it/) | [Erika Coppola](mailto:coppolae(AT)ictp.it) |
-| ![Israel](/web/20240816034834im_/https://www.medcordex.eu/FLAGS/40pct/Israel.png) [IMS](https://web.archive.org/web/20240816034834/http://ims.gov.il/en) | [Pavel Khain](mailto:pavelkh_il(AT)yahoo.com) |
-| ![France](/web/20240816034834im_/https://www.medcordex.eu/FLAGS/40pct/France.png) [IPSL](https://web.archive.org/web/20240816034834/http://www.latmos.ipsl.fr/) | [Sophie Bastin](mailto:sophie.bastin(AT)latmos.ipsl.fr) |
-| ![Turkey](/web/20240816034834im_/https://www.medcordex.eu/FLAGS/40pct/Turkey.png) [ITU](https://web.archive.org/web/20240816034834/http://www.itu.edu.tr/) | [Baris Onol](mailto:onolba(AT)itu.edu.tr) |
-| ![Europa](/web/20240816034834im_/https://www.medcordex.eu/FLAGS/40pct/Europa.png) [JRC](https://web.archive.org/web/20240816034834/https://ec.europa.eu/jrc/en) | [Diego Macias-Moy](mailto:Diego.MACIAS-MOY(AT)ec.europa.eu) |
-| ![France](/web/20240816034834im_/https://www.medcordex.eu/FLAGS/40pct/France.png) [LMD](https://web.archive.org/web/20240816034834/http://www.lmd.jussieu.fr/) | [Laurent Li](mailto:laurent.li(AT)lmd.jussieu.fr) |
-| ![France](/web/20240816034834im_/https://www.medcordex.eu/FLAGS/40pct/France.png) [ENSTA](https://web.archive.org/web/20240816034834/http://www.ensta-paristech.fr/) | [Thomas Arsouze](mailto:thomas.arsouze@ensta-paristech.fr) |
-| ![Hungary](/web/20240816034834im_/https://www.medcordex.eu/FLAGS/40pct/Hungary.png) [Eotvos Lorand U](https://web.archive.org/web/20240816034834/http://www.elte.hu/) | [Judit Bartholy](mailto:bari@ludens.elte.hu) |
-| ![Germany](/web/20240816034834im_/https://www.medcordex.eu/FLAGS/40pct/Germany.png) [GUF](https://web.archive.org/web/20240816034834/http://www.iau.uni-frankfurt.de/) | [Bodo Ahrens](mailto:bodo.ahrens@iau.uni-frankfurt.de) |
-| ![Italy](/web/20240816034834im_/https://www.medcordex.eu/FLAGS/40pct/Italy.png) [ICTP](https://web.archive.org/web/20240816034834/http://www.ictp.it/) | [Erika Coppola](mailto:coppolae@ictp.it) |
-| ![Israel](/web/20240816034834im_/https://www.medcordex.eu/FLAGS/40pct/Israel.png) [IMS](https://web.archive.org/web/20240816034834/http://ims.gov.il/en) | [Pavel Khain](mailto:pavelkh_il@yahoo.com) |
-| ![France](/web/20240816034834im_/https://www.medcordex.eu/FLAGS/40pct/France.png) [IPSL](https://web.archive.org/web/20240816034834/http://www.latmos.ipsl.fr/) | [Sophie Bastin](mailto:sophie.bastin@latmos.ipsl.fr) |
-| ![Turkey](/web/20240816034834im_/https://www.medcordex.eu/FLAGS/40pct/Turkey.png) [ITU](https://web.archive.org/web/20240816034834/http://www.itu.edu.tr/) | [Baris Onol](mailto:onolba@itu.edu.tr) |
-| ![Europa](/web/20240816034834im_/https://www.medcordex.eu/FLAGS/40pct/Europa.png) [JRC](https://web.archive.org/web/20240816034834/https://ec.europa.eu/jrc/en) | [Diego Macias-Moy](mailto:Diego.MACIAS-MOY@ec.europa.eu) |
-| ![France](/web/20240816034834im_/https://www.medcordex.eu/FLAGS/40pct/France.png) [LMD](https://web.archive.org/web/20240816034834/http://www.lmd.jussieu.fr/) | [Laurent Li](mailto:laurent.li@lmd.jussieu.fr) |
+| ![Germany](https://www.medcordex.eu/FLAGS/40pct/Germany.png) [AWI](https://www.awi.de/en.html) - [GERICS](http://www.climate-service-center.de/index.php.en) | [William Cabos](mailto:william.cabos(AT)uah.es), [Dimitry Sein](mailto:dimitry.sein(AT)zmaw.de) |
+| ![Spain](https://www.medcordex.eu/FLAGS/40pct/Spain.png) [BSC](http://www.bsc.es/) | [Maria Gonçalves Ageitos](mailto:mariag(AT)bsc.es) |
+| ![Italy](https://www.medcordex.eu/FLAGS/40pct/Italy.png) [CMCC](http://www.cmcc.it/) - [Univ Salento](https://www.unisalento.it/) | [Dario Conte](mailto:dario.conte(AT)cmcc.it), [Piero Lionello](mailto:piero.lionello(AT)unisalento.it) |
+| ![France](https://www.medcordex.eu/FLAGS/40pct/France.png) [CNRM](http://www.cnrm-game.fr/?lang=en) | [Samuel Somot](mailto:samuel.somot(AT)meteo.fr) |
+| ![Italy](https://www.medcordex.eu/FLAGS/40pct/Italy.png) [ENEA](http://www.enea.it/) | [Alessandro Anav](mailto:alessandro.anav(AT)enea.it), [Gianmaria Sannino](mailto:gianmaria.sannino(AT)enea.it) |
+| ![France](https://www.medcordex.eu/FLAGS/40pct/France.png) [ENSTA](http://www.ensta-paristech.fr/) | [Thomas Arsouze](mailto:thomas.arsouze(AT)ensta-paristech.fr) |
+| ![Hungary](https://www.medcordex.eu/FLAGS/40pct/Hungary.png) [Eotvos Lorand U](http://www.elte.hu/) | [Judit Bartholy](mailto:bari(AT)ludens.elte.hu) |
+| ![Germany](https://www.medcordex.eu/FLAGS/40pct/Germany.png) [GUF](http://www.iau.uni-frankfurt.de/) | [Bodo Ahrens](mailto:bodo.ahrens(AT)iau.uni-frankfurt.de) |
+| ![Italy](https://www.medcordex.eu/FLAGS/40pct/Italy.png) [ICTP](http://www.ictp.it/) | [Erika Coppola](mailto:coppolae(AT)ictp.it) |
+| ![Israel](https://www.medcordex.eu/FLAGS/40pct/Israel.png) [IMS](http://ims.gov.il/en) | [Pavel Khain](mailto:pavelkh_il(AT)yahoo.com) |
+| ![France](https://www.medcordex.eu/FLAGS/40pct/France.png) [IPSL](http://www.latmos.ipsl.fr/) | [Sophie Bastin](mailto:sophie.bastin(AT)latmos.ipsl.fr) |
+| ![Turkey](https://www.medcordex.eu/FLAGS/40pct/Turkey.png) [ITU](http://www.itu.edu.tr/) | [Baris Onol](mailto:onolba(AT)itu.edu.tr) |
+| ![Europa](https://www.medcordex.eu/FLAGS/40pct/Europa.png) [JRC](https://ec.europa.eu/jrc/en) | [Diego Macias-Moy](mailto:Diego.MACIAS-MOY(AT)ec.europa.eu) |
+| ![France](https://www.medcordex.eu/FLAGS/40pct/France.png) [LMD](http://www.lmd.jussieu.fr/) | [Laurent Li](mailto:laurent.li(AT)lmd.jussieu.fr) |
+| ![France](https://www.medcordex.eu/FLAGS/40pct/France.png) [MERCATOR](https://www.mercator-ocean.eu/) |  |
+| ![Germany](https://www.medcordex.eu/FLAGS/40pct/Germany.png) [MPI](http://www.zmaw.de/) |  |
+| ![Italy](https://www.medcordex.eu/FLAGS/40pct/Italy.png) [OGS](http://www.ogs.it/) | [Marco Reale](mailto:mreale(AT)ogs.it) |
+| ![Spain](https://www.medcordex.eu/FLAGS/40pct/Spain.png) [Puertos del Estado](http://www.puertos.es/) |  |
+| ![Spain](https://www.medcordex.eu/FLAGS/40pct/Spain.png) [UCLM](http://www.uclm.es/) | [Miguel Gaertner](mailto:miguel.gaertner(AT)uclm.es)  |
+| ![Greece](https://www.medcordex.eu/FLAGS/40pct/Greece.png) [Univ of Athens](http://www.oc.phys.uoa.gr/) |  |  
+| ![Serbia](https://www.medcordex.eu/FLAGS/40pct/Serbia.png) [Univ of Belgrade](http://www.ff.bg.ac.rs/) | [Vladimir Djurdjevic](mailto:vdj(AT)ff.bg.ac.rs)  |
+| ![France](https://www.medcordex.eu/FLAGS/40pct/France.png) [Univ de Bourgogne](https://www.u-bourgogne.fr/) | |
+| ![Spain](https://www.medcordex.eu/FLAGS/40pct/Spain.png) [UPM](http://www.upm.es/) |  |
 
 ## Participating models
 
