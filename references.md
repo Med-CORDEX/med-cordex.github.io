@@ -14,4 +14,4 @@ You can find here the main reference documents and links for Med-CORDEX:
     - [How to submit a CORDEX RCM simulations](https://cordex.org/experiment-guidelines/cordex-cmip5/how-to-submit-cordex-cmip5-data-rcms/)
     - [CORDEX experimental protocol for RCM](https://cordex.org/experiment-guidelines/cordex-cmip5/experiment-protocol-cordex-cmip5-rcms/)
     - [The MedCORDEX reference article: Ruti et al. 2016 (BAMS)](https://journals.ametsoc.org/view/journals/bams/97/7/bams-d-14-00176.1.xml)
-    - [Poster: Somot S., Ruti P. and the MedCORDEX team: "The Med-CORDEX initiative: status of the simulations and first achievements". EGU conference (Vienna, Apr. 2013)](somot_Med-CORDEX_EGU2013_april2013.pdf)
+    - [Poster: Somot S., Ruti P. and the MedCORDEX team: "The Med-CORDEX initiative: status of the simulations and first achievements". EGU conference (Vienna, Apr. 2013)](documents/somot_Med-CORDEX_EGU2013_april2013.pdf)
