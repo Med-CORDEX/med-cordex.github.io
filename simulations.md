@@ -30,7 +30,7 @@ The TIER1 Med-CORDEX simulations include:
 - Production of an ensemble of simulations with coupled Regional Climate System Models (RCSM), i.e. with fully interactive Atmosphere-Land surface-River-Ocean components, covering the whole Mediterranean basin at high resolution.
 - Production of stand-alone simulations for all the components of the RCSM
 
-![The Med-CORDEX simulations](https://www.medcordex.eu/mdcx1.png)
+![The Med-CORDEX simulations](images/phase1.png)
 
 ## Participating teams
 
