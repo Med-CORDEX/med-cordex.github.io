@@ -8,7 +8,7 @@ You can find here the main reference documents and links for Med-CORDEX:
        - [Ocean Variables](documents/CORDEX-ocean_variables_requirement_table_15jan2020.pdf)
        - [River Variables](documents/CORDEX-river_variables_requirement_table_12mar2018.pdf)
     - The CORDEX archive specifications
-       - [Atmosphere and Land variables](documents/cordex_archive_specifications.pdf)
+       - [Atmosphere and Land variables](https://doi.org/10.5281/zenodo.15222640)
        - [Ocean Variables](documents/CORDEX-ocean_archive_specifications_15jan2020.pdf)
        - [River Variables](documents/CORDEX-river_archive_specifications_12mar2018.pdf)
     - [How to submit a CORDEX RCM simulations](https://cordex.org/experiment-guidelines/cordex-cmip5/how-to-submit-cordex-cmip5-data-rcms/)
