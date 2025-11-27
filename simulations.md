@@ -88,11 +88,11 @@ The registered modelling groups were:
 
 Note that the following pdf files contain links towards the description of each run (metadata). Clicking such links you access the run information.
 
-- [Atmosphere Regional Climate Models](https://www.medcordex.eu/Tabelle_RUNs/Listofruns_Med-CORDEX_phase1_ARCM.pdf)
-- [Land-River Regional Climate Models](https://www.medcordex.eu/Tabelle_RUNs/Listofruns_Med-CORDEX_phase1_LandRiverRCM.pdf)
-- [Ocean Regional Climate Models](https://www.medcordex.eu/Tabelle_RUNs/Listofruns_Med-CORDEX_phase1_ORCM.pdf)
-- [Fully-coupled Regional Climate System Models](https://www.medcordex.eu/Tabelle_RUNs/Listofruns_Med-CORDEX_phase1_RCSM.pdf)
-- [GCM x RCM matrix](https://www.medcordex.eu/Tabelle_RUNs/Listofruns_Med-CORDEX_phase1_GCMRCMmatrix.pdf)
+- [Atmosphere Regional Climate Models](documents/Listofruns_Med-CORDEX_phase1_ARCM.pdf)
+- [Land-River Regional Climate Models](documents/Listofruns_Med-CORDEX_phase1_LandRiverRCM.pdf)
+- [Ocean Regional Climate Models](documents/Listofruns_Med-CORDEX_phase1_ORCM.pdf)
+- [Fully-coupled Regional Climate System Models](documents/Listofruns_Med-CORDEX_phase1_RCSM.pdf)
+- [GCM x RCM matrix](documents/Listofruns_Med-CORDEX_phase1_GCMRCMmatrix.pdf)
 
 # Phase 2
 
@@ -104,11 +104,11 @@ C. Contribute to improve the characterization of the impacts of the Mediterranea
 
 To full-filled these goals, the phase 2 of Med-CORDEX is based on **five modelling pillars**:
 
-- The [Baseline runs](https://www.medcordex.eu/baseline-runs.php) based on a large ensemble of fully-coupled regional climate system models inherited from Med-CORDEX phase 1.
+- The [Baseline runs](baseline_runs.md) based on a large ensemble of fully-coupled regional climate system models inherited from Med-CORDEX phase 1.
 - The [CORDEX FPS-convection](https://www.hymex.org/cordexfps-convection/wiki/doku.php) based on convection-permitting regional climate models
 - The [CORDEX FPS-aerosol](https://www.hymex.org/cordexfps-aerosol/wiki/doku.php) based on an improved representation of aerosols in the regional climate models
 - The **CORDEX FPS-airsea** based on an improved representation of small-scale oceanic processes and air-sea coupling in the region climate system models
-- The [Free Modelling Zone (FMZ)](https://www.medcordex.eu/list-activities_Med-CORDEX-FMZ.pdf) targeting to study the limitations of the current Med-CORDEX modelling protocols and to test new modelling ideas
+- The [Free Modelling Zone (FMZ)](documents/list-activities_Med-CORDEX-FMZ.pdf) targeting to study the limitations of the current Med-CORDEX modelling protocols and to test new modelling ideas
 
 *FPS: Flagship Pilot Study, the 3 Med-CORDEX related FPS have been endorsed officially by CORDEX in May 2016*
 
