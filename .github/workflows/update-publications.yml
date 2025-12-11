@@ -31,7 +31,7 @@ jobs:
           if git diff --quiet publications.md; then
             echo "No changes to commit."
           else
-            git add docs/publications.html
+            git add publications.md
             git commit -m "Update publications from Zotero"
             git push
           fi
