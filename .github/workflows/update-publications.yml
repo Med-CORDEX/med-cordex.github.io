@@ -1,0 +1,37 @@
+name: Update Publications
+
+on:
+  schedule:
+    - cron: '20 1 * * *'  # Every night at 01:10 UTC
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: pip install dateparser requests
+
+      - name: Run Zotero to Markdown script
+        run: python scripts/generate_publications.py
+
+      - name: Commit changes if any
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          if git diff --quiet docs/publications.html; then
+            echo "No changes to commit."
+          else
+            git add docs/publications.html
+            git commit -m "Update publications from Zotero"
+            git push
+          fi
