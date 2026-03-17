@@ -5,6 +5,38 @@ title: Simulations
 
 {% include toc %}
 
+# Phase 2
+
+In its phase 2 (from 2016 onwards), the **overarching goals of the Med-CORDEX initiative** (rephrased from Ruti et al. 2016) are to:
+
+A. Understand the past variability of the Mediterranean regional climate system and characterize its possible future evolution.  
+B. Investigate, understand and improve the description of regional climate phenomena with emphasis on phenomena of importance for climatic impacts.  
+C. Contribute to improve the characterization of the impacts of the Mediterranean climate variability and climate change.
+
+To full-filled these goals, the phase 2 of Med-CORDEX is based on **five modelling pillars**:
+
+- The [Baseline runs](https://www.medcordex.eu/baseline-runs.php) based on a large ensemble of fully-coupled regional climate system models inherited from Med-CORDEX phase 1.
+- The [CORDEX FPS-convection](https://www.hymex.org/cordexfps-convection/wiki/doku.php) based on convection-permitting regional climate models
+- The [CORDEX FPS-aerosol](https://www.hymex.org/cordexfps-aerosol/wiki/doku.php) based on an improved representation of aerosols in the regional climate models
+- The **CORDEX FPS-airsea** based on an improved representation of small-scale oceanic processes and air-sea coupling in the region climate system models
+- The [Free Modelling Zone (FMZ)](https://www.medcordex.eu/list-activities_Med-CORDEX-FMZ.pdf) targeting to study the limitations of the current Med-CORDEX modelling protocols and to test new modelling ideas
+
+*FPS: Flagship Pilot Study, the 3 Med-CORDEX related FPS have been endorsed officially by CORDEX in May 2016*
+
+![chart of the phase tasks](images/phase2.png)
+
+In its phase 2 as in its phase 2, Med-CORDEX is based on the following **motivations and basic principles**:
+
+- Mediterranean area is considered as a perfect test case for high-resolution and coupled regional climate modelling and a well-identified future climate change hotspot
+- Following the end of the CIRCE EU project, Med-CORDEX started in 2009 as the HyMeX regional climate modelling team before becoming an official CORDEX domain
+- Med-CORDEX is an open club of Mediterranean climate model developers and users ; self-organised and based on voluntary efforts.
+- Med-CORDEX targets to develop reference modelling frameworks for the study the Mediterranean climate and to provide coordinated regional climate simulations for the various components of the Mediterranean climate system
+- Med-CORDEX is mainly science-driven
+- The major communication tools are the mailing list (medcordex@hymex.org), the web site (www.medcordex.eu) and regular workshops
+- Med-CORDEX is leaded by an international steering committee (medcordex-sc@hymex.org): S.Somot (CNRM) ; G.Sannino (ENEA) ; E.Coppola (ICTP) ; G.Jordà (IMEDEA) ; B.Ahrens (GUF) ; F. Solmon (LA)
+- Med-CORDEX contributes to the objectives of the following initiatives and projects: CORDEX, MISTRALS (HyMeX, ChArMEx, ImpactCC), Med-CLIVAR, C3S, HORIZON-2020 and MedECC
+
+
 # Phase 1
 
 In its phase 1, Med-CORDEX simulations gather 3 kinds of runs (evaluation, historical, scenario), 4 kinds of regional models (atmosphere, land-surface, ocean, coupled RCSM) and are classified in two categories: CORE simulations and TIER1 simulations.
@@ -85,33 +117,3 @@ Note that the following pdf files contain links towards the description of each 
 - [Fully-coupled Regional Climate System Models](https://www.medcordex.eu/Tabelle_RUNs/Listofruns_Med-CORDEX_phase1_RCSM.pdf)
 - [GCM x RCM matrix](https://www.medcordex.eu/Tabelle_RUNs/Listofruns_Med-CORDEX_phase1_GCMRCMmatrix.pdf)
 
-# Phase 2
-
-In its phase 2 (from 2016 onwards), the **overarching goals of the Med-CORDEX initiative** (rephrased from Ruti et al. 2016) are to:
-
-A. Understand the past variability of the Mediterranean regional climate system and characterize its possible future evolution.  
-B. Investigate, understand and improve the description of regional climate phenomena with emphasis on phenomena of importance for climatic impacts.  
-C. Contribute to improve the characterization of the impacts of the Mediterranean climate variability and climate change.
-
-To full-filled these goals, the phase 2 of Med-CORDEX is based on **five modelling pillars**:
-
-- The [Baseline runs](https://www.medcordex.eu/baseline-runs.php) based on a large ensemble of fully-coupled regional climate system models inherited from Med-CORDEX phase 1.
-- The [CORDEX FPS-convection](https://www.hymex.org/cordexfps-convection/wiki/doku.php) based on convection-permitting regional climate models
-- The [CORDEX FPS-aerosol](https://www.hymex.org/cordexfps-aerosol/wiki/doku.php) based on an improved representation of aerosols in the regional climate models
-- The **CORDEX FPS-airsea** based on an improved representation of small-scale oceanic processes and air-sea coupling in the region climate system models
-- The [Free Modelling Zone (FMZ)](https://www.medcordex.eu/list-activities_Med-CORDEX-FMZ.pdf) targeting to study the limitations of the current Med-CORDEX modelling protocols and to test new modelling ideas
-
-*FPS: Flagship Pilot Study, the 3 Med-CORDEX related FPS have been endorsed officially by CORDEX in May 2016*
-
-![chart of the phase tasks](images/phase2.png)
-
-In its phase 2 as in its phase 2, Med-CORDEX is based on the following **motivations and basic principles**:
-
-- Mediterranean area is considered as a perfect test case for high-resolution and coupled regional climate modelling and a well-identified future climate change hotspot
-- Following the end of the CIRCE EU project, Med-CORDEX started in 2009 as the HyMeX regional climate modelling team before becoming an official CORDEX domain
-- Med-CORDEX is an open club of Mediterranean climate model developers and users ; self-organised and based on voluntary efforts.
-- Med-CORDEX targets to develop reference modelling frameworks for the study the Mediterranean climate and to provide coordinated regional climate simulations for the various components of the Mediterranean climate system
-- Med-CORDEX is mainly science-driven
-- The major communication tools are the mailing list (medcordex@hymex.org), the web site (www.medcordex.eu) and regular workshops
-- Med-CORDEX is leaded by an international steering committee (medcordex-sc@hymex.org): S.Somot (CNRM) ; G.Sannino (ENEA) ; E.Coppola (ICTP) ; G.Jordà (IMEDEA) ; B.Ahrens (GUF) ; F. Solmon (LA)
-- Med-CORDEX contributes to the objectives of the following initiatives and projects: CORDEX, MISTRALS (HyMeX, ChArMEx, ImpactCC), Med-CLIVAR, C3S, HORIZON-2020 and MedECC
