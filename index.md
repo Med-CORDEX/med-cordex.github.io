@@ -36,7 +36,7 @@ The MED domain is defined in the [CORDEX domain document](https://web.archive.or
 
 | Institution | Contact Point |
 |-------------|--------------|
-| [AWI](https://www.awi.de/en.html) - [GERICS](http://www.climate-service-center.de/index.php.en) | [William Cabos](mailto:william.cabos@uah.es) - [Dimitry Sein](mailto:dimitry.sein@awi.de) |
+| [AWI](https://www.awi.de/en.html) - [GERICS](http://www.climate-service-center.de/index.php.en) | [William Cabos](mailto:william.cabos@uah.es) - [Dmitry Sein](mailto:dmitry.sein@awi.de) |
 | [CMCC](http://www.cmcc.it/) - [Univ Salento](https://www.unisalento.it/) | [Dario Conte](mailto:dario.conte@cmcc.it) - [Piero Lionello](mailto:piero.lionello@unisalento.it) |
 | [CNRM](http://www.cnrm-game.fr/?lang=en) | [Samuel Somot](mailto:samuel.somot@meteo.fr) |
 | [ENEA](http://www.enea.it/) | [Alessandro Anav](mailto:alessandro.anav@enea.it) - [Gianmaria Sannino](mailto:gianmaria.sannino@enea.it) |
