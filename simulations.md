@@ -62,7 +62,7 @@ The TIER1 Med-CORDEX simulations include:
 - Production of an ensemble of simulations with coupled Regional Climate System Models (RCSM), i.e. with fully interactive Atmosphere-Land surface-River-Ocean components, covering the whole Mediterranean basin at high resolution.
 - Production of stand-alone simulations for all the components of the RCSM
 
-![The Med-CORDEX simulations](/web/20240816034834im_/https://www.medcordex.eu/mdcx1.png)
+![The Med-CORDEX simulations](images/phase1.png)
 
 ## Participating teams
 
@@ -70,15 +70,15 @@ Med-CORDEX gathered 22 different modelling groups from 9 different countries in 
 
 | Country   |
 |-----------|
-| ![France](/web/20240816034834im_/https://www.medcordex.eu/FLAGS/40pct/France.png) France |
-| ![Germany](/web/20240816034834im_/https://www.medcordex.eu/FLAGS/40pct/Germany.png) Germany |
-| ![Greece](/web/20240816034834im_/https://www.medcordex.eu/FLAGS/40pct/Greece.png) Greece |
-| ![Hungary](/web/20240816034834im_/https://www.medcordex.eu/FLAGS/40pct/Hungary.png) Hungary |
-| ![Italy](/web/20240816034834im_/https://www.medcordex.eu/FLAGS/40pct/Italy.png) Italy |
-| ![Serbia](/web/20240816034834im_/https://www.medcordex.eu/FLAGS/40pct/Serbia.png) Serbia |
-| ![Spain](/web/20240816034834im_/https://www.medcordex.eu/FLAGS/40pct/Spain.png) Spain |
-| ![Tunisia](/web/20240816034834im_/https://www.medcordex.eu/FLAGS/40pct/Tunisia.png) Tunisia |
-| ![Turkey](/web/20240816034834im_/https://www.medcordex.eu/FLAGS/40pct/Turkey.png) Turkey |
+| ![France](https://www.medcordex.eu/FLAGS/40pct/France.png) France |
+| ![Germany](https://www.medcordex.eu/FLAGS/40pct/Germany.png) Germany |
+| ![Greece](https://www.medcordex.eu/FLAGS/40pct/Greece.png) Greece |
+| ![Hungary](https://www.medcordex.eu/FLAGS/40pct/Hungary.png) Hungary |
+| ![Italy](https://www.medcordex.eu/FLAGS/40pct/Italy.png) Italy |
+| ![Serbia](https://www.medcordex.eu/FLAGS/40pct/Serbia.png) Serbia |
+| ![Spain](https://www.medcordex.eu/FLAGS/40pct/Spain.png) Spain |
+| ![Tunisia](https://www.medcordex.eu/FLAGS/40pct/Tunisia.png) Tunisia |
+| ![Turkey](https://www.medcordex.eu/FLAGS/40pct/Turkey.png) Turkey |
 
 The registered modelling groups were:
 
@@ -111,9 +111,9 @@ The registered modelling groups were:
 
 Note that the following pdf files contain links towards the description of each run (metadata). Clicking such links you access the run information.
 
-- [Atmosphere Regional Climate Models](https://www.medcordex.eu/Tabelle_RUNs/Listofruns_Med-CORDEX_phase1_ARCM.pdf)
-- [Land-River Regional Climate Models](https://www.medcordex.eu/Tabelle_RUNs/Listofruns_Med-CORDEX_phase1_LandRiverRCM.pdf)
-- [Ocean Regional Climate Models](https://www.medcordex.eu/Tabelle_RUNs/Listofruns_Med-CORDEX_phase1_ORCM.pdf)
-- [Fully-coupled Regional Climate System Models](https://www.medcordex.eu/Tabelle_RUNs/Listofruns_Med-CORDEX_phase1_RCSM.pdf)
-- [GCM x RCM matrix](https://www.medcordex.eu/Tabelle_RUNs/Listofruns_Med-CORDEX_phase1_GCMRCMmatrix.pdf)
+- [Atmosphere Regional Climate Models](documents/Listofruns_Med-CORDEX_phase1_ARCM.pdf)
+- [Land-River Regional Climate Models](documents/Listofruns_Med-CORDEX_phase1_LandRiverRCM.pdf)
+- [Ocean Regional Climate Models](documents/Listofruns_Med-CORDEX_phase1_ORCM.pdf)
+- [Fully-coupled Regional Climate System Models](documents/Listofruns_Med-CORDEX_phase1_RCSM.pdf)
+- [GCM x RCM matrix](documents/Listofruns_Med-CORDEX_phase1_GCMRCMmatrix.pdf)
 

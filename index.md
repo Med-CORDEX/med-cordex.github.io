@@ -2,7 +2,11 @@
 layout: home
 ---
 
-Med-CORDEX is an international initiative to coordinate and promote the use of Regional Climate Models (RCMs) and Regional Earth System Models (RESMs) for the Mediterranean region, including atmosphere, ocean, and land surface processes.
+Med-CORDEX is a coordinated contribution to [CORDEX](https://cordex.org/) that is supported by [HyMeX](https://www.hymex.org/) and [MedCLIVAR](https://www.medclivar.eu/) international programs. Med-CORDEX initiative has been proposed by the Mediterranean climate research community as a follow-up of previous and existing initiatives. MED-CORDEX takes advantage of new fully coupled Regional Climate System Models (RCSMs).
+
+# Med-CORDEX Initiative
+
+Med-CORDEX initiative has been proposed by the Mediterranean climate research community as a follow-up of previous and existing initiatives. Med-CORDEX takes advantage of new very high-resolution Regional Climate Models (RCM, up to 10 km) and of new fully coupled Regional Climate System Models (RCSMs), coupling the various components of the regional climate. 
 
 # Med-CORDEX Framework
 

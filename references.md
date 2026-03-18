@@ -1,0 +1,17 @@
+You can find here the main reference documents and links for Med-CORDEX:
+- [The official CORDEX web page](https://cordex.org/)
+- [The CORDEX domain definition document](https://cordex.org/wp-content/uploads/2012/11/CORDEX-domain-description_231015.pdf)
+- [CMIP5 Data Reference Syntax (DRS) and Controlled Vocabularies](documents//cmip5_data_reference_syntax.pdf)
+- [The MedCORDEX domain picture](images/new_cordex_mediterranean.gif)
+    - The CORDEX variables requirement
+       - [Atmosphere and Land variables](documents/CORDEX_variables_requirement_table.pdf)
+       - [Ocean Variables](documents/CORDEX-ocean_variables_requirement_table_15jan2020.pdf)
+       - [River Variables](documents/CORDEX-river_variables_requirement_table_12mar2018.pdf)
+    - The CORDEX archive specifications
+       - [Atmosphere and Land variables](https://doi.org/10.5281/zenodo.15222640)
+       - [Ocean Variables](documents/CORDEX-ocean_archive_specifications_15jan2020.pdf)
+       - [River Variables](documents/CORDEX-river_archive_specifications_12mar2018.pdf)
+    - [How to submit a CORDEX RCM simulations](https://cordex.org/experiment-guidelines/cordex-cmip5/how-to-submit-cordex-cmip5-data-rcms/)
+    - [CORDEX experimental protocol for RCM](https://cordex.org/experiment-guidelines/cordex-cmip5/experiment-protocol-cordex-cmip5-rcms/)
+    - [The MedCORDEX reference article: Ruti et al. 2016 (BAMS)](https://journals.ametsoc.org/view/journals/bams/97/7/bams-d-14-00176.1.xml)
+    - [Poster: Somot S., Ruti P. and the MedCORDEX team: "The Med-CORDEX initiative: status of the simulations and first achievements". EGU conference (Vienna, Apr. 2013)](documents/somot_Med-CORDEX_EGU2013_april2013.pdf)
