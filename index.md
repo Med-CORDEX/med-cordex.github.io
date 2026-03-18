@@ -28,29 +28,29 @@ The MED domain is defined in the [CORDEX domain document](https://web.archive.or
 
 | Institution | Member |
 |-------------|--------|
-| [GUF](http://www.iau.uni-frankfurt.de/) | [Bodo Ahrens](mailto:bodo.ahrens(AT)iau.uni-frankfurt.de) |
-| [ICTP](http://www.ictp.it/) | [Erika Coppola](mailto:coppolae(AT)ictp.it) |
-| [IEO](http://www.ba.ieo.es/) | [Gabriel Jordà](mailto:gabriel.jorda(AT)ieo.csic.es) |
-| [OGS](https://www.og.it/) | [Marco Reale](mailto:mreale(AT)ogs.it) |
-| [ENEA](https://impatti.sostenibilita.enea.it/en/structure/clim) | [Gianmaria Sannino](mailto:gianmaria.sannino(AT)enea.it) |
-| [LA](http://www.aero.obs-mip.fr/en) | [Fabien Solmon](mailto:fabien.solmon(AT)aero.obs-mip.fr) |
-| [CNRM](http://www.cnrm-game.fr/?lang=en) | [Samuel Somot](mailto:samuel.somot(AT)meteo.fr) |
+| [GUF](http://www.iau.uni-frankfurt.de/) | [Bodo Ahrens](mailto:bodo.ahrens@iau.uni-frankfurt.de) |
+| [ICTP](http://www.ictp.it/) | [Erika Coppola](mailto:coppolae@ictp.it) |
+| [IEO](http://www.ba.ieo.es/) | [Gabriel Jordà](mailto:gabriel.jorda@ieo.csic.es) |
+| [OGS](https://www.og.it/) | [Marco Reale](mailto:mreale@ogs.it) |
+| [ENEA](https://impatti.sostenibilita.enea.it/en/structure/clim) | [Gianmaria Sannino](mailto:gianmaria.sannino@enea.it) |
+| [LA](http://www.aero.obs-mip.fr/en) | [Fabien Solmon](mailto:fabien.solmon@aero.obs-mip.fr) |
+| [CNRM](http://www.cnrm-game.fr/?lang=en) | [Samuel Somot](mailto:samuel.somot@meteo.fr) |
 
 # Contact Points
 
 | Institution | Contact Point |
 |-------------|--------------|
-| [AWI](https://www.awi.de/en.html) - [GERICS](http://www.climate-service-center.de/index.php.en) | [William Cabos](mailto:william.cabos(AT)uah.es) - [Dimitry Sein](mailto:dimitry.sein(AT)zmaw.de) |
-| [CMCC](http://www.cmcc.it/) - [Univ Salento](https://www.unisalento.it/) | [Dario Conte](mailto:dario.conte(AT)cmcc.it) - [Piero Lionello](mailto:piero.lionello(AT)unisalento.it) |
-| [CNRM](http://www.cnrm-game.fr/?lang=en) | [Samuel Somot](mailto:samuel.somot(AT)meteo.fr) |
-| [ENEA](http://www.enea.it/) | [Alessandro Anav](mailto:alessandro.anav(AT)enea.it) - [Gianmaria Sannino](mailto:gianmaria.sannino(AT)enea.it) |
-| [GUF](http://www.iau.uni-frankfurt.de/) | [Bodo Ahrens](mailto:bodo.ahrens(AT)iau.uni-frankfurt.de) |
-| [ICTP](http://www.ictp.it/) | [Erika Coppola](mailto:coppolae(AT)ictp.it) |
-| [IMS](http://ims.gov.il/en) | [Pavel Khain](mailto:pavelkh_il(AT)yahoo.com) head of NWP team - [Leenes Uzan](mailto:uzanl(AT)ims.gov.il) - [Elyakom Vadislavsky](mailto:uzanl(AT)ims.gov.ilvadislavskye(AT)ims.gov.il) |
-| [IPSL](http://www.latmos.ipsl.fr/) | [Jan Polcher](mailto:jan.polcher(AT)lmd.ipsl.fr) - [Romain Pennel](mailto:romain.pennel(AT)lmd.ipsl.fr) |
-| [ITU](http://www.itu.edu.tr/) | [Baris Onol](mailto:onolba(AT)itu.edu.tr) |
-| [JRC](https://ec.europa.eu/jrc/en) | [Diego Macias-Moy](mailto:Diego.MACIAS-MOY(AT)ec.europa.eu) |
-| [LMD](http://www.lmd.jussieu.fr/) | [Laurent Li](mailto:laurent.li(AT)lmd.jussieu.fr) |
-| [OGS](http://www.ogs.it/) | [Marco reale](mailto:mreale(AT)ogs.it) |
-| [UCLM](http://www.uclm.es/) | [Miguel Gaertner](mailto:miguel.gaertner(AT)uclm.es) |
-| [Univ of Belgrade](http://www.ff.bg.ac.rs/) | [Vladimir Djurdjevic](mailto:vdj(AT)ff.bg.ac.rs) |
+| [AWI](https://www.awi.de/en.html) - [GERICS](http://www.climate-service-center.de/index.php.en) | [William Cabos](mailto:william.cabos@uah.es) - [Dmitry Sein](mailto:dmitry.sein@awi.de) |
+| [CMCC](http://www.cmcc.it/) - [Univ Salento](https://www.unisalento.it/) | [Dario Conte](mailto:dario.conte@cmcc.it) - [Piero Lionello](mailto:piero.lionello@unisalento.it) |
+| [CNRM](http://www.cnrm-game.fr/?lang=en) | [Samuel Somot](mailto:samuel.somot@meteo.fr) |
+| [ENEA](http://www.enea.it/) | [Alessandro Anav](mailto:alessandro.anav@enea.it) - [Gianmaria Sannino](mailto:gianmaria.sannino@enea.it) |
+| [GUF](http://www.iau.uni-frankfurt.de/) | [Bodo Ahrens](mailto:bodo.ahrens@iau.uni-frankfurt.de) |
+| [ICTP](http://www.ictp.it/) | [Erika Coppola](mailto:coppolae@ictp.it) |
+| [IMS](http://ims.gov.il/en) | [Pavel Khain](mailto:pavelkh_il@yahoo.com) head of NWP team - [Leenes Uzan](mailto:uzanl@ims.gov.il) - [Elyakom Vadislavsky](mailto:vadislavskye@ims.gov.il) |
+| [IPSL](http://www.latmos.ipsl.fr/) | [Jan Polcher](mailto:jan.polcher@lmd.ipsl.fr) - [Romain Pennel](mailto:romain.pennel@lmd.ipsl.fr) |
+| [ITU](http://www.itu.edu.tr/) | [Baris Onol](mailto:onolba@itu.edu.tr) |
+| [JRC](https://ec.europa.eu/jrc/en) | [Diego Macias-Moy](mailto:Diego.MACIAS-MOY@ec.europa.eu) |
+| [LMD](http://www.lmd.jussieu.fr/) | [Laurent Li](mailto:laurent.li@lmd.ipsl.fr) |
+| [OGS](http://www.ogs.it/) | [Marco reale](mailto:mreale@ogs.it) |
+| [UCLM](http://www.uclm.es/) | [Miguel Gaertner](mailto:miguel.gaertner@uclm.es) |
+| [Univ of Belgrade](http://www.ff.bg.ac.rs/) | [Vladimir Djurdjevic](mailto:vdj@ff.bg.ac.rs) |
