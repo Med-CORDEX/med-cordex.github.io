@@ -84,20 +84,20 @@ The registered modelling groups were:
 
 | Institution | Contact Point |
 |-------------|--------------|
-| ![Germany](/web/20240816034834im_/https://www.medcordex.eu/FLAGS/40pct/Germany.png) [AWI](https://web.archive.org/web/20240816034834/https://www.awi.de/en.html) - [GERICS](https://web.archive.org/web/20240816034834/http://www.climate-service-center.de/index.php.en) | [William Cabos](mailto:william.cabos@uah.es), [Dmitry Sein](mailto:dmitry.sein@awi.de) |
-| ![Spain](/web/20240816034834im_/https://www.medcordex.eu/FLAGS/40pct/Spain.png) [BSC](https://web.archive.org/web/20240816034834/http://www.bsc.es/) | [Maria Gonçalves Ageitos](mailto:mariag@bsc.es) |
-| ![Italy](/web/20240816034834im_/https://www.medcordex.eu/FLAGS/40pct/Italy.png) [CMCC](https://web.archive.org/web/20240816034834/http://www.cmcc.it/) - [Univ Salento](https://web.archive.org/web/20240816034834/https://www.unisalento.it/) | [Dario Conte](mailto:dario.conte@cmcc.it), [Piero Lionello](mailto:piero.lionello@unisalento.it) |
-| ![France](/web/20240816034834im_/https://www.medcordex.eu/FLAGS/40pct/France.png) [CNRM](https://web.archive.org/web/20240816034834/http://www.cnrm-game.fr/?lang=en) | [Samuel Somot](mailto:samuel.somot@meteo.fr) |
-| ![Italy](/web/20240816034834im_/https://www.medcordex.eu/FLAGS/40pct/Italy.png) [ENEA](https://web.archive.org/web/20240816034834/http://www.enea.it/) | [Alessandro Anav](mailto:alessandro.anav@enea.it), [Gianmaria Sannino](mailto:gianmaria.sannino@enea.it) |
-| ![France](/web/20240816034834im_/https://www.medcordex.eu/FLAGS/40pct/France.png) [ENSTA](https://web.archive.org/web/20240816034834/http://www.ensta-paristech.fr/) | [Thomas Arsouze](mailto:thomas.arsouze@ensta-paristech.fr) |
-| ![Hungary](/web/20240816034834im_/https://www.medcordex.eu/FLAGS/40pct/Hungary.png) [Eotvos Lorand U](https://web.archive.org/web/20240816034834/http://www.elte.hu/) | [Judit Bartholy](mailto:bari@ludens.elte.hu) |
-| ![Germany](/web/20240816034834im_/https://www.medcordex.eu/FLAGS/40pct/Germany.png) [GUF](https://web.archive.org/web/20240816034834/http://www.iau.uni-frankfurt.de/) | [Bodo Ahrens](mailto:bodo.ahrens@iau.uni-frankfurt.de) |
-| ![Italy](/web/20240816034834im_/https://www.medcordex.eu/FLAGS/40pct/Italy.png) [ICTP](https://web.archive.org/web/20240816034834/http://www.ictp.it/) | [Erika Coppola](mailto:coppolae@ictp.it) |
-| ![Israel](/web/20240816034834im_/https://www.medcordex.eu/FLAGS/40pct/Israel.png) [IMS](https://web.archive.org/web/20240816034834/http://ims.gov.il/en) | [Pavel Khain](mailto:pavelkh_il@yahoo.com) |
-| ![France](/web/20240816034834im_/https://www.medcordex.eu/FLAGS/40pct/France.png) [IPSL](https://web.archive.org/web/20240816034834/http://www.latmos.ipsl.fr/) | [Sophie Bastin](mailto:sophie.bastin@latmos.ipsl.fr) |
-| ![Turkey](/web/20240816034834im_/https://www.medcordex.eu/FLAGS/40pct/Turkey.png) [ITU](https://web.archive.org/web/20240816034834/http://www.itu.edu.tr/) | [Baris Onol](mailto:onolba@itu.edu.tr) |
-| ![Europa](/web/20240816034834im_/https://www.medcordex.eu/FLAGS/40pct/Europa.png) [JRC](https://web.archive.org/web/20240816034834/https://ec.europa.eu/jrc/en) | [Diego Macias-Moy](mailto:Diego.MACIAS-MOY@ec.europa.eu) |
-| ![France](/web/20240816034834im_/https://www.medcordex.eu/FLAGS/40pct/France.png) [LMD](https://web.archive.org/web/20240816034834/http://www.lmd.jussieu.fr/) | [Laurent Li](mailto:laurent.li@lmd.ipsl.fr) |
+| ![Germany](https://www.medcordex.eu/FLAGS/40pct/Germany.png) [AWI](https://web.archive.org/web/20240816034834/https://www.awi.de/en.html) - [GERICS](https://web.archive.org/web/20240816034834/http://www.climate-service-center.de/index.php.en) | [William Cabos](mailto:william.cabos@uah.es), [Dmitry Sein](mailto:dmitry.sein@awi.de) |
+| ![Spain](https://www.medcordex.eu/FLAGS/40pct/Spain.png) [BSC](https://web.archive.org/web/20240816034834/http://www.bsc.es/) | [Maria Gonçalves Ageitos](mailto:mariag@bsc.es) |
+| ![Italy](https://www.medcordex.eu/FLAGS/40pct/Italy.png) [CMCC](https://web.archive.org/web/20240816034834/http://www.cmcc.it/) - [Univ Salento](https://web.archive.org/web/20240816034834/https://www.unisalento.it/) | [Dario Conte](mailto:dario.conte@cmcc.it), [Piero Lionello](mailto:piero.lionello@unisalento.it) |
+| ![France](https://www.medcordex.eu/FLAGS/40pct/France.png) [CNRM](https://web.archive.org/web/20240816034834/http://www.cnrm-game.fr/?lang=en) | [Samuel Somot](mailto:samuel.somot@meteo.fr) |
+| ![Italy](https://www.medcordex.eu/FLAGS/40pct/Italy.png) [ENEA](https://web.archive.org/web/20240816034834/http://www.enea.it/) | [Alessandro Anav](mailto:alessandro.anav@enea.it), [Gianmaria Sannino](mailto:gianmaria.sannino@enea.it) |
+| ![France](https://www.medcordex.eu/FLAGS/40pct/France.png) [ENSTA](https://web.archive.org/web/20240816034834/http://www.ensta-paristech.fr/) | [Thomas Arsouze](mailto:thomas.arsouze@ensta-paristech.fr) |
+| ![Hungary](https://www.medcordex.eu/FLAGS/40pct/Hungary.png) [Eotvos Lorand U](https://web.archive.org/web/20240816034834/http://www.elte.hu/) | [Judit Bartholy](mailto:bari@ludens.elte.hu) |
+| ![Germany](https://www.medcordex.eu/FLAGS/40pct/Germany.png) [GUF](https://web.archive.org/web/20240816034834/http://www.iau.uni-frankfurt.de/) | [Bodo Ahrens](mailto:bodo.ahrens@iau.uni-frankfurt.de) |
+| ![Italy](https://www.medcordex.eu/FLAGS/40pct/Italy.png) [ICTP](https://web.archive.org/web/20240816034834/http://www.ictp.it/) | [Erika Coppola](mailto:coppolae@ictp.it) |
+| ![Israel](https://www.medcordex.eu/FLAGS/40pct/Israel.png) [IMS](https://web.archive.org/web/20240816034834/http://ims.gov.il/en) | [Pavel Khain](mailto:pavelkh_il@yahoo.com) |
+| ![France](https://www.medcordex.eu/FLAGS/40pct/France.png) [IPSL](https://web.archive.org/web/20240816034834/http://www.latmos.ipsl.fr/) | [Sophie Bastin](mailto:sophie.bastin@latmos.ipsl.fr) |
+| ![Turkey](https://www.medcordex.eu/FLAGS/40pct/Turkey.png) [ITU](https://web.archive.org/web/20240816034834/http://www.itu.edu.tr/) | [Baris Onol](mailto:onolba@itu.edu.tr) |
+| ![Europa](https://www.medcordex.eu/FLAGS/40pct/Europa.png) [JRC](https://web.archive.org/web/20240816034834/https://ec.europa.eu/jrc/en) | [Diego Macias-Moy](mailto:Diego.MACIAS-MOY@ec.europa.eu) |
+| ![France](https://www.medcordex.eu/FLAGS/40pct/France.png) [LMD](https://web.archive.org/web/20240816034834/http://www.lmd.jussieu.fr/) | [Laurent Li](mailto:laurent.li@lmd.ipsl.fr) |
 
 ## Participating models
 
