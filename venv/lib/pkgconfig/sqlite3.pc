@@ -1,0 +1,13 @@
+# Package Information for pkg-config
+
+prefix=/workspaces/med-cordex.github.io/venv
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+includedir=${prefix}/include
+
+Name: SQLite
+Description: SQL database engine
+Version: 3.52.0
+Libs: -L${libdir} -lsqlite3
+Libs.private: -lm -lz -ldl -lpthread -L/workspaces/med-cordex.github.io/venv/lib -licui18n -licuuc -licudata
+Cflags: -I${includedir}

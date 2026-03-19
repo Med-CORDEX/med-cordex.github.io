@@ -1,0 +1,3382 @@
+{
+  "name": "dateparser",
+  "version": "1.3.0",
+  "build": "pyhd8ed1ab_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/conda-forge/noarch",
+  "subdir": "noarch",
+  "fn": "dateparser-1.3.0-pyhd8ed1ab_0.conda",
+  "md5": "c6b52555e1c8976713d1bc46d18bb52c",
+  "url": "https://conda.anaconda.org/conda-forge/noarch/dateparser-1.3.0-pyhd8ed1ab_0.conda",
+  "sha256": "b63361ea4bf1f960ebd562f719e8970491b30bb2c9101c216240a03b01081c8d",
+  "depends": [
+    "python >=3.10",
+    "python-dateutil >=2.7.0",
+    "pytz >=2024.2",
+    "regex >=2024.9.11",
+    "tzlocal >=0.2"
+  ],
+  "constrains": [],
+  "noarch": "python",
+  "license": "BSD-3-Clause",
+  "package_type": "noarch_python",
+  "timestamp": 1770239654000,
+  "size": 190866,
+  "requested_spec": "dateparser",
+  "package_tarball_full_path": "/opt/conda/pkgs/dateparser-1.3.0-pyhd8ed1ab_0.conda",
+  "extracted_package_dir": "/opt/conda/pkgs/dateparser-1.3.0-pyhd8ed1ab_0",
+  "files": [
+    "lib/python3.14/site-packages/dateparser-1.3.0.dist-info/INSTALLER",
+    "lib/python3.14/site-packages/dateparser-1.3.0.dist-info/METADATA",
+    "lib/python3.14/site-packages/dateparser-1.3.0.dist-info/RECORD",
+    "lib/python3.14/site-packages/dateparser-1.3.0.dist-info/REQUESTED",
+    "lib/python3.14/site-packages/dateparser-1.3.0.dist-info/WHEEL",
+    "lib/python3.14/site-packages/dateparser-1.3.0.dist-info/direct_url.json",
+    "lib/python3.14/site-packages/dateparser-1.3.0.dist-info/entry_points.txt",
+    "lib/python3.14/site-packages/dateparser-1.3.0.dist-info/licenses/AUTHORS.rst",
+    "lib/python3.14/site-packages/dateparser-1.3.0.dist-info/licenses/LICENSE",
+    "lib/python3.14/site-packages/dateparser-1.3.0.dist-info/top_level.txt",
+    "lib/python3.14/site-packages/dateparser/__init__.py",
+    "lib/python3.14/site-packages/dateparser/calendars/__init__.py",
+    "lib/python3.14/site-packages/dateparser/calendars/hijri.py",
+    "lib/python3.14/site-packages/dateparser/calendars/hijri_parser.py",
+    "lib/python3.14/site-packages/dateparser/calendars/jalali.py",
+    "lib/python3.14/site-packages/dateparser/calendars/jalali_parser.py",
+    "lib/python3.14/site-packages/dateparser/conf.py",
+    "lib/python3.14/site-packages/dateparser/custom_language_detection/__init__.py",
+    "lib/python3.14/site-packages/dateparser/custom_language_detection/fasttext.py",
+    "lib/python3.14/site-packages/dateparser/custom_language_detection/langdetect.py",
+    "lib/python3.14/site-packages/dateparser/custom_language_detection/language_mapping.py",
+    "lib/python3.14/site-packages/dateparser/data/__init__.py",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/__init__.py",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/af.py",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/agq.py",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/ak.py",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/am.py",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/ar.py",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/as.py",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/asa.py",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/ast.py",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/az-Cyrl.py",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/az-Latn.py",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/az.py",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/bas.py",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/be.py",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/bem.py",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/bez.py",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/bg.py",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/bm.py",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/bn.py",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/bo.py",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/br.py",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/brx.py",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/bs-Cyrl.py",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/bs-Latn.py",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/bs.py",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/ca.py",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/ce.py",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/cgg.py",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/chr.py",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/ckb.py",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/cs.py",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/cy.py",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/da.py",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/dav.py",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/de.py",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/dje.py",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/dsb.py",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/dua.py",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/dyo.py",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/dz.py",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/ebu.py",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/ee.py",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/el.py",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/en.py",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/eo.py",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/es.py",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/et.py",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/eu.py",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/ewo.py",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/fa.py",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/ff.py",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/fi.py",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/fil.py",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/fo.py",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/fr.py",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/fur.py",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/fy.py",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/ga.py",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/gd.py",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/gl.py",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/gsw.py",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/gu.py",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/guz.py",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/gv.py",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/ha.py",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/haw.py",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/he.py",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/hi.py",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/hr.py",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/hsb.py",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/hu.py",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/hy.py",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/id.py",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/ig.py",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/ii.py",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/is.py",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/it.py",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/ja.py",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/jgo.py",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/jmc.py",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/ka.py",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/kab.py",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/kam.py",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/kde.py",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/kea.py",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/khq.py",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/ki.py",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/kk.py",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/kl.py",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/kln.py",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/km.py",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/kn.py",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/ko.py",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/kok.py",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/ks.py",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/ksb.py",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/ksf.py",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/ksh.py",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/kw.py",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/ky.py",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/lag.py",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/lb.py",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/lg.py",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/lkt.py",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/ln.py",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/lo.py",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/lrc.py",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/lt.py",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/lu.py",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/luo.py",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/luy.py",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/lv.py",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/mas.py",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/mer.py",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/mfe.py",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/mg.py",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/mgh.py",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/mgo.py",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/mk.py",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/ml.py",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/mn.py",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/mr.py",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/ms.py",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/mt.py",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/mua.py",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/my.py",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/mzn.py",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/naq.py",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/nb.py",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/nd.py",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/ne.py",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/nl.py",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/nmg.py",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/nn.py",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/nnh.py",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/nus.py",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/nyn.py",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/om.py",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/or.py",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/os.py",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/pa-Arab.py",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/pa-Guru.py",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/pa.py",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/pl.py",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/ps.py",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/pt.py",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/qu.py",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/rm.py",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/rn.py",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/ro.py",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/rof.py",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/ru.py",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/rw.py",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/rwk.py",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/sah.py",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/saq.py",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/sbp.py",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/se.py",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/seh.py",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/ses.py",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/sg.py",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/shi-Latn.py",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/shi-Tfng.py",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/shi.py",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/si.py",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/sk.py",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/sl.py",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/smn.py",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/sn.py",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/so.py",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/sq.py",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/sr-Cyrl.py",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/sr-Latn.py",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/sr.py",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/sv.py",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/sw.py",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/ta.py",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/te.py",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/teo.py",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/th.py",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/ti.py",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/tl.py",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/to.py",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/tr.py",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/twq.py",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/tzm.py",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/ug.py",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/uk.py",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/ur.py",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/uz-Arab.py",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/uz-Cyrl.py",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/uz-Latn.py",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/uz.py",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/vi.py",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/vun.py",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/wae.py",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/xog.py",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/yav.py",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/yi.py",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/yo.py",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/yue.py",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/zgh.py",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/zh-Hans.py",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/zh-Hant.py",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/zh.py",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/zu.py",
+    "lib/python3.14/site-packages/dateparser/data/dateparser_tz_cache.pkl",
+    "lib/python3.14/site-packages/dateparser/data/languages_info.py",
+    "lib/python3.14/site-packages/dateparser/date.py",
+    "lib/python3.14/site-packages/dateparser/date_parser.py",
+    "lib/python3.14/site-packages/dateparser/freshness_date_parser.py",
+    "lib/python3.14/site-packages/dateparser/languages/__init__.py",
+    "lib/python3.14/site-packages/dateparser/languages/dictionary.py",
+    "lib/python3.14/site-packages/dateparser/languages/loader.py",
+    "lib/python3.14/site-packages/dateparser/languages/locale.py",
+    "lib/python3.14/site-packages/dateparser/languages/validation.py",
+    "lib/python3.14/site-packages/dateparser/parser.py",
+    "lib/python3.14/site-packages/dateparser/search/__init__.py",
+    "lib/python3.14/site-packages/dateparser/search/detection.py",
+    "lib/python3.14/site-packages/dateparser/search/search.py",
+    "lib/python3.14/site-packages/dateparser/search/text_detection.py",
+    "lib/python3.14/site-packages/dateparser/timezone_parser.py",
+    "lib/python3.14/site-packages/dateparser/timezones.py",
+    "lib/python3.14/site-packages/dateparser/utils/__init__.py",
+    "lib/python3.14/site-packages/dateparser/utils/strptime.py",
+    "lib/python3.14/site-packages/dateparser/utils/time_spans.py",
+    "lib/python3.14/site-packages/dateparser_cli/__init__.py",
+    "lib/python3.14/site-packages/dateparser_cli/cli.py",
+    "lib/python3.14/site-packages/dateparser_cli/exceptions.py",
+    "lib/python3.14/site-packages/dateparser_cli/fasttext_manager.py",
+    "lib/python3.14/site-packages/dateparser_cli/utils.py",
+    "lib/python3.14/site-packages/dateparser_data/__init__.py",
+    "lib/python3.14/site-packages/dateparser_data/settings.py",
+    "lib/python3.14/site-packages/dateparser_scripts/__init__.py",
+    "lib/python3.14/site-packages/dateparser_scripts/get_cldr_data.py",
+    "lib/python3.14/site-packages/dateparser_scripts/order_languages.py",
+    "lib/python3.14/site-packages/dateparser_scripts/update_supported_languages_and_locales.py",
+    "lib/python3.14/site-packages/dateparser_scripts/utils.py",
+    "lib/python3.14/site-packages/dateparser_scripts/write_complete_data.py",
+    "lib/python3.14/site-packages/dateparser/__pycache__/__init__.cpython-314.pyc",
+    "lib/python3.14/site-packages/dateparser/calendars/__pycache__/__init__.cpython-314.pyc",
+    "lib/python3.14/site-packages/dateparser/calendars/__pycache__/hijri.cpython-314.pyc",
+    "lib/python3.14/site-packages/dateparser/calendars/__pycache__/hijri_parser.cpython-314.pyc",
+    "lib/python3.14/site-packages/dateparser/calendars/__pycache__/jalali.cpython-314.pyc",
+    "lib/python3.14/site-packages/dateparser/calendars/__pycache__/jalali_parser.cpython-314.pyc",
+    "lib/python3.14/site-packages/dateparser/__pycache__/conf.cpython-314.pyc",
+    "lib/python3.14/site-packages/dateparser/custom_language_detection/__pycache__/__init__.cpython-314.pyc",
+    "lib/python3.14/site-packages/dateparser/custom_language_detection/__pycache__/fasttext.cpython-314.pyc",
+    "lib/python3.14/site-packages/dateparser/custom_language_detection/__pycache__/langdetect.cpython-314.pyc",
+    "lib/python3.14/site-packages/dateparser/custom_language_detection/__pycache__/language_mapping.cpython-314.pyc",
+    "lib/python3.14/site-packages/dateparser/data/__pycache__/__init__.cpython-314.pyc",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/__init__.cpython-314.pyc",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/af.cpython-314.pyc",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/agq.cpython-314.pyc",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/ak.cpython-314.pyc",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/am.cpython-314.pyc",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/ar.cpython-314.pyc",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/as.cpython-314.pyc",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/asa.cpython-314.pyc",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/ast.cpython-314.pyc",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/az-Cyrl.cpython-314.pyc",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/az-Latn.cpython-314.pyc",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/az.cpython-314.pyc",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/bas.cpython-314.pyc",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/be.cpython-314.pyc",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/bem.cpython-314.pyc",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/bez.cpython-314.pyc",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/bg.cpython-314.pyc",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/bm.cpython-314.pyc",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/bn.cpython-314.pyc",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/bo.cpython-314.pyc",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/br.cpython-314.pyc",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/brx.cpython-314.pyc",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/bs-Cyrl.cpython-314.pyc",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/bs-Latn.cpython-314.pyc",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/bs.cpython-314.pyc",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/ca.cpython-314.pyc",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/ce.cpython-314.pyc",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/cgg.cpython-314.pyc",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/chr.cpython-314.pyc",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/ckb.cpython-314.pyc",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/cs.cpython-314.pyc",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/cy.cpython-314.pyc",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/da.cpython-314.pyc",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/dav.cpython-314.pyc",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/de.cpython-314.pyc",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/dje.cpython-314.pyc",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/dsb.cpython-314.pyc",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/dua.cpython-314.pyc",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/dyo.cpython-314.pyc",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/dz.cpython-314.pyc",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/ebu.cpython-314.pyc",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/ee.cpython-314.pyc",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/el.cpython-314.pyc",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/en.cpython-314.pyc",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/eo.cpython-314.pyc",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/es.cpython-314.pyc",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/et.cpython-314.pyc",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/eu.cpython-314.pyc",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/ewo.cpython-314.pyc",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/fa.cpython-314.pyc",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/ff.cpython-314.pyc",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/fi.cpython-314.pyc",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/fil.cpython-314.pyc",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/fo.cpython-314.pyc",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/fr.cpython-314.pyc",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/fur.cpython-314.pyc",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/fy.cpython-314.pyc",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/ga.cpython-314.pyc",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/gd.cpython-314.pyc",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/gl.cpython-314.pyc",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/gsw.cpython-314.pyc",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/gu.cpython-314.pyc",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/guz.cpython-314.pyc",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/gv.cpython-314.pyc",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/ha.cpython-314.pyc",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/haw.cpython-314.pyc",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/he.cpython-314.pyc",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/hi.cpython-314.pyc",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/hr.cpython-314.pyc",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/hsb.cpython-314.pyc",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/hu.cpython-314.pyc",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/hy.cpython-314.pyc",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/id.cpython-314.pyc",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/ig.cpython-314.pyc",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/ii.cpython-314.pyc",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/is.cpython-314.pyc",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/it.cpython-314.pyc",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/ja.cpython-314.pyc",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/jgo.cpython-314.pyc",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/jmc.cpython-314.pyc",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/ka.cpython-314.pyc",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/kab.cpython-314.pyc",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/kam.cpython-314.pyc",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/kde.cpython-314.pyc",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/kea.cpython-314.pyc",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/khq.cpython-314.pyc",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/ki.cpython-314.pyc",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/kk.cpython-314.pyc",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/kl.cpython-314.pyc",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/kln.cpython-314.pyc",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/km.cpython-314.pyc",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/kn.cpython-314.pyc",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/ko.cpython-314.pyc",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/kok.cpython-314.pyc",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/ks.cpython-314.pyc",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/ksb.cpython-314.pyc",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/ksf.cpython-314.pyc",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/ksh.cpython-314.pyc",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/kw.cpython-314.pyc",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/ky.cpython-314.pyc",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/lag.cpython-314.pyc",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/lb.cpython-314.pyc",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/lg.cpython-314.pyc",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/lkt.cpython-314.pyc",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/ln.cpython-314.pyc",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/lo.cpython-314.pyc",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/lrc.cpython-314.pyc",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/lt.cpython-314.pyc",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/lu.cpython-314.pyc",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/luo.cpython-314.pyc",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/luy.cpython-314.pyc",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/lv.cpython-314.pyc",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/mas.cpython-314.pyc",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/mer.cpython-314.pyc",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/mfe.cpython-314.pyc",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/mg.cpython-314.pyc",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/mgh.cpython-314.pyc",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/mgo.cpython-314.pyc",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/mk.cpython-314.pyc",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/ml.cpython-314.pyc",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/mn.cpython-314.pyc",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/mr.cpython-314.pyc",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/ms.cpython-314.pyc",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/mt.cpython-314.pyc",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/mua.cpython-314.pyc",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/my.cpython-314.pyc",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/mzn.cpython-314.pyc",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/naq.cpython-314.pyc",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/nb.cpython-314.pyc",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/nd.cpython-314.pyc",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/ne.cpython-314.pyc",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/nl.cpython-314.pyc",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/nmg.cpython-314.pyc",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/nn.cpython-314.pyc",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/nnh.cpython-314.pyc",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/nus.cpython-314.pyc",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/nyn.cpython-314.pyc",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/om.cpython-314.pyc",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/or.cpython-314.pyc",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/os.cpython-314.pyc",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/pa-Arab.cpython-314.pyc",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/pa-Guru.cpython-314.pyc",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/pa.cpython-314.pyc",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/pl.cpython-314.pyc",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/ps.cpython-314.pyc",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/pt.cpython-314.pyc",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/qu.cpython-314.pyc",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/rm.cpython-314.pyc",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/rn.cpython-314.pyc",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/ro.cpython-314.pyc",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/rof.cpython-314.pyc",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/ru.cpython-314.pyc",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/rw.cpython-314.pyc",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/rwk.cpython-314.pyc",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/sah.cpython-314.pyc",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/saq.cpython-314.pyc",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/sbp.cpython-314.pyc",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/se.cpython-314.pyc",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/seh.cpython-314.pyc",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/ses.cpython-314.pyc",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/sg.cpython-314.pyc",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/shi-Latn.cpython-314.pyc",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/shi-Tfng.cpython-314.pyc",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/shi.cpython-314.pyc",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/si.cpython-314.pyc",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/sk.cpython-314.pyc",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/sl.cpython-314.pyc",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/smn.cpython-314.pyc",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/sn.cpython-314.pyc",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/so.cpython-314.pyc",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/sq.cpython-314.pyc",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/sr-Cyrl.cpython-314.pyc",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/sr-Latn.cpython-314.pyc",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/sr.cpython-314.pyc",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/sv.cpython-314.pyc",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/sw.cpython-314.pyc",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/ta.cpython-314.pyc",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/te.cpython-314.pyc",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/teo.cpython-314.pyc",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/th.cpython-314.pyc",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/ti.cpython-314.pyc",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/tl.cpython-314.pyc",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/to.cpython-314.pyc",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/tr.cpython-314.pyc",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/twq.cpython-314.pyc",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/tzm.cpython-314.pyc",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/ug.cpython-314.pyc",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/uk.cpython-314.pyc",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/ur.cpython-314.pyc",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/uz-Arab.cpython-314.pyc",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/uz-Cyrl.cpython-314.pyc",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/uz-Latn.cpython-314.pyc",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/uz.cpython-314.pyc",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/vi.cpython-314.pyc",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/vun.cpython-314.pyc",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/wae.cpython-314.pyc",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/xog.cpython-314.pyc",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/yav.cpython-314.pyc",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/yi.cpython-314.pyc",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/yo.cpython-314.pyc",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/yue.cpython-314.pyc",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/zgh.cpython-314.pyc",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/zh-Hans.cpython-314.pyc",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/zh-Hant.cpython-314.pyc",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/zh.cpython-314.pyc",
+    "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/zu.cpython-314.pyc",
+    "lib/python3.14/site-packages/dateparser/data/__pycache__/languages_info.cpython-314.pyc",
+    "lib/python3.14/site-packages/dateparser/__pycache__/date.cpython-314.pyc",
+    "lib/python3.14/site-packages/dateparser/__pycache__/date_parser.cpython-314.pyc",
+    "lib/python3.14/site-packages/dateparser/__pycache__/freshness_date_parser.cpython-314.pyc",
+    "lib/python3.14/site-packages/dateparser/languages/__pycache__/__init__.cpython-314.pyc",
+    "lib/python3.14/site-packages/dateparser/languages/__pycache__/dictionary.cpython-314.pyc",
+    "lib/python3.14/site-packages/dateparser/languages/__pycache__/loader.cpython-314.pyc",
+    "lib/python3.14/site-packages/dateparser/languages/__pycache__/locale.cpython-314.pyc",
+    "lib/python3.14/site-packages/dateparser/languages/__pycache__/validation.cpython-314.pyc",
+    "lib/python3.14/site-packages/dateparser/__pycache__/parser.cpython-314.pyc",
+    "lib/python3.14/site-packages/dateparser/search/__pycache__/__init__.cpython-314.pyc",
+    "lib/python3.14/site-packages/dateparser/search/__pycache__/detection.cpython-314.pyc",
+    "lib/python3.14/site-packages/dateparser/search/__pycache__/search.cpython-314.pyc",
+    "lib/python3.14/site-packages/dateparser/search/__pycache__/text_detection.cpython-314.pyc",
+    "lib/python3.14/site-packages/dateparser/__pycache__/timezone_parser.cpython-314.pyc",
+    "lib/python3.14/site-packages/dateparser/__pycache__/timezones.cpython-314.pyc",
+    "lib/python3.14/site-packages/dateparser/utils/__pycache__/__init__.cpython-314.pyc",
+    "lib/python3.14/site-packages/dateparser/utils/__pycache__/strptime.cpython-314.pyc",
+    "lib/python3.14/site-packages/dateparser/utils/__pycache__/time_spans.cpython-314.pyc",
+    "lib/python3.14/site-packages/dateparser_cli/__pycache__/__init__.cpython-314.pyc",
+    "lib/python3.14/site-packages/dateparser_cli/__pycache__/cli.cpython-314.pyc",
+    "lib/python3.14/site-packages/dateparser_cli/__pycache__/exceptions.cpython-314.pyc",
+    "lib/python3.14/site-packages/dateparser_cli/__pycache__/fasttext_manager.cpython-314.pyc",
+    "lib/python3.14/site-packages/dateparser_cli/__pycache__/utils.cpython-314.pyc",
+    "lib/python3.14/site-packages/dateparser_data/__pycache__/__init__.cpython-314.pyc",
+    "lib/python3.14/site-packages/dateparser_data/__pycache__/settings.cpython-314.pyc",
+    "lib/python3.14/site-packages/dateparser_scripts/__pycache__/__init__.cpython-314.pyc",
+    "lib/python3.14/site-packages/dateparser_scripts/__pycache__/get_cldr_data.cpython-314.pyc",
+    "lib/python3.14/site-packages/dateparser_scripts/__pycache__/order_languages.cpython-314.pyc",
+    "lib/python3.14/site-packages/dateparser_scripts/__pycache__/update_supported_languages_and_locales.cpython-314.pyc",
+    "lib/python3.14/site-packages/dateparser_scripts/__pycache__/utils.cpython-314.pyc",
+    "lib/python3.14/site-packages/dateparser_scripts/__pycache__/write_complete_data.cpython-314.pyc",
+    "bin/dateparser-download"
+  ],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": [
+      {
+        "_path": "site-packages/dateparser-1.3.0.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5,
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8"
+      },
+      {
+        "_path": "site-packages/dateparser-1.3.0.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "eca6b0025bc7f2b6eb6e5a222187c97ebf0f436944bf05280e33e768c82baa19",
+        "size_in_bytes": 30933,
+        "sha256_in_prefix": "eca6b0025bc7f2b6eb6e5a222187c97ebf0f436944bf05280e33e768c82baa19"
+      },
+      {
+        "_path": "site-packages/dateparser-1.3.0.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "2908d4c0bacea3e4d78d1f66077e5d07a1d4bad3be4136270c1b62bec192e26a",
+        "size_in_bytes": 43648,
+        "sha256_in_prefix": "2908d4c0bacea3e4d78d1f66077e5d07a1d4bad3be4136270c1b62bec192e26a"
+      },
+      {
+        "_path": "site-packages/dateparser-1.3.0.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0,
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      {
+        "_path": "site-packages/dateparser-1.3.0.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "c14c80f0e6ae95195b7f032d990b2f367806af140702f90a72f466762ce5262d",
+        "size_in_bytes": 92,
+        "sha256_in_prefix": "c14c80f0e6ae95195b7f032d990b2f367806af140702f90a72f466762ce5262d"
+      },
+      {
+        "_path": "site-packages/dateparser-1.3.0.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "e3b16a40f2be90ca1b676ef8676439678d7cb360137fadcff44c280294bf6263",
+        "size_in_bytes": 106,
+        "sha256_in_prefix": "e3b16a40f2be90ca1b676ef8676439678d7cb360137fadcff44c280294bf6263"
+      },
+      {
+        "_path": "site-packages/dateparser-1.3.0.dist-info/entry_points.txt",
+        "path_type": "hardlink",
+        "sha256": "40fc1cf243a36da6b125dc905e28b1f6c19b5230bf1bf19ae4b809ff5d4a280b",
+        "size_in_bytes": 68,
+        "sha256_in_prefix": "40fc1cf243a36da6b125dc905e28b1f6c19b5230bf1bf19ae4b809ff5d4a280b"
+      },
+      {
+        "_path": "site-packages/dateparser-1.3.0.dist-info/licenses/AUTHORS.rst",
+        "path_type": "hardlink",
+        "sha256": "c7261e4f6006295aec1d8c683b180313c5e648aed536d24da85cf0db924b1368",
+        "size_in_bytes": 711,
+        "sha256_in_prefix": "c7261e4f6006295aec1d8c683b180313c5e648aed536d24da85cf0db924b1368"
+      },
+      {
+        "_path": "site-packages/dateparser-1.3.0.dist-info/licenses/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "b75db655bb7a42a8e8561d0db873158bb9dab9d468af244000f02d7dd83e97f4",
+        "size_in_bytes": 1468,
+        "sha256_in_prefix": "b75db655bb7a42a8e8561d0db873158bb9dab9d468af244000f02d7dd83e97f4"
+      },
+      {
+        "_path": "site-packages/dateparser-1.3.0.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "2ee8d5048282ebdb6fc2cd57920c8e1510e310477e1354a3022ad8ae111baa7f",
+        "size_in_bytes": 61,
+        "sha256_in_prefix": "2ee8d5048282ebdb6fc2cd57920c8e1510e310477e1354a3022ad8ae111baa7f"
+      },
+      {
+        "_path": "site-packages/dateparser/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "13ddea4e1516333534bbf1d46339fa2c8b9e11828efca9aa19b5f6ec3df1cffb",
+        "size_in_bytes": 2739,
+        "sha256_in_prefix": "13ddea4e1516333534bbf1d46339fa2c8b9e11828efca9aa19b5f6ec3df1cffb"
+      },
+      {
+        "_path": "site-packages/dateparser/calendars/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "19ff6a2e5f716c21619ae5adb9a924687cbfbd2b8e2cea28d64af7df12469086",
+        "size_in_bytes": 4323,
+        "sha256_in_prefix": "19ff6a2e5f716c21619ae5adb9a924687cbfbd2b8e2cea28d64af7df12469086"
+      },
+      {
+        "_path": "site-packages/dateparser/calendars/hijri.py",
+        "path_type": "hardlink",
+        "sha256": "27d2141ecd7ad94b25438af938f22bf818268b2637ff8923ff3d70388941e7b1",
+        "size_in_bytes": 168,
+        "sha256_in_prefix": "27d2141ecd7ad94b25438af938f22bf818268b2637ff8923ff3d70388941e7b1"
+      },
+      {
+        "_path": "site-packages/dateparser/calendars/hijri_parser.py",
+        "path_type": "hardlink",
+        "sha256": "dc2f10ac7cb81c3cb957f7f7f630588b8ab03e8a0af156eab713c535b422484d",
+        "size_in_bytes": 1613,
+        "sha256_in_prefix": "dc2f10ac7cb81c3cb957f7f7f630588b8ab03e8a0af156eab713c535b422484d"
+      },
+      {
+        "_path": "site-packages/dateparser/calendars/jalali.py",
+        "path_type": "hardlink",
+        "sha256": "5854726bf54af35a34f940b8c3c336fa93c06ea67050aa2fecb46ec9b46f87d1",
+        "size_in_bytes": 201,
+        "sha256_in_prefix": "5854726bf54af35a34f940b8c3c336fa93c06ea67050aa2fecb46ec9b46f87d1"
+      },
+      {
+        "_path": "site-packages/dateparser/calendars/jalali_parser.py",
+        "path_type": "hardlink",
+        "sha256": "09119521b23c6cdcd7fa413da7e15b90ac7b36b920103079f937c7c9ce5f2109",
+        "size_in_bytes": 5511,
+        "sha256_in_prefix": "09119521b23c6cdcd7fa413da7e15b90ac7b36b920103079f937c7c9ce5f2109"
+      },
+      {
+        "_path": "site-packages/dateparser/conf.py",
+        "path_type": "hardlink",
+        "sha256": "6e92627a02009c13d7a0f86d11ee4637655fe978168aac89efa58f6062ff0c2b",
+        "size_in_bytes": 8782,
+        "sha256_in_prefix": "6e92627a02009c13d7a0f86d11ee4637655fe978168aac89efa58f6062ff0c2b"
+      },
+      {
+        "_path": "site-packages/dateparser/custom_language_detection/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0,
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      {
+        "_path": "site-packages/dateparser/custom_language_detection/fasttext.py",
+        "path_type": "hardlink",
+        "sha256": "bae34df0994a7144a2e69a94ae7cb03d1aeae9a1f2cea2cfdd860b79fc598a54",
+        "size_in_bytes": 1485,
+        "sha256_in_prefix": "bae34df0994a7144a2e69a94ae7cb03d1aeae9a1f2cea2cfdd860b79fc598a54"
+      },
+      {
+        "_path": "site-packages/dateparser/custom_language_detection/langdetect.py",
+        "path_type": "hardlink",
+        "sha256": "9714ab5ba6e90777f8fd8685de79f28bac664acbf0b2798198e7a51d018a79c9",
+        "size_in_bytes": 1195,
+        "sha256_in_prefix": "9714ab5ba6e90777f8fd8685de79f28bac664acbf0b2798198e7a51d018a79c9"
+      },
+      {
+        "_path": "site-packages/dateparser/custom_language_detection/language_mapping.py",
+        "path_type": "hardlink",
+        "sha256": "1de64bc3ae6086a5e68cb684f0a10e9b805979d90556b5fb76f0bf1729d75ad9",
+        "size_in_bytes": 557,
+        "sha256_in_prefix": "1de64bc3ae6086a5e68cb684f0a10e9b805979d90556b5fb76f0bf1729d75ad9"
+      },
+      {
+        "_path": "site-packages/dateparser/data/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "db43dfa5b919bfc43d2d4ea9d13e1103460dabca10ca486f59384a3e1620a7a6",
+        "size_in_bytes": 115,
+        "sha256_in_prefix": "db43dfa5b919bfc43d2d4ea9d13e1103460dabca10ca486f59384a3e1620a7a6"
+      },
+      {
+        "_path": "site-packages/dateparser/data/date_translation_data/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0,
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      {
+        "_path": "site-packages/dateparser/data/date_translation_data/af.py",
+        "path_type": "hardlink",
+        "sha256": "2d1e7245cc0e27dfd05a7e441ff8f07c0870346b677f844585d368547aa377b5",
+        "size_in_bytes": 4588,
+        "sha256_in_prefix": "2d1e7245cc0e27dfd05a7e441ff8f07c0870346b677f844585d368547aa377b5"
+      },
+      {
+        "_path": "site-packages/dateparser/data/date_translation_data/agq.py",
+        "path_type": "hardlink",
+        "sha256": "83a964414974652c6747fb45e64d4970822bc6c925bcdff787bf4087b1d8f8bd",
+        "size_in_bytes": 2809,
+        "sha256_in_prefix": "83a964414974652c6747fb45e64d4970822bc6c925bcdff787bf4087b1d8f8bd"
+      },
+      {
+        "_path": "site-packages/dateparser/data/date_translation_data/ak.py",
+        "path_type": "hardlink",
+        "sha256": "16c622c9237dcc4659cfa0f2f26d4bc1c2f609709b9531a8b0794530c8aa2225",
+        "size_in_bytes": 2682,
+        "sha256_in_prefix": "16c622c9237dcc4659cfa0f2f26d4bc1c2f609709b9531a8b0794530c8aa2225"
+      },
+      {
+        "_path": "site-packages/dateparser/data/date_translation_data/am.py",
+        "path_type": "hardlink",
+        "sha256": "d2cee740e93f997fa22720b8af186d5749b502dd912dc1b7faf1cd506c404649",
+        "size_in_bytes": 5052,
+        "sha256_in_prefix": "d2cee740e93f997fa22720b8af186d5749b502dd912dc1b7faf1cd506c404649"
+      },
+      {
+        "_path": "site-packages/dateparser/data/date_translation_data/ar.py",
+        "path_type": "hardlink",
+        "sha256": "51c77ef4d7322405ba475f87f5f6e42ee4c8708ef588c64cdd80d35ddfab46d7",
+        "size_in_bytes": 12259,
+        "sha256_in_prefix": "51c77ef4d7322405ba475f87f5f6e42ee4c8708ef588c64cdd80d35ddfab46d7"
+      },
+      {
+        "_path": "site-packages/dateparser/data/date_translation_data/as.py",
+        "path_type": "hardlink",
+        "sha256": "778e42d2210aab39d63cfc1fcaf98b9e6091b4b8a637e2d5e0093cc307b683ea",
+        "size_in_bytes": 2994,
+        "sha256_in_prefix": "778e42d2210aab39d63cfc1fcaf98b9e6091b4b8a637e2d5e0093cc307b683ea"
+      },
+      {
+        "_path": "site-packages/dateparser/data/date_translation_data/asa.py",
+        "path_type": "hardlink",
+        "sha256": "904da0911214e3daf55854b42eeec3022429d07f49350936e7221c5b73749d7c",
+        "size_in_bytes": 2553,
+        "sha256_in_prefix": "904da0911214e3daf55854b42eeec3022429d07f49350936e7221c5b73749d7c"
+      },
+      {
+        "_path": "site-packages/dateparser/data/date_translation_data/ast.py",
+        "path_type": "hardlink",
+        "sha256": "c033d5cbbe01484249bf5158fb8dcde249ca8477b72fad6be1fa1e1d7b600d74",
+        "size_in_bytes": 5699,
+        "sha256_in_prefix": "c033d5cbbe01484249bf5158fb8dcde249ca8477b72fad6be1fa1e1d7b600d74"
+      },
+      {
+        "_path": "site-packages/dateparser/data/date_translation_data/az-Cyrl.py",
+        "path_type": "hardlink",
+        "sha256": "af2c8d7749f2117603ac3cbf6d46300a4b2716112c45db40b1c163b1d7ba2998",
+        "size_in_bytes": 2704,
+        "sha256_in_prefix": "af2c8d7749f2117603ac3cbf6d46300a4b2716112c45db40b1c163b1d7ba2998"
+      },
+      {
+        "_path": "site-packages/dateparser/data/date_translation_data/az-Latn.py",
+        "path_type": "hardlink",
+        "sha256": "2d71e26b65450e7c89427b2714794ded74de0d6eeec12bf72b77b822ddd82353",
+        "size_in_bytes": 3822,
+        "sha256_in_prefix": "2d71e26b65450e7c89427b2714794ded74de0d6eeec12bf72b77b822ddd82353"
+      },
+      {
+        "_path": "site-packages/dateparser/data/date_translation_data/az.py",
+        "path_type": "hardlink",
+        "sha256": "58bd33ee2818adc14b052af06431932e2fdab64532b39256531b7602be448612",
+        "size_in_bytes": 3817,
+        "sha256_in_prefix": "58bd33ee2818adc14b052af06431932e2fdab64532b39256531b7602be448612"
+      },
+      {
+        "_path": "site-packages/dateparser/data/date_translation_data/bas.py",
+        "path_type": "hardlink",
+        "sha256": "3272a7dcf14038d9e29c913d9153a9dd2aa042c30f69bd58982e186482ad75e1",
+        "size_in_bytes": 2666,
+        "sha256_in_prefix": "3272a7dcf14038d9e29c913d9153a9dd2aa042c30f69bd58982e186482ad75e1"
+      },
+      {
+        "_path": "site-packages/dateparser/data/date_translation_data/be.py",
+        "path_type": "hardlink",
+        "sha256": "f2cf11c55a31a3f6d9a2970e7e6035710cd338964abb115760f3633be824503f",
+        "size_in_bytes": 7870,
+        "sha256_in_prefix": "f2cf11c55a31a3f6d9a2970e7e6035710cd338964abb115760f3633be824503f"
+      },
+      {
+        "_path": "site-packages/dateparser/data/date_translation_data/bem.py",
+        "path_type": "hardlink",
+        "sha256": "532c440277fbd310b5e5d4fdaa6fb62bc8ac41264d65537a111fb46281bad5cc",
+        "size_in_bytes": 2480,
+        "sha256_in_prefix": "532c440277fbd310b5e5d4fdaa6fb62bc8ac41264d65537a111fb46281bad5cc"
+      },
+      {
+        "_path": "site-packages/dateparser/data/date_translation_data/bez.py",
+        "path_type": "hardlink",
+        "sha256": "427838a61fc3ea4073dc13aba4c6c20077c4314ba0aa08f7aa1158af2e897459",
+        "size_in_bytes": 2770,
+        "sha256_in_prefix": "427838a61fc3ea4073dc13aba4c6c20077c4314ba0aa08f7aa1158af2e897459"
+      },
+      {
+        "_path": "site-packages/dateparser/data/date_translation_data/bg.py",
+        "path_type": "hardlink",
+        "sha256": "63a6676a490328a73d7dd5f3c8cb7536ea0f703b376a932bae46ea70a2348fba",
+        "size_in_bytes": 8094,
+        "sha256_in_prefix": "63a6676a490328a73d7dd5f3c8cb7536ea0f703b376a932bae46ea70a2348fba"
+      },
+      {
+        "_path": "site-packages/dateparser/data/date_translation_data/bm.py",
+        "path_type": "hardlink",
+        "sha256": "aa6b146d0624a7c4f16690d776df455846d1941553bce7ec7bf5a379282379a8",
+        "size_in_bytes": 2522,
+        "sha256_in_prefix": "aa6b146d0624a7c4f16690d776df455846d1941553bce7ec7bf5a379282379a8"
+      },
+      {
+        "_path": "site-packages/dateparser/data/date_translation_data/bn.py",
+        "path_type": "hardlink",
+        "sha256": "5396742a0a891a348859274701ef5f81c8a5a966187773b48e31a27c56890a8e",
+        "size_in_bytes": 5252,
+        "sha256_in_prefix": "5396742a0a891a348859274701ef5f81c8a5a966187773b48e31a27c56890a8e"
+      },
+      {
+        "_path": "site-packages/dateparser/data/date_translation_data/bo.py",
+        "path_type": "hardlink",
+        "sha256": "261162949d15bd8effaa9eacd7820b032f3ea45ae6159281b4ede78fc30015ec",
+        "size_in_bytes": 4068,
+        "sha256_in_prefix": "261162949d15bd8effaa9eacd7820b032f3ea45ae6159281b4ede78fc30015ec"
+      },
+      {
+        "_path": "site-packages/dateparser/data/date_translation_data/br.py",
+        "path_type": "hardlink",
+        "sha256": "2fa9173d969a1899ae5a024e17d74bf2243a3c5bbb62de1b0d65d7182a695185",
+        "size_in_bytes": 4185,
+        "sha256_in_prefix": "2fa9173d969a1899ae5a024e17d74bf2243a3c5bbb62de1b0d65d7182a695185"
+      },
+      {
+        "_path": "site-packages/dateparser/data/date_translation_data/brx.py",
+        "path_type": "hardlink",
+        "sha256": "8f01d72d4f3bd875f1692c4c20f4e3cff0983b6b04400adaabe3106413527e8f",
+        "size_in_bytes": 2795,
+        "sha256_in_prefix": "8f01d72d4f3bd875f1692c4c20f4e3cff0983b6b04400adaabe3106413527e8f"
+      },
+      {
+        "_path": "site-packages/dateparser/data/date_translation_data/bs-Cyrl.py",
+        "path_type": "hardlink",
+        "sha256": "b8c01f35384762b267c6a3f928226c62dc459126a2a263c70c26c1148d0711bc",
+        "size_in_bytes": 4811,
+        "sha256_in_prefix": "b8c01f35384762b267c6a3f928226c62dc459126a2a263c70c26c1148d0711bc"
+      },
+      {
+        "_path": "site-packages/dateparser/data/date_translation_data/bs-Latn.py",
+        "path_type": "hardlink",
+        "sha256": "d171dbe165b5b3eee87df7373f59b8243a0da25e9926d1d64ff35509412ffac9",
+        "size_in_bytes": 4973,
+        "sha256_in_prefix": "d171dbe165b5b3eee87df7373f59b8243a0da25e9926d1d64ff35509412ffac9"
+      },
+      {
+        "_path": "site-packages/dateparser/data/date_translation_data/bs.py",
+        "path_type": "hardlink",
+        "sha256": "a0bd249b30be405a2a351cbe58ca59164cc93ff13c6af4701834349e2d8b4679",
+        "size_in_bytes": 4968,
+        "sha256_in_prefix": "a0bd249b30be405a2a351cbe58ca59164cc93ff13c6af4701834349e2d8b4679"
+      },
+      {
+        "_path": "site-packages/dateparser/data/date_translation_data/ca.py",
+        "path_type": "hardlink",
+        "sha256": "7e689c3d4f2d7a2020e69be7f004639cd2bb6c3d0a7d00c222b33472016c07bf",
+        "size_in_bytes": 6215,
+        "sha256_in_prefix": "7e689c3d4f2d7a2020e69be7f004639cd2bb6c3d0a7d00c222b33472016c07bf"
+      },
+      {
+        "_path": "site-packages/dateparser/data/date_translation_data/ce.py",
+        "path_type": "hardlink",
+        "sha256": "d51a3f152692970221f7d4ee6f6e546b0201c225ca1233ad2d418caa6d5c45af",
+        "size_in_bytes": 4914,
+        "sha256_in_prefix": "d51a3f152692970221f7d4ee6f6e546b0201c225ca1233ad2d418caa6d5c45af"
+      },
+      {
+        "_path": "site-packages/dateparser/data/date_translation_data/cgg.py",
+        "path_type": "hardlink",
+        "sha256": "69a73f6666ba851c346565cd48afd8cd127393d6a9ba65340206b87fb0dfb787",
+        "size_in_bytes": 2671,
+        "sha256_in_prefix": "69a73f6666ba851c346565cd48afd8cd127393d6a9ba65340206b87fb0dfb787"
+      },
+      {
+        "_path": "site-packages/dateparser/data/date_translation_data/chr.py",
+        "path_type": "hardlink",
+        "sha256": "98fbffa9a10aa6542e8dceea304b36caef30c1e21efd4953abf01f81db5e57b7",
+        "size_in_bytes": 5667,
+        "sha256_in_prefix": "98fbffa9a10aa6542e8dceea304b36caef30c1e21efd4953abf01f81db5e57b7"
+      },
+      {
+        "_path": "site-packages/dateparser/data/date_translation_data/ckb.py",
+        "path_type": "hardlink",
+        "sha256": "514fdf8661efd3f8b54b7cc5a253ebfcea44ae9bf3b6cba8b4402afd48be844a",
+        "size_in_bytes": 2499,
+        "sha256_in_prefix": "514fdf8661efd3f8b54b7cc5a253ebfcea44ae9bf3b6cba8b4402afd48be844a"
+      },
+      {
+        "_path": "site-packages/dateparser/data/date_translation_data/cs.py",
+        "path_type": "hardlink",
+        "sha256": "9fe20ad0f35eb02f4ede7be4575caa63dabc00627cc02ab996410e8d63946e00",
+        "size_in_bytes": 6215,
+        "sha256_in_prefix": "9fe20ad0f35eb02f4ede7be4575caa63dabc00627cc02ab996410e8d63946e00"
+      },
+      {
+        "_path": "site-packages/dateparser/data/date_translation_data/cy.py",
+        "path_type": "hardlink",
+        "sha256": "ee964128106974d16e8a036dda48c703b643e8eaaae35c738f6ec44ce62423f7",
+        "size_in_bytes": 3872,
+        "sha256_in_prefix": "ee964128106974d16e8a036dda48c703b643e8eaaae35c738f6ec44ce62423f7"
+      },
+      {
+        "_path": "site-packages/dateparser/data/date_translation_data/da.py",
+        "path_type": "hardlink",
+        "sha256": "dd852b9cd50b539f2f2570b6983814ba681cf1f342b24935408f21df3bbef77f",
+        "size_in_bytes": 5893,
+        "sha256_in_prefix": "dd852b9cd50b539f2f2570b6983814ba681cf1f342b24935408f21df3bbef77f"
+      },
+      {
+        "_path": "site-packages/dateparser/data/date_translation_data/dav.py",
+        "path_type": "hardlink",
+        "sha256": "bd74d72695f3d189bc3a8620ce64390df1f7a33acee9e34ccb355d69b2cd9c11",
+        "size_in_bytes": 2749,
+        "sha256_in_prefix": "bd74d72695f3d189bc3a8620ce64390df1f7a33acee9e34ccb355d69b2cd9c11"
+      },
+      {
+        "_path": "site-packages/dateparser/data/date_translation_data/de.py",
+        "path_type": "hardlink",
+        "sha256": "8b6a662cb3b528f4dd1c84378ff477c1eb40ab3ec1f998f2ae8f04d8bd7e9e97",
+        "size_in_bytes": 6785,
+        "sha256_in_prefix": "8b6a662cb3b528f4dd1c84378ff477c1eb40ab3ec1f998f2ae8f04d8bd7e9e97"
+      },
+      {
+        "_path": "site-packages/dateparser/data/date_translation_data/dje.py",
+        "path_type": "hardlink",
+        "sha256": "0873a8178f128f98882d5ce2121e8d9f4ae22cd6800493e6a5534a23dad9d658",
+        "size_in_bytes": 2535,
+        "sha256_in_prefix": "0873a8178f128f98882d5ce2121e8d9f4ae22cd6800493e6a5534a23dad9d658"
+      },
+      {
+        "_path": "site-packages/dateparser/data/date_translation_data/dsb.py",
+        "path_type": "hardlink",
+        "sha256": "39904e2b3cd653d0df5a8df2420c35855f8f12eb26566912f83d9b204ed89bf4",
+        "size_in_bytes": 5576,
+        "sha256_in_prefix": "39904e2b3cd653d0df5a8df2420c35855f8f12eb26566912f83d9b204ed89bf4"
+      },
+      {
+        "_path": "site-packages/dateparser/data/date_translation_data/dua.py",
+        "path_type": "hardlink",
+        "sha256": "e13e7c96e0823a05eb30dc2f5a15ebbe5f36481b07522a2845d8572f78d310e6",
+        "size_in_bytes": 2666,
+        "sha256_in_prefix": "e13e7c96e0823a05eb30dc2f5a15ebbe5f36481b07522a2845d8572f78d310e6"
+      },
+      {
+        "_path": "site-packages/dateparser/data/date_translation_data/dyo.py",
+        "path_type": "hardlink",
+        "sha256": "6d3808f6bbc8cd1418a444e502cf2fe069afaabf06e99a9f11d640e9a674b521",
+        "size_in_bytes": 2524,
+        "sha256_in_prefix": "6d3808f6bbc8cd1418a444e502cf2fe069afaabf06e99a9f11d640e9a674b521"
+      },
+      {
+        "_path": "site-packages/dateparser/data/date_translation_data/dz.py",
+        "path_type": "hardlink",
+        "sha256": "4e7a62a1b87967407eca906ef22c059e82844de0db88f370dd0264395f2834c0",
+        "size_in_bytes": 5439,
+        "sha256_in_prefix": "4e7a62a1b87967407eca906ef22c059e82844de0db88f370dd0264395f2834c0"
+      },
+      {
+        "_path": "site-packages/dateparser/data/date_translation_data/ebu.py",
+        "path_type": "hardlink",
+        "sha256": "bab81c11c18ed7c05923dc8bf55a0dbeba673e2230ce9769d8bbbf81a50b0a98",
+        "size_in_bytes": 2708,
+        "sha256_in_prefix": "bab81c11c18ed7c05923dc8bf55a0dbeba673e2230ce9769d8bbbf81a50b0a98"
+      },
+      {
+        "_path": "site-packages/dateparser/data/date_translation_data/ee.py",
+        "path_type": "hardlink",
+        "sha256": "f62161fe4ad08d3746ef01dbd05fa61d5d4cf6d348558fd9bd7144968f09b133",
+        "size_in_bytes": 4693,
+        "sha256_in_prefix": "f62161fe4ad08d3746ef01dbd05fa61d5d4cf6d348558fd9bd7144968f09b133"
+      },
+      {
+        "_path": "site-packages/dateparser/data/date_translation_data/el.py",
+        "path_type": "hardlink",
+        "sha256": "64ba6aa88c47d5d1c087d47be0d735bb67c58f4efa1fdd95a5b9e80526851f98",
+        "size_in_bytes": 6726,
+        "sha256_in_prefix": "64ba6aa88c47d5d1c087d47be0d735bb67c58f4efa1fdd95a5b9e80526851f98"
+      },
+      {
+        "_path": "site-packages/dateparser/data/date_translation_data/en.py",
+        "path_type": "hardlink",
+        "sha256": "c44c24a6e213c39f7a5b298b6552601d6e132a3ce9636c6cda13190614e1f949",
+        "size_in_bytes": 18481,
+        "sha256_in_prefix": "c44c24a6e213c39f7a5b298b6552601d6e132a3ce9636c6cda13190614e1f949"
+      },
+      {
+        "_path": "site-packages/dateparser/data/date_translation_data/eo.py",
+        "path_type": "hardlink",
+        "sha256": "cd1b0bf96c2c8abcef39ad5e81d2d7d9e61225c04b2d2a9ff7f9051d10aae223",
+        "size_in_bytes": 2555,
+        "sha256_in_prefix": "cd1b0bf96c2c8abcef39ad5e81d2d7d9e61225c04b2d2a9ff7f9051d10aae223"
+      },
+      {
+        "_path": "site-packages/dateparser/data/date_translation_data/es.py",
+        "path_type": "hardlink",
+        "sha256": "8c752b4155c926be5a243109dbf9b5e101308e05d1216f0fc8e8da841706320e",
+        "size_in_bytes": 10564,
+        "sha256_in_prefix": "8c752b4155c926be5a243109dbf9b5e101308e05d1216f0fc8e8da841706320e"
+      },
+      {
+        "_path": "site-packages/dateparser/data/date_translation_data/et.py",
+        "path_type": "hardlink",
+        "sha256": "df6bfbd77231a8e9fab7296a40cd8f179df7704201f1675a0ef8578fb3665909",
+        "size_in_bytes": 4471,
+        "sha256_in_prefix": "df6bfbd77231a8e9fab7296a40cd8f179df7704201f1675a0ef8578fb3665909"
+      },
+      {
+        "_path": "site-packages/dateparser/data/date_translation_data/eu.py",
+        "path_type": "hardlink",
+        "sha256": "ab6a33234123675e4e80bf570d9c122b7481cee2c6642eedf39474e5a2a02e62",
+        "size_in_bytes": 3839,
+        "sha256_in_prefix": "ab6a33234123675e4e80bf570d9c122b7481cee2c6642eedf39474e5a2a02e62"
+      },
+      {
+        "_path": "site-packages/dateparser/data/date_translation_data/ewo.py",
+        "path_type": "hardlink",
+        "sha256": "f751cc2133f55612843a409c525707fc8a1021dff5375b9b4e83ca1c051a237e",
+        "size_in_bytes": 2738,
+        "sha256_in_prefix": "f751cc2133f55612843a409c525707fc8a1021dff5375b9b4e83ca1c051a237e"
+      },
+      {
+        "_path": "site-packages/dateparser/data/date_translation_data/fa.py",
+        "path_type": "hardlink",
+        "sha256": "b9b617d0847e90daa0d8571f6f053e7e4f4c65c9befda4942ddd46cc45ff7dda",
+        "size_in_bytes": 5315,
+        "sha256_in_prefix": "b9b617d0847e90daa0d8571f6f053e7e4f4c65c9befda4942ddd46cc45ff7dda"
+      },
+      {
+        "_path": "site-packages/dateparser/data/date_translation_data/ff.py",
+        "path_type": "hardlink",
+        "sha256": "826dffcf8aa855230038c5491503f2bbf5ac70b9ae8fcf6de1eea57c3fd4ae45",
+        "size_in_bytes": 2750,
+        "sha256_in_prefix": "826dffcf8aa855230038c5491503f2bbf5ac70b9ae8fcf6de1eea57c3fd4ae45"
+      },
+      {
+        "_path": "site-packages/dateparser/data/date_translation_data/fi.py",
+        "path_type": "hardlink",
+        "sha256": "821e4e33cb01c37028a1cad720dc1e389cd0a75d42337f451e3288ab203edae5",
+        "size_in_bytes": 7134,
+        "sha256_in_prefix": "821e4e33cb01c37028a1cad720dc1e389cd0a75d42337f451e3288ab203edae5"
+      },
+      {
+        "_path": "site-packages/dateparser/data/date_translation_data/fil.py",
+        "path_type": "hardlink",
+        "sha256": "ac47f8ca31682830d95068c45dfb1c062039d43fcfdf428b1e0b369477651363",
+        "size_in_bytes": 4160,
+        "sha256_in_prefix": "ac47f8ca31682830d95068c45dfb1c062039d43fcfdf428b1e0b369477651363"
+      },
+      {
+        "_path": "site-packages/dateparser/data/date_translation_data/fo.py",
+        "path_type": "hardlink",
+        "sha256": "ab4519d677f413daf42cd799c61e9899e05514d437967435fd6f89d668ee0afa",
+        "size_in_bytes": 5163,
+        "sha256_in_prefix": "ab4519d677f413daf42cd799c61e9899e05514d437967435fd6f89d668ee0afa"
+      },
+      {
+        "_path": "site-packages/dateparser/data/date_translation_data/fr.py",
+        "path_type": "hardlink",
+        "sha256": "0ab7e8be95a46e6db8ce8e02c7a9814c6d74acc839ef456575fdb604615b5795",
+        "size_in_bytes": 10219,
+        "sha256_in_prefix": "0ab7e8be95a46e6db8ce8e02c7a9814c6d74acc839ef456575fdb604615b5795"
+      },
+      {
+        "_path": "site-packages/dateparser/data/date_translation_data/fur.py",
+        "path_type": "hardlink",
+        "sha256": "c8b4066f0ce135807ca6a904590e821cb0545fb12ad86126b1f547f6fa95c666",
+        "size_in_bytes": 4206,
+        "sha256_in_prefix": "c8b4066f0ce135807ca6a904590e821cb0545fb12ad86126b1f547f6fa95c666"
+      },
+      {
+        "_path": "site-packages/dateparser/data/date_translation_data/fy.py",
+        "path_type": "hardlink",
+        "sha256": "2b3ec56a851e0dd2ae801637e76d2ff7b981a215bf83394e6ce58cc1652e00bd",
+        "size_in_bytes": 4117,
+        "sha256_in_prefix": "2b3ec56a851e0dd2ae801637e76d2ff7b981a215bf83394e6ce58cc1652e00bd"
+      },
+      {
+        "_path": "site-packages/dateparser/data/date_translation_data/ga.py",
+        "path_type": "hardlink",
+        "sha256": "886216c9c98dfc175e1ddbe2e984f9e363ff0553b80fe34ce11d13f97e9ba541",
+        "size_in_bytes": 4837,
+        "sha256_in_prefix": "886216c9c98dfc175e1ddbe2e984f9e363ff0553b80fe34ce11d13f97e9ba541"
+      },
+      {
+        "_path": "site-packages/dateparser/data/date_translation_data/gd.py",
+        "path_type": "hardlink",
+        "sha256": "d918ae9ce22d2ff93d7ca1cf73f8d618cc4c0be426ab8d136a7c6fa5d3b95b51",
+        "size_in_bytes": 5905,
+        "sha256_in_prefix": "d918ae9ce22d2ff93d7ca1cf73f8d618cc4c0be426ab8d136a7c6fa5d3b95b51"
+      },
+      {
+        "_path": "site-packages/dateparser/data/date_translation_data/gl.py",
+        "path_type": "hardlink",
+        "sha256": "206eb289ec18f152a0c08332bc39361a6a20d256c1f3d3e118a67d277361b649",
+        "size_in_bytes": 5032,
+        "sha256_in_prefix": "206eb289ec18f152a0c08332bc39361a6a20d256c1f3d3e118a67d277361b649"
+      },
+      {
+        "_path": "site-packages/dateparser/data/date_translation_data/gsw.py",
+        "path_type": "hardlink",
+        "sha256": "fc6665ebecf407450346db8dfc33e737d20adb77202be0c735e442a6875fbd85",
+        "size_in_bytes": 2764,
+        "sha256_in_prefix": "fc6665ebecf407450346db8dfc33e737d20adb77202be0c735e442a6875fbd85"
+      },
+      {
+        "_path": "site-packages/dateparser/data/date_translation_data/gu.py",
+        "path_type": "hardlink",
+        "sha256": "f726464c4faef6230e3d57b4cf3f7d33eb41a4bc9e1c7dd228a0d6850569f7e0",
+        "size_in_bytes": 4779,
+        "sha256_in_prefix": "f726464c4faef6230e3d57b4cf3f7d33eb41a4bc9e1c7dd228a0d6850569f7e0"
+      },
+      {
+        "_path": "site-packages/dateparser/data/date_translation_data/guz.py",
+        "path_type": "hardlink",
+        "sha256": "00a220df30b3b8e063e33922450c5c83e5579cbe0101c7f0829e2db62edc0fff",
+        "size_in_bytes": 2590,
+        "sha256_in_prefix": "00a220df30b3b8e063e33922450c5c83e5579cbe0101c7f0829e2db62edc0fff"
+      },
+      {
+        "_path": "site-packages/dateparser/data/date_translation_data/gv.py",
+        "path_type": "hardlink",
+        "sha256": "b4bea49dffba05a512737add4fa79650728fe876bcc2499bf30818b874a94548",
+        "size_in_bytes": 2607,
+        "sha256_in_prefix": "b4bea49dffba05a512737add4fa79650728fe876bcc2499bf30818b874a94548"
+      },
+      {
+        "_path": "site-packages/dateparser/data/date_translation_data/ha.py",
+        "path_type": "hardlink",
+        "sha256": "13c9a0ecbaceea0a99cdf385259d8eaf8b9802bc41a5e6f00e4596d3a6b01f09",
+        "size_in_bytes": 2662,
+        "sha256_in_prefix": "13c9a0ecbaceea0a99cdf385259d8eaf8b9802bc41a5e6f00e4596d3a6b01f09"
+      },
+      {
+        "_path": "site-packages/dateparser/data/date_translation_data/haw.py",
+        "path_type": "hardlink",
+        "sha256": "58ee5c33a5ed37d4c09bfab339381ce63fb59903ef54130f1f379f4bc62fcce5",
+        "size_in_bytes": 2545,
+        "sha256_in_prefix": "58ee5c33a5ed37d4c09bfab339381ce63fb59903ef54130f1f379f4bc62fcce5"
+      },
+      {
+        "_path": "site-packages/dateparser/data/date_translation_data/he.py",
+        "path_type": "hardlink",
+        "sha256": "07a8976e63e3cb4be9cd3abd7ee06523e52cf2c3fa4805ef3c5167f2bd92ed6e",
+        "size_in_bytes": 7688,
+        "sha256_in_prefix": "07a8976e63e3cb4be9cd3abd7ee06523e52cf2c3fa4805ef3c5167f2bd92ed6e"
+      },
+      {
+        "_path": "site-packages/dateparser/data/date_translation_data/hi.py",
+        "path_type": "hardlink",
+        "sha256": "f88a5730c388d0ad4222cfb063c11db208b2d7923f4163ac0fb8cfa22e7594f6",
+        "size_in_bytes": 5746,
+        "sha256_in_prefix": "f88a5730c388d0ad4222cfb063c11db208b2d7923f4163ac0fb8cfa22e7594f6"
+      },
+      {
+        "_path": "site-packages/dateparser/data/date_translation_data/hr.py",
+        "path_type": "hardlink",
+        "sha256": "4262e39e3ee4653074ad07f26e9549b0519aeb56bb4fc6c176397b1bc56f0ae8",
+        "size_in_bytes": 8165,
+        "sha256_in_prefix": "4262e39e3ee4653074ad07f26e9549b0519aeb56bb4fc6c176397b1bc56f0ae8"
+      },
+      {
+        "_path": "site-packages/dateparser/data/date_translation_data/hsb.py",
+        "path_type": "hardlink",
+        "sha256": "1357470b259bf4267b909f5918db12418900779029ff93084904446d6e33f727",
+        "size_in_bytes": 5611,
+        "sha256_in_prefix": "1357470b259bf4267b909f5918db12418900779029ff93084904446d6e33f727"
+      },
+      {
+        "_path": "site-packages/dateparser/data/date_translation_data/hu.py",
+        "path_type": "hardlink",
+        "sha256": "dbdd712c01c1419484bb484825b0dbb7c22a65626e506e2a3d333965d8ec7a23",
+        "size_in_bytes": 5238,
+        "sha256_in_prefix": "dbdd712c01c1419484bb484825b0dbb7c22a65626e506e2a3d333965d8ec7a23"
+      },
+      {
+        "_path": "site-packages/dateparser/data/date_translation_data/hy.py",
+        "path_type": "hardlink",
+        "sha256": "97229aef22340b78ffaf2c499271edbacc203643201e1404e201810b422f0b33",
+        "size_in_bytes": 5112,
+        "sha256_in_prefix": "97229aef22340b78ffaf2c499271edbacc203643201e1404e201810b422f0b33"
+      },
+      {
+        "_path": "site-packages/dateparser/data/date_translation_data/id.py",
+        "path_type": "hardlink",
+        "sha256": "97a46a05cd113664575e62384536fdf309e730fb45f74ce34682581e718bb872",
+        "size_in_bytes": 5096,
+        "sha256_in_prefix": "97a46a05cd113664575e62384536fdf309e730fb45f74ce34682581e718bb872"
+      },
+      {
+        "_path": "site-packages/dateparser/data/date_translation_data/ig.py",
+        "path_type": "hardlink",
+        "sha256": "d7a68b336ec6baaa7ea68a90e5e488aef6e3ecf08f3f6998f9532e5e7e20ce1b",
+        "size_in_bytes": 2603,
+        "sha256_in_prefix": "d7a68b336ec6baaa7ea68a90e5e488aef6e3ecf08f3f6998f9532e5e7e20ce1b"
+      },
+      {
+        "_path": "site-packages/dateparser/data/date_translation_data/ii.py",
+        "path_type": "hardlink",
+        "sha256": "960d37bb0fa03f294f6b7a32f52f6cc9eb8b7289c68f33f7843f1cc2b5b2ecea",
+        "size_in_bytes": 2418,
+        "sha256_in_prefix": "960d37bb0fa03f294f6b7a32f52f6cc9eb8b7289c68f33f7843f1cc2b5b2ecea"
+      },
+      {
+        "_path": "site-packages/dateparser/data/date_translation_data/is.py",
+        "path_type": "hardlink",
+        "sha256": "e1d04f2660733516279dd6f580251e1956bdd4e77ebede26b9df7d5707da6ab7",
+        "size_in_bytes": 4948,
+        "sha256_in_prefix": "e1d04f2660733516279dd6f580251e1956bdd4e77ebede26b9df7d5707da6ab7"
+      },
+      {
+        "_path": "site-packages/dateparser/data/date_translation_data/it.py",
+        "path_type": "hardlink",
+        "sha256": "e7a4f9029ca7263c509b2bde6d4c84dbb8744b967321cbe94f98afe896e233e5",
+        "size_in_bytes": 5508,
+        "sha256_in_prefix": "e7a4f9029ca7263c509b2bde6d4c84dbb8744b967321cbe94f98afe896e233e5"
+      },
+      {
+        "_path": "site-packages/dateparser/data/date_translation_data/ja.py",
+        "path_type": "hardlink",
+        "sha256": "4553588aacadb5d877f31122f6ae4ca03032b975a81b9744e4fad8c71d4a8eda",
+        "size_in_bytes": 5445,
+        "sha256_in_prefix": "4553588aacadb5d877f31122f6ae4ca03032b975a81b9744e4fad8c71d4a8eda"
+      },
+      {
+        "_path": "site-packages/dateparser/data/date_translation_data/jgo.py",
+        "path_type": "hardlink",
+        "sha256": "fa514490dfff45a4d429cbb3be0255b60558a40fefdee1ebf6c1f39495bb7ade",
+        "size_in_bytes": 3528,
+        "sha256_in_prefix": "fa514490dfff45a4d429cbb3be0255b60558a40fefdee1ebf6c1f39495bb7ade"
+      },
+      {
+        "_path": "site-packages/dateparser/data/date_translation_data/jmc.py",
+        "path_type": "hardlink",
+        "sha256": "a66e9a60cd45076349e9ceea33a428427a8af3a4aec6b29fc5d0d73c6666974b",
+        "size_in_bytes": 2551,
+        "sha256_in_prefix": "a66e9a60cd45076349e9ceea33a428427a8af3a4aec6b29fc5d0d73c6666974b"
+      },
+      {
+        "_path": "site-packages/dateparser/data/date_translation_data/ka.py",
+        "path_type": "hardlink",
+        "sha256": "7ae77e2c091ea61e8363a74557aeaf1a152e160593eec6196510a316b7fac855",
+        "size_in_bytes": 5249,
+        "sha256_in_prefix": "7ae77e2c091ea61e8363a74557aeaf1a152e160593eec6196510a316b7fac855"
+      },
+      {
+        "_path": "site-packages/dateparser/data/date_translation_data/kab.py",
+        "path_type": "hardlink",
+        "sha256": "7bcff4f5ff61d54bd7e59b5c462e8305b065360d582a1c55a804ddee7530bc7d",
+        "size_in_bytes": 2594,
+        "sha256_in_prefix": "7bcff4f5ff61d54bd7e59b5c462e8305b065360d582a1c55a804ddee7530bc7d"
+      },
+      {
+        "_path": "site-packages/dateparser/data/date_translation_data/kam.py",
+        "path_type": "hardlink",
+        "sha256": "4d9b0114a9d3662f3ad9f8d267fd212f222170830057231a97dcf3445e579b38",
+        "size_in_bytes": 2717,
+        "sha256_in_prefix": "4d9b0114a9d3662f3ad9f8d267fd212f222170830057231a97dcf3445e579b38"
+      },
+      {
+        "_path": "site-packages/dateparser/data/date_translation_data/kde.py",
+        "path_type": "hardlink",
+        "sha256": "b33f06d52877a9a0fc52652dc207ff057e40653de3db8c3a539cb3e05941a79b",
+        "size_in_bytes": 2812,
+        "sha256_in_prefix": "b33f06d52877a9a0fc52652dc207ff057e40653de3db8c3a539cb3e05941a79b"
+      },
+      {
+        "_path": "site-packages/dateparser/data/date_translation_data/kea.py",
+        "path_type": "hardlink",
+        "sha256": "37fa8de92568e57148b02e23f36fe2ee5765658063a741260400d2bdeb46d778",
+        "size_in_bytes": 4217,
+        "sha256_in_prefix": "37fa8de92568e57148b02e23f36fe2ee5765658063a741260400d2bdeb46d778"
+      },
+      {
+        "_path": "site-packages/dateparser/data/date_translation_data/khq.py",
+        "path_type": "hardlink",
+        "sha256": "e903ef2965465735683bf49a1b2536f75204116ae7349f6fde5244995a0cd796",
+        "size_in_bytes": 2529,
+        "sha256_in_prefix": "e903ef2965465735683bf49a1b2536f75204116ae7349f6fde5244995a0cd796"
+      },
+      {
+        "_path": "site-packages/dateparser/data/date_translation_data/ki.py",
+        "path_type": "hardlink",
+        "sha256": "d460ab7544b337ad4d753c2a4915839449cda54adf5745ebc58e9c92b81e0b66",
+        "size_in_bytes": 2691,
+        "sha256_in_prefix": "d460ab7544b337ad4d753c2a4915839449cda54adf5745ebc58e9c92b81e0b66"
+      },
+      {
+        "_path": "site-packages/dateparser/data/date_translation_data/kk.py",
+        "path_type": "hardlink",
+        "sha256": "77c357587f378c60194bdee9218d1a152c9f7756cf1c6ee97bc8d289b3c2a0fa",
+        "size_in_bytes": 4694,
+        "sha256_in_prefix": "77c357587f378c60194bdee9218d1a152c9f7756cf1c6ee97bc8d289b3c2a0fa"
+      },
+      {
+        "_path": "site-packages/dateparser/data/date_translation_data/kl.py",
+        "path_type": "hardlink",
+        "sha256": "43b12ca37e58b0ffa88dbb4ad2d7e3c4702b6ec441419154f554c68f3a3e4132",
+        "size_in_bytes": 3843,
+        "sha256_in_prefix": "43b12ca37e58b0ffa88dbb4ad2d7e3c4702b6ec441419154f554c68f3a3e4132"
+      },
+      {
+        "_path": "site-packages/dateparser/data/date_translation_data/kln.py",
+        "path_type": "hardlink",
+        "sha256": "477c3b1608bc37ed2d449e2fb0c22cc97ead92d3d2c555e75c2acd18d433b342",
+        "size_in_bytes": 2633,
+        "sha256_in_prefix": "477c3b1608bc37ed2d449e2fb0c22cc97ead92d3d2c555e75c2acd18d433b342"
+      },
+      {
+        "_path": "site-packages/dateparser/data/date_translation_data/km.py",
+        "path_type": "hardlink",
+        "sha256": "7ce2f8cf11f6878e037c0ea382943310d2eee72430f2e15875b71033fbbe40c0",
+        "size_in_bytes": 4331,
+        "sha256_in_prefix": "7ce2f8cf11f6878e037c0ea382943310d2eee72430f2e15875b71033fbbe40c0"
+      },
+      {
+        "_path": "site-packages/dateparser/data/date_translation_data/kn.py",
+        "path_type": "hardlink",
+        "sha256": "bce9c98c73408eb1a1a52eb99228c4903078a81fe0808fb22f53fcc5ecddb41f",
+        "size_in_bytes": 5601,
+        "sha256_in_prefix": "bce9c98c73408eb1a1a52eb99228c4903078a81fe0808fb22f53fcc5ecddb41f"
+      },
+      {
+        "_path": "site-packages/dateparser/data/date_translation_data/ko.py",
+        "path_type": "hardlink",
+        "sha256": "9b1e7b229dfee3e80d0a19bbf3ff1005e8e2af10a4fae817cd7828214487585d",
+        "size_in_bytes": 3530,
+        "sha256_in_prefix": "9b1e7b229dfee3e80d0a19bbf3ff1005e8e2af10a4fae817cd7828214487585d"
+      },
+      {
+        "_path": "site-packages/dateparser/data/date_translation_data/kok.py",
+        "path_type": "hardlink",
+        "sha256": "6e0747b539996d7c77e5ca36ad2166dfb575a57b3a17ce0a1b1ee86d428ddd6e",
+        "size_in_bytes": 2689,
+        "sha256_in_prefix": "6e0747b539996d7c77e5ca36ad2166dfb575a57b3a17ce0a1b1ee86d428ddd6e"
+      },
+      {
+        "_path": "site-packages/dateparser/data/date_translation_data/ks.py",
+        "path_type": "hardlink",
+        "sha256": "15a1108019a48beda5b08d594b3def40d4eb4d61e741e8907c134ecd1182d522",
+        "size_in_bytes": 2458,
+        "sha256_in_prefix": "15a1108019a48beda5b08d594b3def40d4eb4d61e741e8907c134ecd1182d522"
+      },
+      {
+        "_path": "site-packages/dateparser/data/date_translation_data/ksb.py",
+        "path_type": "hardlink",
+        "sha256": "56685671187eae08ac67b62a797ac1f2889639d0e6543bf5192fc85cb675710e",
+        "size_in_bytes": 2552,
+        "sha256_in_prefix": "56685671187eae08ac67b62a797ac1f2889639d0e6543bf5192fc85cb675710e"
+      },
+      {
+        "_path": "site-packages/dateparser/data/date_translation_data/ksf.py",
+        "path_type": "hardlink",
+        "sha256": "6b005d7fc873732498c1d89615b84e20949f0ed375b2d58fc7a9f7f63d6afa84",
+        "size_in_bytes": 2783,
+        "sha256_in_prefix": "6b005d7fc873732498c1d89615b84e20949f0ed375b2d58fc7a9f7f63d6afa84"
+      },
+      {
+        "_path": "site-packages/dateparser/data/date_translation_data/ksh.py",
+        "path_type": "hardlink",
+        "sha256": "07ebdfc26e21debdae2dec5feb91f514adacd625e8755e99ee44b22601eed78d",
+        "size_in_bytes": 3079,
+        "sha256_in_prefix": "07ebdfc26e21debdae2dec5feb91f514adacd625e8755e99ee44b22601eed78d"
+      },
+      {
+        "_path": "site-packages/dateparser/data/date_translation_data/kw.py",
+        "path_type": "hardlink",
+        "sha256": "faf0307792cc2c4d07174576b71c64106f367d9c3e5d95f14117be9e50df300b",
+        "size_in_bytes": 2601,
+        "sha256_in_prefix": "faf0307792cc2c4d07174576b71c64106f367d9c3e5d95f14117be9e50df300b"
+      },
+      {
+        "_path": "site-packages/dateparser/data/date_translation_data/ky.py",
+        "path_type": "hardlink",
+        "sha256": "1244519da6ad9a2e4c825324646e5e8b77883cbda1df5aa5cc781886a8ab6708",
+        "size_in_bytes": 5252,
+        "sha256_in_prefix": "1244519da6ad9a2e4c825324646e5e8b77883cbda1df5aa5cc781886a8ab6708"
+      },
+      {
+        "_path": "site-packages/dateparser/data/date_translation_data/lag.py",
+        "path_type": "hardlink",
+        "sha256": "f14016d098b120cfa845c6621e33ed1f7fc0b511fc386ca7b57ad400ba494651",
+        "size_in_bytes": 2689,
+        "sha256_in_prefix": "f14016d098b120cfa845c6621e33ed1f7fc0b511fc386ca7b57ad400ba494651"
+      },
+      {
+        "_path": "site-packages/dateparser/data/date_translation_data/lb.py",
+        "path_type": "hardlink",
+        "sha256": "27e50e9b32e2766858e7fffcbb3aa6b38cccf993a21b065ee8a27a18e5b9a60b",
+        "size_in_bytes": 4329,
+        "sha256_in_prefix": "27e50e9b32e2766858e7fffcbb3aa6b38cccf993a21b065ee8a27a18e5b9a60b"
+      },
+      {
+        "_path": "site-packages/dateparser/data/date_translation_data/lg.py",
+        "path_type": "hardlink",
+        "sha256": "99290b9a59845618ee8ee28acdb51cba4262788d69045628e186a14e7781e5cf",
+        "size_in_bytes": 2583,
+        "sha256_in_prefix": "99290b9a59845618ee8ee28acdb51cba4262788d69045628e186a14e7781e5cf"
+      },
+      {
+        "_path": "site-packages/dateparser/data/date_translation_data/lkt.py",
+        "path_type": "hardlink",
+        "sha256": "8959d3f6bd31fe20aed1de3780e367062bf29c3ef5239d29d1b4b2d37334dba9",
+        "size_in_bytes": 4007,
+        "sha256_in_prefix": "8959d3f6bd31fe20aed1de3780e367062bf29c3ef5239d29d1b4b2d37334dba9"
+      },
+      {
+        "_path": "site-packages/dateparser/data/date_translation_data/ln.py",
+        "path_type": "hardlink",
+        "sha256": "cb8f2d4927b8cfd6cbe83faa44c99e694119b7f89da2021a271dbeb1f6917e75",
+        "size_in_bytes": 3004,
+        "sha256_in_prefix": "cb8f2d4927b8cfd6cbe83faa44c99e694119b7f89da2021a271dbeb1f6917e75"
+      },
+      {
+        "_path": "site-packages/dateparser/data/date_translation_data/lo.py",
+        "path_type": "hardlink",
+        "sha256": "cb40874f20df9aadd86b6db717e83ccd2867e38b4188999d2cdecd20add1fd26",
+        "size_in_bytes": 5138,
+        "sha256_in_prefix": "cb40874f20df9aadd86b6db717e83ccd2867e38b4188999d2cdecd20add1fd26"
+      },
+      {
+        "_path": "site-packages/dateparser/data/date_translation_data/lrc.py",
+        "path_type": "hardlink",
+        "sha256": "695c68642df097ca7094021bc76a3876562b33c63e7726ec417b779feca8632a",
+        "size_in_bytes": 2398,
+        "sha256_in_prefix": "695c68642df097ca7094021bc76a3876562b33c63e7726ec417b779feca8632a"
+      },
+      {
+        "_path": "site-packages/dateparser/data/date_translation_data/lt.py",
+        "path_type": "hardlink",
+        "sha256": "2a5cb98379d4efe4ac41de21a731baae33f8911ebe55f3082bbb3d749da47da9",
+        "size_in_bytes": 5449,
+        "sha256_in_prefix": "2a5cb98379d4efe4ac41de21a731baae33f8911ebe55f3082bbb3d749da47da9"
+      },
+      {
+        "_path": "site-packages/dateparser/data/date_translation_data/lu.py",
+        "path_type": "hardlink",
+        "sha256": "b424f7731885d15bd06ccd03d2d3c4e9d52c8feb0e10c2b8f4beb907ef7bece3",
+        "size_in_bytes": 2606,
+        "sha256_in_prefix": "b424f7731885d15bd06ccd03d2d3c4e9d52c8feb0e10c2b8f4beb907ef7bece3"
+      },
+      {
+        "_path": "site-packages/dateparser/data/date_translation_data/luo.py",
+        "path_type": "hardlink",
+        "sha256": "17b15a01427a34e31ebab55d8d4da59ec67639a8d50ee40e460188149abeab9b",
+        "size_in_bytes": 2672,
+        "sha256_in_prefix": "17b15a01427a34e31ebab55d8d4da59ec67639a8d50ee40e460188149abeab9b"
+      },
+      {
+        "_path": "site-packages/dateparser/data/date_translation_data/luy.py",
+        "path_type": "hardlink",
+        "sha256": "60012875a76026f15dbc0f8aa65a1bfc39647033eaf0d6dcbdbb11f5cc468cd7",
+        "size_in_bytes": 2554,
+        "sha256_in_prefix": "60012875a76026f15dbc0f8aa65a1bfc39647033eaf0d6dcbdbb11f5cc468cd7"
+      },
+      {
+        "_path": "site-packages/dateparser/data/date_translation_data/lv.py",
+        "path_type": "hardlink",
+        "sha256": "a550c01cc037f36d9c733103abeb884f9a19f325ae0ee86c7096511c269e0eeb",
+        "size_in_bytes": 5465,
+        "sha256_in_prefix": "a550c01cc037f36d9c733103abeb884f9a19f325ae0ee86c7096511c269e0eeb"
+      },
+      {
+        "_path": "site-packages/dateparser/data/date_translation_data/mas.py",
+        "path_type": "hardlink",
+        "sha256": "f711e8a84c47cd2d8d43b63a9b0f151f5c8a43d9a25b6fdf8094f6aec56ccc54",
+        "size_in_bytes": 2793,
+        "sha256_in_prefix": "f711e8a84c47cd2d8d43b63a9b0f151f5c8a43d9a25b6fdf8094f6aec56ccc54"
+      },
+      {
+        "_path": "site-packages/dateparser/data/date_translation_data/mer.py",
+        "path_type": "hardlink",
+        "sha256": "f8d87f160b7e51429d7e4a1cd18ea9a900e94a53b30c25600ebf19e8cf8a6a40",
+        "size_in_bytes": 2551,
+        "sha256_in_prefix": "f8d87f160b7e51429d7e4a1cd18ea9a900e94a53b30c25600ebf19e8cf8a6a40"
+      },
+      {
+        "_path": "site-packages/dateparser/data/date_translation_data/mfe.py",
+        "path_type": "hardlink",
+        "sha256": "3a94a8c991bd80c74a93aab88947e40d3ff1a9cf9b69afedbb33633f98813222",
+        "size_in_bytes": 2473,
+        "sha256_in_prefix": "3a94a8c991bd80c74a93aab88947e40d3ff1a9cf9b69afedbb33633f98813222"
+      },
+      {
+        "_path": "site-packages/dateparser/data/date_translation_data/mg.py",
+        "path_type": "hardlink",
+        "sha256": "0a44b3cb7d71f745dffdb7af8d408683bd89074c42bf5e5df499b322f9fbf047",
+        "size_in_bytes": 2564,
+        "sha256_in_prefix": "0a44b3cb7d71f745dffdb7af8d408683bd89074c42bf5e5df499b322f9fbf047"
+      },
+      {
+        "_path": "site-packages/dateparser/data/date_translation_data/mgh.py",
+        "path_type": "hardlink",
+        "sha256": "2cf7430115b1f0cfe7117f06cca1a86a1c390571d7247e6b20597b0273941d3a",
+        "size_in_bytes": 2709,
+        "sha256_in_prefix": "2cf7430115b1f0cfe7117f06cca1a86a1c390571d7247e6b20597b0273941d3a"
+      },
+      {
+        "_path": "site-packages/dateparser/data/date_translation_data/mgo.py",
+        "path_type": "hardlink",
+        "sha256": "9b0b6e9935d25b521b58303bfcd85dc287d1f502c9fb217b46edcf98b0a857a4",
+        "size_in_bytes": 2364,
+        "sha256_in_prefix": "9b0b6e9935d25b521b58303bfcd85dc287d1f502c9fb217b46edcf98b0a857a4"
+      },
+      {
+        "_path": "site-packages/dateparser/data/date_translation_data/mk.py",
+        "path_type": "hardlink",
+        "sha256": "23746aab5e378d2c5a22d1fc635ede6b1b31107fdd7309d605d894d3a07b23c1",
+        "size_in_bytes": 5051,
+        "sha256_in_prefix": "23746aab5e378d2c5a22d1fc635ede6b1b31107fdd7309d605d894d3a07b23c1"
+      },
+      {
+        "_path": "site-packages/dateparser/data/date_translation_data/ml.py",
+        "path_type": "hardlink",
+        "sha256": "312a49301407f50dfe83ce83dcbd3b955148e97d1272cb01063a5b168bbff89e",
+        "size_in_bytes": 4886,
+        "sha256_in_prefix": "312a49301407f50dfe83ce83dcbd3b955148e97d1272cb01063a5b168bbff89e"
+      },
+      {
+        "_path": "site-packages/dateparser/data/date_translation_data/mn.py",
+        "path_type": "hardlink",
+        "sha256": "72d3d9d56f1204f76fce63605bba1c424ea5c8b8d6e6a66dd87541f1fecaf7dd",
+        "size_in_bytes": 4826,
+        "sha256_in_prefix": "72d3d9d56f1204f76fce63605bba1c424ea5c8b8d6e6a66dd87541f1fecaf7dd"
+      },
+      {
+        "_path": "site-packages/dateparser/data/date_translation_data/mr.py",
+        "path_type": "hardlink",
+        "sha256": "183beeabbe4407d4a51f870c1c2af724c284e115df2786566b2d79fd4f4d7e69",
+        "size_in_bytes": 5845,
+        "sha256_in_prefix": "183beeabbe4407d4a51f870c1c2af724c284e115df2786566b2d79fd4f4d7e69"
+      },
+      {
+        "_path": "site-packages/dateparser/data/date_translation_data/ms.py",
+        "path_type": "hardlink",
+        "sha256": "71fdd7f29ed1cfe45bbb6ef8a489e63fc0c2c5baf17e2d5acf697f772cd694af",
+        "size_in_bytes": 4489,
+        "sha256_in_prefix": "71fdd7f29ed1cfe45bbb6ef8a489e63fc0c2c5baf17e2d5acf697f772cd694af"
+      },
+      {
+        "_path": "site-packages/dateparser/data/date_translation_data/mt.py",
+        "path_type": "hardlink",
+        "sha256": "77e8dd5966662454b144f8419fbbfee8ddf7a936a2e748ec862ab479eacbc3b4",
+        "size_in_bytes": 2804,
+        "sha256_in_prefix": "77e8dd5966662454b144f8419fbbfee8ddf7a936a2e748ec862ab479eacbc3b4"
+      },
+      {
+        "_path": "site-packages/dateparser/data/date_translation_data/mua.py",
+        "path_type": "hardlink",
+        "sha256": "3ddd824d6ef85c09f24978716b31124864eb468b79ceb553b9e01b4fc0c5a2d4",
+        "size_in_bytes": 2708,
+        "sha256_in_prefix": "3ddd824d6ef85c09f24978716b31124864eb468b79ceb553b9e01b4fc0c5a2d4"
+      },
+      {
+        "_path": "site-packages/dateparser/data/date_translation_data/my.py",
+        "path_type": "hardlink",
+        "sha256": "1e53b93bba4a558eaa6c66a7ad0cbddfc425a4e418a57c623ece2c02a2ac0dcc",
+        "size_in_bytes": 4530,
+        "sha256_in_prefix": "1e53b93bba4a558eaa6c66a7ad0cbddfc425a4e418a57c623ece2c02a2ac0dcc"
+      },
+      {
+        "_path": "site-packages/dateparser/data/date_translation_data/mzn.py",
+        "path_type": "hardlink",
+        "sha256": "379522793d42f1c73f94544e9125a41361eefb5532a30b719be960a9731a52ff",
+        "size_in_bytes": 3738,
+        "sha256_in_prefix": "379522793d42f1c73f94544e9125a41361eefb5532a30b719be960a9731a52ff"
+      },
+      {
+        "_path": "site-packages/dateparser/data/date_translation_data/naq.py",
+        "path_type": "hardlink",
+        "sha256": "92be666e3edfa1240caf3763c97a4728eab81b886c3d566dca3ed3d176a734d8",
+        "size_in_bytes": 2685,
+        "sha256_in_prefix": "92be666e3edfa1240caf3763c97a4728eab81b886c3d566dca3ed3d176a734d8"
+      },
+      {
+        "_path": "site-packages/dateparser/data/date_translation_data/nb.py",
+        "path_type": "hardlink",
+        "sha256": "74e95b3beb2b667dd13264b641a5a697711e155a5c227f7f1ff1eb17627eed8c",
+        "size_in_bytes": 5085,
+        "sha256_in_prefix": "74e95b3beb2b667dd13264b641a5a697711e155a5c227f7f1ff1eb17627eed8c"
+      },
+      {
+        "_path": "site-packages/dateparser/data/date_translation_data/nd.py",
+        "path_type": "hardlink",
+        "sha256": "84aea7884362cc9b2cc54301cea8c8063ab77ca661670c2b91847d7851486563",
+        "size_in_bytes": 2591,
+        "sha256_in_prefix": "84aea7884362cc9b2cc54301cea8c8063ab77ca661670c2b91847d7851486563"
+      },
+      {
+        "_path": "site-packages/dateparser/data/date_translation_data/ne.py",
+        "path_type": "hardlink",
+        "sha256": "42667f2c34c33663e8f07eba9430db45961e9c0f80c5ecaac4276dd22ac1cd65",
+        "size_in_bytes": 4399,
+        "sha256_in_prefix": "42667f2c34c33663e8f07eba9430db45961e9c0f80c5ecaac4276dd22ac1cd65"
+      },
+      {
+        "_path": "site-packages/dateparser/data/date_translation_data/nl.py",
+        "path_type": "hardlink",
+        "sha256": "e8943e182add9c46c18083dd5bc551ba9aac8b1e1dc90a3278c66558a4e86a03",
+        "size_in_bytes": 5195,
+        "sha256_in_prefix": "e8943e182add9c46c18083dd5bc551ba9aac8b1e1dc90a3278c66558a4e86a03"
+      },
+      {
+        "_path": "site-packages/dateparser/data/date_translation_data/nmg.py",
+        "path_type": "hardlink",
+        "sha256": "a115dabdf1bc3246bff91707637d06a8bbed23cff6a7652a3571ee6b912e9700",
+        "size_in_bytes": 2717,
+        "sha256_in_prefix": "a115dabdf1bc3246bff91707637d06a8bbed23cff6a7652a3571ee6b912e9700"
+      },
+      {
+        "_path": "site-packages/dateparser/data/date_translation_data/nn.py",
+        "path_type": "hardlink",
+        "sha256": "a5ffcdb8c93ddc905c29aeabf07b819cb794258efefb4af8f9b16cc72ba8e401",
+        "size_in_bytes": 4272,
+        "sha256_in_prefix": "a5ffcdb8c93ddc905c29aeabf07b819cb794258efefb4af8f9b16cc72ba8e401"
+      },
+      {
+        "_path": "site-packages/dateparser/data/date_translation_data/nnh.py",
+        "path_type": "hardlink",
+        "sha256": "aefab3977687010926a2af94358920ac4fd90fc5f576852af7b74cdd2f21e4fb",
+        "size_in_bytes": 2561,
+        "sha256_in_prefix": "aefab3977687010926a2af94358920ac4fd90fc5f576852af7b74cdd2f21e4fb"
+      },
+      {
+        "_path": "site-packages/dateparser/data/date_translation_data/nus.py",
+        "path_type": "hardlink",
+        "sha256": "d2585880a6b3ed0f09d25607a5f1ec8035645d6376e6b2f173ea7627fa22a2ea",
+        "size_in_bytes": 2602,
+        "sha256_in_prefix": "d2585880a6b3ed0f09d25607a5f1ec8035645d6376e6b2f173ea7627fa22a2ea"
+      },
+      {
+        "_path": "site-packages/dateparser/data/date_translation_data/nyn.py",
+        "path_type": "hardlink",
+        "sha256": "67994264e0b0216a74f21e626faf2c34f2a06d5dfb73944148b833714969eb3e",
+        "size_in_bytes": 2671,
+        "sha256_in_prefix": "67994264e0b0216a74f21e626faf2c34f2a06d5dfb73944148b833714969eb3e"
+      },
+      {
+        "_path": "site-packages/dateparser/data/date_translation_data/om.py",
+        "path_type": "hardlink",
+        "sha256": "e0a28732c38cab0dfa1e41ff9a6ec6c4abe63513b165ee57c5f367ce97c96443",
+        "size_in_bytes": 2640,
+        "sha256_in_prefix": "e0a28732c38cab0dfa1e41ff9a6ec6c4abe63513b165ee57c5f367ce97c96443"
+      },
+      {
+        "_path": "site-packages/dateparser/data/date_translation_data/or.py",
+        "path_type": "hardlink",
+        "sha256": "27f67ca9f1869a6187233a88f23c07e402984807be4a619b69e64730e0685a3c",
+        "size_in_bytes": 2671,
+        "sha256_in_prefix": "27f67ca9f1869a6187233a88f23c07e402984807be4a619b69e64730e0685a3c"
+      },
+      {
+        "_path": "site-packages/dateparser/data/date_translation_data/os.py",
+        "path_type": "hardlink",
+        "sha256": "424c9ec86f324240eed89be2914db25dc322e5147ad7ed5042b95b4247793e92",
+        "size_in_bytes": 3664,
+        "sha256_in_prefix": "424c9ec86f324240eed89be2914db25dc322e5147ad7ed5042b95b4247793e92"
+      },
+      {
+        "_path": "site-packages/dateparser/data/date_translation_data/pa-Arab.py",
+        "path_type": "hardlink",
+        "sha256": "0fe8129bf0de5f33eb8e562b3bade98097a71e9ef1515b6e6c251a812025a17f",
+        "size_in_bytes": 2343,
+        "sha256_in_prefix": "0fe8129bf0de5f33eb8e562b3bade98097a71e9ef1515b6e6c251a812025a17f"
+      },
+      {
+        "_path": "site-packages/dateparser/data/date_translation_data/pa-Guru.py",
+        "path_type": "hardlink",
+        "sha256": "831cb27d53818c868b94042629e33df4d6afcefe2a346569c8bacac535be0b13",
+        "size_in_bytes": 5148,
+        "sha256_in_prefix": "831cb27d53818c868b94042629e33df4d6afcefe2a346569c8bacac535be0b13"
+      },
+      {
+        "_path": "site-packages/dateparser/data/date_translation_data/pa.py",
+        "path_type": "hardlink",
+        "sha256": "7ced5baac83589d15c5f4d9640af7ff1dbf56d21cc54116a54752ae5fd078dd0",
+        "size_in_bytes": 5143,
+        "sha256_in_prefix": "7ced5baac83589d15c5f4d9640af7ff1dbf56d21cc54116a54752ae5fd078dd0"
+      },
+      {
+        "_path": "site-packages/dateparser/data/date_translation_data/pl.py",
+        "path_type": "hardlink",
+        "sha256": "14bd9a70a7f211e107893dce29cb7aa1af74e9f9255d7fe99f72a1b4f31801cf",
+        "size_in_bytes": 8114,
+        "sha256_in_prefix": "14bd9a70a7f211e107893dce29cb7aa1af74e9f9255d7fe99f72a1b4f31801cf"
+      },
+      {
+        "_path": "site-packages/dateparser/data/date_translation_data/ps.py",
+        "path_type": "hardlink",
+        "sha256": "d7524efb323dee879e4a65b4ac35b02188a793c407b18297214e608c1a2f2d3a",
+        "size_in_bytes": 2347,
+        "sha256_in_prefix": "d7524efb323dee879e4a65b4ac35b02188a793c407b18297214e608c1a2f2d3a"
+      },
+      {
+        "_path": "site-packages/dateparser/data/date_translation_data/pt.py",
+        "path_type": "hardlink",
+        "sha256": "019c1df25cd903b4caf1240af43f32d1c40a2272aeefb71b3d4c20cce0c73ec0",
+        "size_in_bytes": 28070,
+        "sha256_in_prefix": "019c1df25cd903b4caf1240af43f32d1c40a2272aeefb71b3d4c20cce0c73ec0"
+      },
+      {
+        "_path": "site-packages/dateparser/data/date_translation_data/qu.py",
+        "path_type": "hardlink",
+        "sha256": "243c15cc7505e5d313b75b85f59671dfd9512b63e04f33b5b3e68ea7af558371",
+        "size_in_bytes": 2716,
+        "sha256_in_prefix": "243c15cc7505e5d313b75b85f59671dfd9512b63e04f33b5b3e68ea7af558371"
+      },
+      {
+        "_path": "site-packages/dateparser/data/date_translation_data/rm.py",
+        "path_type": "hardlink",
+        "sha256": "5d1f6f415b637666003b7085d4767781e83db2cf70f30103b305667113466466",
+        "size_in_bytes": 2503,
+        "sha256_in_prefix": "5d1f6f415b637666003b7085d4767781e83db2cf70f30103b305667113466466"
+      },
+      {
+        "_path": "site-packages/dateparser/data/date_translation_data/rn.py",
+        "path_type": "hardlink",
+        "sha256": "9bc0b4fe95aa2927d23fa7045fb5bba852c34414f4ff708c0698e28429a3f3bf",
+        "size_in_bytes": 2636,
+        "sha256_in_prefix": "9bc0b4fe95aa2927d23fa7045fb5bba852c34414f4ff708c0698e28429a3f3bf"
+      },
+      {
+        "_path": "site-packages/dateparser/data/date_translation_data/ro.py",
+        "path_type": "hardlink",
+        "sha256": "06621e5a84c24a3dbf266eed4925b9efa2a286078a2f865b2d80e6ddcf155edc",
+        "size_in_bytes": 5407,
+        "sha256_in_prefix": "06621e5a84c24a3dbf266eed4925b9efa2a286078a2f865b2d80e6ddcf155edc"
+      },
+      {
+        "_path": "site-packages/dateparser/data/date_translation_data/rof.py",
+        "path_type": "hardlink",
+        "sha256": "e8ff0afce4d1bc1de5fee24d3dba8c0e172e81df7ed382ce8b1a090849850928",
+        "size_in_bytes": 2501,
+        "sha256_in_prefix": "e8ff0afce4d1bc1de5fee24d3dba8c0e172e81df7ed382ce8b1a090849850928"
+      },
+      {
+        "_path": "site-packages/dateparser/data/date_translation_data/ru.py",
+        "path_type": "hardlink",
+        "sha256": "327d3c57aa4caf0aeda7b5cc1540131c947dd8d8f99d227e9296d2a1fe4e150e",
+        "size_in_bytes": 12205,
+        "sha256_in_prefix": "327d3c57aa4caf0aeda7b5cc1540131c947dd8d8f99d227e9296d2a1fe4e150e"
+      },
+      {
+        "_path": "site-packages/dateparser/data/date_translation_data/rw.py",
+        "path_type": "hardlink",
+        "sha256": "59c4b9d7df4b05b1e369ec2842e9d083ee1f8fcb65cee030d32524cd0e1c892d",
+        "size_in_bytes": 2597,
+        "sha256_in_prefix": "59c4b9d7df4b05b1e369ec2842e9d083ee1f8fcb65cee030d32524cd0e1c892d"
+      },
+      {
+        "_path": "site-packages/dateparser/data/date_translation_data/rwk.py",
+        "path_type": "hardlink",
+        "sha256": "8a89b6b847d90def943914de820708c9395a187ec94741039198c3fde4dfbaf7",
+        "size_in_bytes": 2551,
+        "sha256_in_prefix": "8a89b6b847d90def943914de820708c9395a187ec94741039198c3fde4dfbaf7"
+      },
+      {
+        "_path": "site-packages/dateparser/data/date_translation_data/sah.py",
+        "path_type": "hardlink",
+        "sha256": "c4b1fd9b85bc0d3efe1e64bc2d6d164b8d3221183e695e69714de5bdd5b6b020",
+        "size_in_bytes": 4536,
+        "sha256_in_prefix": "c4b1fd9b85bc0d3efe1e64bc2d6d164b8d3221183e695e69714de5bdd5b6b020"
+      },
+      {
+        "_path": "site-packages/dateparser/data/date_translation_data/saq.py",
+        "path_type": "hardlink",
+        "sha256": "8cac9bacd34aef83ae44f7d5af70ff966f1f2fca7d6fd51b98b1304b8d274419",
+        "size_in_bytes": 2703,
+        "sha256_in_prefix": "8cac9bacd34aef83ae44f7d5af70ff966f1f2fca7d6fd51b98b1304b8d274419"
+      },
+      {
+        "_path": "site-packages/dateparser/data/date_translation_data/sbp.py",
+        "path_type": "hardlink",
+        "sha256": "a54e8b3dd68ed97a00ab6503583021c479bbb871b1fba393e69efeb4d4fe8581",
+        "size_in_bytes": 2619,
+        "sha256_in_prefix": "a54e8b3dd68ed97a00ab6503583021c479bbb871b1fba393e69efeb4d4fe8581"
+      },
+      {
+        "_path": "site-packages/dateparser/data/date_translation_data/se.py",
+        "path_type": "hardlink",
+        "sha256": "7fbe734d6f69011e0581a65fcfe5f85e015614a229965d24b45f40be30b13703",
+        "size_in_bytes": 5794,
+        "sha256_in_prefix": "7fbe734d6f69011e0581a65fcfe5f85e015614a229965d24b45f40be30b13703"
+      },
+      {
+        "_path": "site-packages/dateparser/data/date_translation_data/seh.py",
+        "path_type": "hardlink",
+        "sha256": "eac3c296dc37e90c05c8355031def5260fe8d4f7333c78d5a4f4bfa13d101a1a",
+        "size_in_bytes": 2555,
+        "sha256_in_prefix": "eac3c296dc37e90c05c8355031def5260fe8d4f7333c78d5a4f4bfa13d101a1a"
+      },
+      {
+        "_path": "site-packages/dateparser/data/date_translation_data/ses.py",
+        "path_type": "hardlink",
+        "sha256": "b985e0f96aee76e02d53c351ed9cd6c3a6c0657b8342b83c940157efb881483a",
+        "size_in_bytes": 2530,
+        "sha256_in_prefix": "b985e0f96aee76e02d53c351ed9cd6c3a6c0657b8342b83c940157efb881483a"
+      },
+      {
+        "_path": "site-packages/dateparser/data/date_translation_data/sg.py",
+        "path_type": "hardlink",
+        "sha256": "01b5e0d5ffcb369042c242f4713b7cdd94da8a01f6aa0de102b8b2fb21584acc",
+        "size_in_bytes": 2622,
+        "sha256_in_prefix": "01b5e0d5ffcb369042c242f4713b7cdd94da8a01f6aa0de102b8b2fb21584acc"
+      },
+      {
+        "_path": "site-packages/dateparser/data/date_translation_data/shi-Latn.py",
+        "path_type": "hardlink",
+        "sha256": "7c76a61a4ccc3152c831908b612b34b33c90489867bad90ae1deb29b12dc63c2",
+        "size_in_bytes": 2587,
+        "sha256_in_prefix": "7c76a61a4ccc3152c831908b612b34b33c90489867bad90ae1deb29b12dc63c2"
+      },
+      {
+        "_path": "site-packages/dateparser/data/date_translation_data/shi-Tfng.py",
+        "path_type": "hardlink",
+        "sha256": "181fa7c14f6ba43bae1a8146fc705bb0e9ebdeeacce932b327e01d241721a8bc",
+        "size_in_bytes": 3036,
+        "sha256_in_prefix": "181fa7c14f6ba43bae1a8146fc705bb0e9ebdeeacce932b327e01d241721a8bc"
+      },
+      {
+        "_path": "site-packages/dateparser/data/date_translation_data/shi.py",
+        "path_type": "hardlink",
+        "sha256": "32c554db4c0a8feca90e1c07e0577ab0073291d8fe314e4725d83f5eb6204808",
+        "size_in_bytes": 3031,
+        "sha256_in_prefix": "32c554db4c0a8feca90e1c07e0577ab0073291d8fe314e4725d83f5eb6204808"
+      },
+      {
+        "_path": "site-packages/dateparser/data/date_translation_data/si.py",
+        "path_type": "hardlink",
+        "sha256": "3bf3e1f1d85b54ea864602f21a8f5fc08401b472abc0dfd651de87d2581b0f8b",
+        "size_in_bytes": 4835,
+        "sha256_in_prefix": "3bf3e1f1d85b54ea864602f21a8f5fc08401b472abc0dfd651de87d2581b0f8b"
+      },
+      {
+        "_path": "site-packages/dateparser/data/date_translation_data/sk.py",
+        "path_type": "hardlink",
+        "sha256": "8abf7fcfdf553bd29ead407023a564d736daf9f7553baecf290559a7d52e299a",
+        "size_in_bytes": 6649,
+        "sha256_in_prefix": "8abf7fcfdf553bd29ead407023a564d736daf9f7553baecf290559a7d52e299a"
+      },
+      {
+        "_path": "site-packages/dateparser/data/date_translation_data/sl.py",
+        "path_type": "hardlink",
+        "sha256": "6c887c8911a976be8a58acb9d46ee9567d5fbd95ab245ed6ff3042cd282af240",
+        "size_in_bytes": 4790,
+        "sha256_in_prefix": "6c887c8911a976be8a58acb9d46ee9567d5fbd95ab245ed6ff3042cd282af240"
+      },
+      {
+        "_path": "site-packages/dateparser/data/date_translation_data/smn.py",
+        "path_type": "hardlink",
+        "sha256": "777b32bf407f5d30502042db48c110271a8ff60ccbb9c2f82357fa547de2e2e7",
+        "size_in_bytes": 2866,
+        "sha256_in_prefix": "777b32bf407f5d30502042db48c110271a8ff60ccbb9c2f82357fa547de2e2e7"
+      },
+      {
+        "_path": "site-packages/dateparser/data/date_translation_data/sn.py",
+        "path_type": "hardlink",
+        "sha256": "e84a39d9315ae83139d3fd31c45d4601321eae21a49b13f5c1f8f85cdc99a963",
+        "size_in_bytes": 2567,
+        "sha256_in_prefix": "e84a39d9315ae83139d3fd31c45d4601321eae21a49b13f5c1f8f85cdc99a963"
+      },
+      {
+        "_path": "site-packages/dateparser/data/date_translation_data/so.py",
+        "path_type": "hardlink",
+        "sha256": "fb737ee08129912f005c2a8731fb4f0e09d6ce31fcf63ef7767dba588229d020",
+        "size_in_bytes": 2821,
+        "sha256_in_prefix": "fb737ee08129912f005c2a8731fb4f0e09d6ce31fcf63ef7767dba588229d020"
+      },
+      {
+        "_path": "site-packages/dateparser/data/date_translation_data/sq.py",
+        "path_type": "hardlink",
+        "sha256": "1d9fc6713506ff2252fefe3a8570e480591c570253f042c8d21283605fd53516",
+        "size_in_bytes": 4563,
+        "sha256_in_prefix": "1d9fc6713506ff2252fefe3a8570e480591c570253f042c8d21283605fd53516"
+      },
+      {
+        "_path": "site-packages/dateparser/data/date_translation_data/sr-Cyrl.py",
+        "path_type": "hardlink",
+        "sha256": "e899cb924fccd2e45791014b8600a81e6dcfd4b9320c81cad1f8a8cc6b3d221a",
+        "size_in_bytes": 6960,
+        "sha256_in_prefix": "e899cb924fccd2e45791014b8600a81e6dcfd4b9320c81cad1f8a8cc6b3d221a"
+      },
+      {
+        "_path": "site-packages/dateparser/data/date_translation_data/sr-Latn.py",
+        "path_type": "hardlink",
+        "sha256": "2a3bf5567b6e1d3e66b7123a5ac2285d036608a947dd95ce767862a28eb48edb",
+        "size_in_bytes": 6236,
+        "sha256_in_prefix": "2a3bf5567b6e1d3e66b7123a5ac2285d036608a947dd95ce767862a28eb48edb"
+      },
+      {
+        "_path": "site-packages/dateparser/data/date_translation_data/sr.py",
+        "path_type": "hardlink",
+        "sha256": "7925be7f36f502646ba9bdd0768ac4c07c5afddde4ec75a7b38354557cb5b4b1",
+        "size_in_bytes": 5794,
+        "sha256_in_prefix": "7925be7f36f502646ba9bdd0768ac4c07c5afddde4ec75a7b38354557cb5b4b1"
+      },
+      {
+        "_path": "site-packages/dateparser/data/date_translation_data/sv.py",
+        "path_type": "hardlink",
+        "sha256": "c1bf082cc892f98a6df0a86134072538be8e0af1ed26b1fa9aeff3556d3f8702",
+        "size_in_bytes": 6184,
+        "sha256_in_prefix": "c1bf082cc892f98a6df0a86134072538be8e0af1ed26b1fa9aeff3556d3f8702"
+      },
+      {
+        "_path": "site-packages/dateparser/data/date_translation_data/sw.py",
+        "path_type": "hardlink",
+        "sha256": "575f760a0e99dfde14e2d897524ac051ccb12401050730c8fcb603adcdb6127b",
+        "size_in_bytes": 4362,
+        "sha256_in_prefix": "575f760a0e99dfde14e2d897524ac051ccb12401050730c8fcb603adcdb6127b"
+      },
+      {
+        "_path": "site-packages/dateparser/data/date_translation_data/ta.py",
+        "path_type": "hardlink",
+        "sha256": "6e000075d26a90cb37fd69f22e20f3a77526b3215f14501b5badd2a814edd92a",
+        "size_in_bytes": 7076,
+        "sha256_in_prefix": "6e000075d26a90cb37fd69f22e20f3a77526b3215f14501b5badd2a814edd92a"
+      },
+      {
+        "_path": "site-packages/dateparser/data/date_translation_data/te.py",
+        "path_type": "hardlink",
+        "sha256": "f7d79a8319a847fc3bc342cd856969d2fa2f5c816948c8d3d4af1f4165827491",
+        "size_in_bytes": 5976,
+        "sha256_in_prefix": "f7d79a8319a847fc3bc342cd856969d2fa2f5c816948c8d3d4af1f4165827491"
+      },
+      {
+        "_path": "site-packages/dateparser/data/date_translation_data/teo.py",
+        "path_type": "hardlink",
+        "sha256": "e03c61f76014e3f4bd8f2c00cf353e367aeb22eb280751aca538d780df10c804",
+        "size_in_bytes": 2646,
+        "sha256_in_prefix": "e03c61f76014e3f4bd8f2c00cf353e367aeb22eb280751aca538d780df10c804"
+      },
+      {
+        "_path": "site-packages/dateparser/data/date_translation_data/th.py",
+        "path_type": "hardlink",
+        "sha256": "27d67ee85034dc08c39f054974d6972ccd6b5bc906172a00ee48d6d5c59cc222",
+        "size_in_bytes": 7846,
+        "sha256_in_prefix": "27d67ee85034dc08c39f054974d6972ccd6b5bc906172a00ee48d6d5c59cc222"
+      },
+      {
+        "_path": "site-packages/dateparser/data/date_translation_data/ti.py",
+        "path_type": "hardlink",
+        "sha256": "8b5998025600e616ab69fd231001e8d96e6d87f7adb974c62b733bfec48a8c70",
+        "size_in_bytes": 2782,
+        "sha256_in_prefix": "8b5998025600e616ab69fd231001e8d96e6d87f7adb974c62b733bfec48a8c70"
+      },
+      {
+        "_path": "site-packages/dateparser/data/date_translation_data/tl.py",
+        "path_type": "hardlink",
+        "sha256": "ebf150f4313e4ce8a74c6f40d6a7fe72fdf22944fed4d695242a3c410a2ac5bd",
+        "size_in_bytes": 1938,
+        "sha256_in_prefix": "ebf150f4313e4ce8a74c6f40d6a7fe72fdf22944fed4d695242a3c410a2ac5bd"
+      },
+      {
+        "_path": "site-packages/dateparser/data/date_translation_data/to.py",
+        "path_type": "hardlink",
+        "sha256": "58271c0358e3f25b2ba3a2d0e0a94a406062cbed2e0c462cfa269ce613123572",
+        "size_in_bytes": 3862,
+        "sha256_in_prefix": "58271c0358e3f25b2ba3a2d0e0a94a406062cbed2e0c462cfa269ce613123572"
+      },
+      {
+        "_path": "site-packages/dateparser/data/date_translation_data/tr.py",
+        "path_type": "hardlink",
+        "sha256": "460994dddb6a7e7e59272321cca7e93d4673d73c6564ea0dcfc382201c0924c9",
+        "size_in_bytes": 4681,
+        "sha256_in_prefix": "460994dddb6a7e7e59272321cca7e93d4673d73c6564ea0dcfc382201c0924c9"
+      },
+      {
+        "_path": "site-packages/dateparser/data/date_translation_data/twq.py",
+        "path_type": "hardlink",
+        "sha256": "f6c2046d02a267b66f3417963a5e8c92dc4b3c57e8ef0be3b2c400f3790adcfb",
+        "size_in_bytes": 2536,
+        "sha256_in_prefix": "f6c2046d02a267b66f3417963a5e8c92dc4b3c57e8ef0be3b2c400f3790adcfb"
+      },
+      {
+        "_path": "site-packages/dateparser/data/date_translation_data/tzm.py",
+        "path_type": "hardlink",
+        "sha256": "600ecbb41b40ddd97a8c974f26a7471f2aa620b926044b5354eff6f589409969",
+        "size_in_bytes": 2580,
+        "sha256_in_prefix": "600ecbb41b40ddd97a8c974f26a7471f2aa620b926044b5354eff6f589409969"
+      },
+      {
+        "_path": "site-packages/dateparser/data/date_translation_data/ug.py",
+        "path_type": "hardlink",
+        "sha256": "15abdaf090a42698ec53563051b0604417ecec9c60080563adab66752f8cc228",
+        "size_in_bytes": 4011,
+        "sha256_in_prefix": "15abdaf090a42698ec53563051b0604417ecec9c60080563adab66752f8cc228"
+      },
+      {
+        "_path": "site-packages/dateparser/data/date_translation_data/uk.py",
+        "path_type": "hardlink",
+        "sha256": "c211c2817b9de9c838627327913fc46010f6e0119231b69033b7d2d5790f9b22",
+        "size_in_bytes": 11520,
+        "sha256_in_prefix": "c211c2817b9de9c838627327913fc46010f6e0119231b69033b7d2d5790f9b22"
+      },
+      {
+        "_path": "site-packages/dateparser/data/date_translation_data/ur.py",
+        "path_type": "hardlink",
+        "sha256": "2080ec3178f41dfd5565a66069611a8115abc741afc59c7d17e34e93b71053fd",
+        "size_in_bytes": 5789,
+        "sha256_in_prefix": "2080ec3178f41dfd5565a66069611a8115abc741afc59c7d17e34e93b71053fd"
+      },
+      {
+        "_path": "site-packages/dateparser/data/date_translation_data/uz-Arab.py",
+        "path_type": "hardlink",
+        "sha256": "6af176f71d531ee5300b6a727894f97eb93972557210db93b9e9eb4978d7062d",
+        "size_in_bytes": 2626,
+        "sha256_in_prefix": "6af176f71d531ee5300b6a727894f97eb93972557210db93b9e9eb4978d7062d"
+      },
+      {
+        "_path": "site-packages/dateparser/data/date_translation_data/uz-Cyrl.py",
+        "path_type": "hardlink",
+        "sha256": "bd8b322ce8c5b50008196e88d919bf34e83274e94c5b675048f22e7b9b52505b",
+        "size_in_bytes": 4043,
+        "sha256_in_prefix": "bd8b322ce8c5b50008196e88d919bf34e83274e94c5b675048f22e7b9b52505b"
+      },
+      {
+        "_path": "site-packages/dateparser/data/date_translation_data/uz-Latn.py",
+        "path_type": "hardlink",
+        "sha256": "c5a7c805a6c75bb18f312f86f89c7830b5b4f9597aef9d3fb083892248e0ee22",
+        "size_in_bytes": 3775,
+        "sha256_in_prefix": "c5a7c805a6c75bb18f312f86f89c7830b5b4f9597aef9d3fb083892248e0ee22"
+      },
+      {
+        "_path": "site-packages/dateparser/data/date_translation_data/uz.py",
+        "path_type": "hardlink",
+        "sha256": "51e5d5948316321e7a7d63bbfb69fd888258780e7fcfb75429ffb210b9ea04ea",
+        "size_in_bytes": 3770,
+        "sha256_in_prefix": "51e5d5948316321e7a7d63bbfb69fd888258780e7fcfb75429ffb210b9ea04ea"
+      },
+      {
+        "_path": "site-packages/dateparser/data/date_translation_data/vi.py",
+        "path_type": "hardlink",
+        "sha256": "b31ba0193567b198a3b8bc3be1df513884e0db5448f82e85e3632d54855c3404",
+        "size_in_bytes": 4810,
+        "sha256_in_prefix": "b31ba0193567b198a3b8bc3be1df513884e0db5448f82e85e3632d54855c3404"
+      },
+      {
+        "_path": "site-packages/dateparser/data/date_translation_data/vun.py",
+        "path_type": "hardlink",
+        "sha256": "1188d8b4c31e75889729d91ec3c1199601bf63ecd06bcacac55b8721ea33012c",
+        "size_in_bytes": 2551,
+        "sha256_in_prefix": "1188d8b4c31e75889729d91ec3c1199601bf63ecd06bcacac55b8721ea33012c"
+      },
+      {
+        "_path": "site-packages/dateparser/data/date_translation_data/wae.py",
+        "path_type": "hardlink",
+        "sha256": "15945e93d95dfe06438b8fe02a7187b32e071ffc3552d1991dcbf68e210ea897",
+        "size_in_bytes": 4145,
+        "sha256_in_prefix": "15945e93d95dfe06438b8fe02a7187b32e071ffc3552d1991dcbf68e210ea897"
+      },
+      {
+        "_path": "site-packages/dateparser/data/date_translation_data/xog.py",
+        "path_type": "hardlink",
+        "sha256": "5e78c219854c9926e617c6cd7945defd8e39530b0d9a60660132bc97124dbccd",
+        "size_in_bytes": 2614,
+        "sha256_in_prefix": "5e78c219854c9926e617c6cd7945defd8e39530b0d9a60660132bc97124dbccd"
+      },
+      {
+        "_path": "site-packages/dateparser/data/date_translation_data/yav.py",
+        "path_type": "hardlink",
+        "sha256": "38baec99f0a5d04d32072d6cf5559033ce1acf381fa1dab85aae5e26c6a90f7f",
+        "size_in_bytes": 2771,
+        "sha256_in_prefix": "38baec99f0a5d04d32072d6cf5559033ce1acf381fa1dab85aae5e26c6a90f7f"
+      },
+      {
+        "_path": "site-packages/dateparser/data/date_translation_data/yi.py",
+        "path_type": "hardlink",
+        "sha256": "8988bf2028a8538005b78d925c191aadf8b7ac0062d95579b6af16eaf8c1a565",
+        "size_in_bytes": 3373,
+        "sha256_in_prefix": "8988bf2028a8538005b78d925c191aadf8b7ac0062d95579b6af16eaf8c1a565"
+      },
+      {
+        "_path": "site-packages/dateparser/data/date_translation_data/yo.py",
+        "path_type": "hardlink",
+        "sha256": "cce99a66d053ee1bc56c1f9b9a7f41ab1b10090b60e462c873baec9a0e6ca5c2",
+        "size_in_bytes": 5122,
+        "sha256_in_prefix": "cce99a66d053ee1bc56c1f9b9a7f41ab1b10090b60e462c873baec9a0e6ca5c2"
+      },
+      {
+        "_path": "site-packages/dateparser/data/date_translation_data/yue.py",
+        "path_type": "hardlink",
+        "sha256": "6d5cb9cbba3cde18cd818e803b4a4cdc52837eb96e04a813c70ffb85774ccefa",
+        "size_in_bytes": 3548,
+        "sha256_in_prefix": "6d5cb9cbba3cde18cd818e803b4a4cdc52837eb96e04a813c70ffb85774ccefa"
+      },
+      {
+        "_path": "site-packages/dateparser/data/date_translation_data/zgh.py",
+        "path_type": "hardlink",
+        "sha256": "8aa5af8b0a1d2cdee8754034768f836584396b9eaa5b8e8c9f9b72e58f7b91f9",
+        "size_in_bytes": 3034,
+        "sha256_in_prefix": "8aa5af8b0a1d2cdee8754034768f836584396b9eaa5b8e8c9f9b72e58f7b91f9"
+      },
+      {
+        "_path": "site-packages/dateparser/data/date_translation_data/zh-Hans.py",
+        "path_type": "hardlink",
+        "sha256": "809d23f74c98e218c1e4338293d107a5eb2b159f665b94ec09a9e08bb876f0e2",
+        "size_in_bytes": 4323,
+        "sha256_in_prefix": "809d23f74c98e218c1e4338293d107a5eb2b159f665b94ec09a9e08bb876f0e2"
+      },
+      {
+        "_path": "site-packages/dateparser/data/date_translation_data/zh-Hant.py",
+        "path_type": "hardlink",
+        "sha256": "dd01fd594446b6a4d61b813ab14942a20a1a6e165a313cfdfc8a6afea632e254",
+        "size_in_bytes": 9362,
+        "sha256_in_prefix": "dd01fd594446b6a4d61b813ab14942a20a1a6e165a313cfdfc8a6afea632e254"
+      },
+      {
+        "_path": "site-packages/dateparser/data/date_translation_data/zh.py",
+        "path_type": "hardlink",
+        "sha256": "8d36eb619b4e1b1d7d7cf8241feddc71852475bfa9a9a6b2370afa479481f051",
+        "size_in_bytes": 5318,
+        "sha256_in_prefix": "8d36eb619b4e1b1d7d7cf8241feddc71852475bfa9a9a6b2370afa479481f051"
+      },
+      {
+        "_path": "site-packages/dateparser/data/date_translation_data/zu.py",
+        "path_type": "hardlink",
+        "sha256": "6e515a47108dd8a56acc08bfecd3f971ffd7cff8005f862a00e927d67c990c18",
+        "size_in_bytes": 3467,
+        "sha256_in_prefix": "6e515a47108dd8a56acc08bfecd3f971ffd7cff8005f862a00e927d67c990c18"
+      },
+      {
+        "_path": "site-packages/dateparser/data/dateparser_tz_cache.pkl",
+        "path_type": "hardlink",
+        "sha256": "c17c59164a29862d75c0b2497551205202e972a7f5192e52000f3d7bc320d3e2",
+        "size_in_bytes": 134536,
+        "sha256_in_prefix": "c17c59164a29862d75c0b2497551205202e972a7f5192e52000f3d7bc320d3e2"
+      },
+      {
+        "_path": "site-packages/dateparser/data/languages_info.py",
+        "path_type": "hardlink",
+        "sha256": "04f1e3012cf6314be073b905dae5ebb586dc8fcdb79232f1ad1f17ff02e20047",
+        "size_in_bytes": 13406,
+        "sha256_in_prefix": "04f1e3012cf6314be073b905dae5ebb586dc8fcdb79232f1ad1f17ff02e20047"
+      },
+      {
+        "_path": "site-packages/dateparser/date.py",
+        "path_type": "hardlink",
+        "sha256": "0d9659d380aca79a6c471540dcf9aeec11324d5e79e3d2314a2f9b9c312fe307",
+        "size_in_bytes": 21829,
+        "sha256_in_prefix": "0d9659d380aca79a6c471540dcf9aeec11324d5e79e3d2314a2f9b9c312fe307"
+      },
+      {
+        "_path": "site-packages/dateparser/date_parser.py",
+        "path_type": "hardlink",
+        "sha256": "2cf303d4b6b77d44f27dad7b8b4360fa68a2eae71620199efb32496377acf948",
+        "size_in_bytes": 1782,
+        "sha256_in_prefix": "2cf303d4b6b77d44f27dad7b8b4360fa68a2eae71620199efb32496377acf948"
+      },
+      {
+        "_path": "site-packages/dateparser/freshness_date_parser.py",
+        "path_type": "hardlink",
+        "sha256": "d04f336ef1edff303dec575eb771d41e4f2d5ed544cc11fe7f4622fd5b7e678e",
+        "size_in_bytes": 5899,
+        "sha256_in_prefix": "d04f336ef1edff303dec575eb771d41e4f2d5ed544cc11fe7f4622fd5b7e678e"
+      },
+      {
+        "_path": "site-packages/dateparser/languages/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "890e28d752dbbe56b049a0333c746e6af5ea0e6ccf753992808fd8c144e043d0",
+        "size_in_bytes": 62,
+        "sha256_in_prefix": "890e28d752dbbe56b049a0333c746e6af5ea0e6ccf753992808fd8c144e043d0"
+      },
+      {
+        "_path": "site-packages/dateparser/languages/dictionary.py",
+        "path_type": "hardlink",
+        "sha256": "87b4a9fe5618b9574c09e49dcfb7e499abfcb6b44542e790b52892e241eddf19",
+        "size_in_bytes": 12118,
+        "sha256_in_prefix": "87b4a9fe5618b9574c09e49dcfb7e499abfcb6b44542e790b52892e241eddf19"
+      },
+      {
+        "_path": "site-packages/dateparser/languages/loader.py",
+        "path_type": "hardlink",
+        "sha256": "813cb25445fca69795110d52ac88e3c704aaf21a532391d39d2fdcc95a2d7a07",
+        "size_in_bytes": 7323,
+        "sha256_in_prefix": "813cb25445fca69795110d52ac88e3c704aaf21a532391d39d2fdcc95a2d7a07"
+      },
+      {
+        "_path": "site-packages/dateparser/languages/locale.py",
+        "path_type": "hardlink",
+        "sha256": "92131e9739332dc4c7ef2174d56f64b09a083dc9bbd8806f8544d5379c9013bd",
+        "size_in_bytes": 25752,
+        "sha256_in_prefix": "92131e9739332dc4c7ef2174d56f64b09a083dc9bbd8806f8544d5379c9013bd"
+      },
+      {
+        "_path": "site-packages/dateparser/languages/validation.py",
+        "path_type": "hardlink",
+        "sha256": "82d2e9c6f8775c8fe7cebc8167c340e902fc60b713e875758fcd5d5779c3c58e",
+        "size_in_bytes": 16750,
+        "sha256_in_prefix": "82d2e9c6f8775c8fe7cebc8167c340e902fc60b713e875758fcd5d5779c3c58e"
+      },
+      {
+        "_path": "site-packages/dateparser/parser.py",
+        "path_type": "hardlink",
+        "sha256": "28375ef079720f9c05111893f0006b2314da90bb0413b5580382a27fa55645b4",
+        "size_in_bytes": 26005,
+        "sha256_in_prefix": "28375ef079720f9c05111893f0006b2314da90bb0413b5580382a27fa55645b4"
+      },
+      {
+        "_path": "site-packages/dateparser/search/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "e008b1cc9bbd6080f5bf33522b1f2e27473228d646bcef01ccc37a269a1c8bce",
+        "size_in_bytes": 2909,
+        "sha256_in_prefix": "e008b1cc9bbd6080f5bf33522b1f2e27473228d646bcef01ccc37a269a1c8bce"
+      },
+      {
+        "_path": "site-packages/dateparser/search/detection.py",
+        "path_type": "hardlink",
+        "sha256": "6009d361b335f05199576a719fa94d0db7e8890b6dccce7664380e86557cec82",
+        "size_in_bytes": 2695,
+        "sha256_in_prefix": "6009d361b335f05199576a719fa94d0db7e8890b6dccce7664380e86557cec82"
+      },
+      {
+        "_path": "site-packages/dateparser/search/search.py",
+        "path_type": "hardlink",
+        "sha256": "fe1ac6b9b2bab0593ed73c00791a3f764aa789a90beaa24e23e9e15213908afc",
+        "size_in_bytes": 12833,
+        "sha256_in_prefix": "fe1ac6b9b2bab0593ed73c00791a3f764aa789a90beaa24e23e9e15213908afc"
+      },
+      {
+        "_path": "site-packages/dateparser/search/text_detection.py",
+        "path_type": "hardlink",
+        "sha256": "4924143abe55dd09bde3a4e2cfb84d59ca5826d7323fd0716b2c5e734842ef37",
+        "size_in_bytes": 3238,
+        "sha256_in_prefix": "4924143abe55dd09bde3a4e2cfb84d59ca5826d7323fd0716b2c5e734842ef37"
+      },
+      {
+        "_path": "site-packages/dateparser/timezone_parser.py",
+        "path_type": "hardlink",
+        "sha256": "328313007fff86479aa1943a55a66126950fc5dfb203d4137339be9a61f3b4a7",
+        "size_in_bytes": 4042,
+        "sha256_in_prefix": "328313007fff86479aa1943a55a66126950fc5dfb203d4137339be9a61f3b4a7"
+      },
+      {
+        "_path": "site-packages/dateparser/timezones.py",
+        "path_type": "hardlink",
+        "sha256": "82d2616430b2e2cc37ecca54a205a4e0b1ca9a7f03a46e5c68edcb21a082dbae",
+        "size_in_bytes": 13981,
+        "sha256_in_prefix": "82d2616430b2e2cc37ecca54a205a4e0b1ca9a7f03a46e5c68edcb21a082dbae"
+      },
+      {
+        "_path": "site-packages/dateparser/utils/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "5f9b2c750ba8eb417f4a755c2a9b7e6b67a1bcf0a531a5f6a50dafc0658649a7",
+        "size_in_bytes": 7234,
+        "sha256_in_prefix": "5f9b2c750ba8eb417f4a755c2a9b7e6b67a1bcf0a531a5f6a50dafc0658649a7"
+      },
+      {
+        "_path": "site-packages/dateparser/utils/strptime.py",
+        "path_type": "hardlink",
+        "sha256": "62075f2c0c1e75c7abdec770b6ad20a25d93069608a8036f16b7f8bb42b79808",
+        "size_in_bytes": 3948,
+        "sha256_in_prefix": "62075f2c0c1e75c7abdec770b6ad20a25d93069608a8036f16b7f8bb42b79808"
+      },
+      {
+        "_path": "site-packages/dateparser/utils/time_spans.py",
+        "path_type": "hardlink",
+        "sha256": "f032d5454ee233fbf9b4986e61d8e139a4c7d8cc6ba20b97a2bc7168951fdfe1",
+        "size_in_bytes": 5303,
+        "sha256_in_prefix": "f032d5454ee233fbf9b4986e61d8e139a4c7d8cc6ba20b97a2bc7168951fdfe1"
+      },
+      {
+        "_path": "site-packages/dateparser_cli/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0,
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      {
+        "_path": "site-packages/dateparser_cli/cli.py",
+        "path_type": "hardlink",
+        "sha256": "a59495c193bf37501f3c97db6d31e0bc49d5f249afc8a99de9840b613ddea62b",
+        "size_in_bytes": 991,
+        "sha256_in_prefix": "a59495c193bf37501f3c97db6d31e0bc49d5f249afc8a99de9840b613ddea62b"
+      },
+      {
+        "_path": "site-packages/dateparser_cli/exceptions.py",
+        "path_type": "hardlink",
+        "sha256": "89fc1a8b93a7ea8a6e854a411cca33d22164c9bb5983b9b78071e7c6d384a049",
+        "size_in_bytes": 58,
+        "sha256_in_prefix": "89fc1a8b93a7ea8a6e854a411cca33d22164c9bb5983b9b78071e7c6d384a049"
+      },
+      {
+        "_path": "site-packages/dateparser_cli/fasttext_manager.py",
+        "path_type": "hardlink",
+        "sha256": "435238d8d151e988214d1c928cd03d58542727a97fd8a0d6e156b15d4d5a9a20",
+        "size_in_bytes": 1495,
+        "sha256_in_prefix": "435238d8d151e988214d1c928cd03d58542727a97fd8a0d6e156b15d4d5a9a20"
+      },
+      {
+        "_path": "site-packages/dateparser_cli/utils.py",
+        "path_type": "hardlink",
+        "sha256": "5c445fe3d11ddc0bf1f75b230ba473d4b8a2f72bede7d2d72a13ac6774ae37d1",
+        "size_in_bytes": 645,
+        "sha256_in_prefix": "5c445fe3d11ddc0bf1f75b230ba473d4b8a2f72bede7d2d72a13ac6774ae37d1"
+      },
+      {
+        "_path": "site-packages/dateparser_data/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0,
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      {
+        "_path": "site-packages/dateparser_data/settings.py",
+        "path_type": "hardlink",
+        "sha256": "eeb48b9aab5bc3c0ca1af86cdb70f86aa3fe2196e123e746688da7f25ffbbee9",
+        "size_in_bytes": 977,
+        "sha256_in_prefix": "eeb48b9aab5bc3c0ca1af86cdb70f86aa3fe2196e123e746688da7f25ffbbee9"
+      },
+      {
+        "_path": "site-packages/dateparser_scripts/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0,
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      {
+        "_path": "site-packages/dateparser_scripts/get_cldr_data.py",
+        "path_type": "hardlink",
+        "sha256": "03ace2157b4aef652f18380761abc3a9a76c9c11f97b3335460a57c9d93e0cf0",
+        "size_in_bytes": 16926,
+        "sha256_in_prefix": "03ace2157b4aef652f18380761abc3a9a76c9c11f97b3335460a57c9d93e0cf0"
+      },
+      {
+        "_path": "site-packages/dateparser_scripts/order_languages.py",
+        "path_type": "hardlink",
+        "sha256": "06462602a16fa0cbe3dc8ef17237aeb73d01c79550424cbaf18e5f36b3732e68",
+        "size_in_bytes": 7201,
+        "sha256_in_prefix": "06462602a16fa0cbe3dc8ef17237aeb73d01c79550424cbaf18e5f36b3732e68"
+      },
+      {
+        "_path": "site-packages/dateparser_scripts/update_supported_languages_and_locales.py",
+        "path_type": "hardlink",
+        "sha256": "05a1f3cc288b2af92129c6a5e380b279d64d214ac1ac8e1f9b42f11e271127c8",
+        "size_in_bytes": 1460,
+        "sha256_in_prefix": "05a1f3cc288b2af92129c6a5e380b279d64d214ac1ac8e1f9b42f11e271127c8"
+      },
+      {
+        "_path": "site-packages/dateparser_scripts/utils.py",
+        "path_type": "hardlink",
+        "sha256": "530e076e0c1b298b947b3b54c3d390aadccfb63981c4106a1b2b4b5e3b5289af",
+        "size_in_bytes": 2579,
+        "sha256_in_prefix": "530e076e0c1b298b947b3b54c3d390aadccfb63981c4106a1b2b4b5e3b5289af"
+      },
+      {
+        "_path": "site-packages/dateparser_scripts/write_complete_data.py",
+        "path_type": "hardlink",
+        "sha256": "452ff493e4d901d8821bb3fb6918990e03e17c5c25cc5224ddd7fa6b4f38e9cc",
+        "size_in_bytes": 4543,
+        "sha256_in_prefix": "452ff493e4d901d8821bb3fb6918990e03e17c5c25cc5224ddd7fa6b4f38e9cc"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/dateparser/__pycache__/__init__.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/dateparser/calendars/__pycache__/__init__.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/dateparser/calendars/__pycache__/hijri.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/dateparser/calendars/__pycache__/hijri_parser.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/dateparser/calendars/__pycache__/jalali.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/dateparser/calendars/__pycache__/jalali_parser.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/dateparser/__pycache__/conf.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/dateparser/custom_language_detection/__pycache__/__init__.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/dateparser/custom_language_detection/__pycache__/fasttext.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/dateparser/custom_language_detection/__pycache__/langdetect.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/dateparser/custom_language_detection/__pycache__/language_mapping.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/dateparser/data/__pycache__/__init__.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/__init__.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/af.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/agq.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/ak.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/am.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/ar.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/as.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/asa.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/ast.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/az-Cyrl.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/az-Latn.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/az.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/bas.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/be.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/bem.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/bez.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/bg.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/bm.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/bn.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/bo.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/br.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/brx.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/bs-Cyrl.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/bs-Latn.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/bs.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/ca.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/ce.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/cgg.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/chr.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/ckb.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/cs.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/cy.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/da.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/dav.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/de.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/dje.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/dsb.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/dua.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/dyo.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/dz.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/ebu.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/ee.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/el.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/en.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/eo.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/es.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/et.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/eu.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/ewo.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/fa.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/ff.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/fi.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/fil.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/fo.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/fr.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/fur.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/fy.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/ga.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/gd.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/gl.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/gsw.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/gu.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/guz.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/gv.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/ha.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/haw.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/he.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/hi.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/hr.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/hsb.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/hu.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/hy.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/id.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/ig.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/ii.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/is.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/it.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/ja.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/jgo.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/jmc.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/ka.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/kab.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/kam.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/kde.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/kea.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/khq.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/ki.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/kk.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/kl.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/kln.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/km.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/kn.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/ko.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/kok.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/ks.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/ksb.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/ksf.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/ksh.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/kw.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/ky.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/lag.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/lb.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/lg.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/lkt.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/ln.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/lo.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/lrc.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/lt.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/lu.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/luo.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/luy.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/lv.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/mas.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/mer.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/mfe.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/mg.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/mgh.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/mgo.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/mk.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/ml.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/mn.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/mr.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/ms.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/mt.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/mua.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/my.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/mzn.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/naq.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/nb.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/nd.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/ne.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/nl.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/nmg.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/nn.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/nnh.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/nus.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/nyn.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/om.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/or.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/os.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/pa-Arab.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/pa-Guru.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/pa.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/pl.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/ps.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/pt.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/qu.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/rm.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/rn.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/ro.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/rof.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/ru.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/rw.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/rwk.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/sah.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/saq.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/sbp.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/se.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/seh.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/ses.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/sg.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/shi-Latn.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/shi-Tfng.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/shi.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/si.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/sk.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/sl.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/smn.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/sn.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/so.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/sq.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/sr-Cyrl.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/sr-Latn.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/sr.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/sv.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/sw.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/ta.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/te.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/teo.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/th.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/ti.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/tl.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/to.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/tr.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/twq.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/tzm.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/ug.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/uk.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/ur.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/uz-Arab.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/uz-Cyrl.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/uz-Latn.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/uz.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/vi.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/vun.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/wae.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/xog.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/yav.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/yi.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/yo.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/yue.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/zgh.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/zh-Hans.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/zh-Hant.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/zh.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/dateparser/data/date_translation_data/__pycache__/zu.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/dateparser/data/__pycache__/languages_info.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/dateparser/__pycache__/date.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/dateparser/__pycache__/date_parser.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/dateparser/__pycache__/freshness_date_parser.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/dateparser/languages/__pycache__/__init__.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/dateparser/languages/__pycache__/dictionary.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/dateparser/languages/__pycache__/loader.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/dateparser/languages/__pycache__/locale.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/dateparser/languages/__pycache__/validation.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/dateparser/__pycache__/parser.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/dateparser/search/__pycache__/__init__.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/dateparser/search/__pycache__/detection.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/dateparser/search/__pycache__/search.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/dateparser/search/__pycache__/text_detection.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/dateparser/__pycache__/timezone_parser.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/dateparser/__pycache__/timezones.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/dateparser/utils/__pycache__/__init__.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/dateparser/utils/__pycache__/strptime.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/dateparser/utils/__pycache__/time_spans.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/dateparser_cli/__pycache__/__init__.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/dateparser_cli/__pycache__/cli.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/dateparser_cli/__pycache__/exceptions.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/dateparser_cli/__pycache__/fasttext_manager.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/dateparser_cli/__pycache__/utils.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/dateparser_data/__pycache__/__init__.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/dateparser_data/__pycache__/settings.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/dateparser_scripts/__pycache__/__init__.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/dateparser_scripts/__pycache__/get_cldr_data.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/dateparser_scripts/__pycache__/order_languages.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/dateparser_scripts/__pycache__/update_supported_languages_and_locales.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/dateparser_scripts/__pycache__/utils.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/dateparser_scripts/__pycache__/write_complete_data.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "bin/dateparser-download",
+        "path_type": "unix_python_entry_point"
+      }
+    ]
+  },
+  "link": {
+    "source": "/opt/conda/pkgs/dateparser-1.3.0-pyhd8ed1ab_0",
+    "type": 1
+  }
+}
