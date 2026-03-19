@@ -34,7 +34,7 @@ The MED domain is defined in the [CORDEX domain document](https://web.archive.or
 | [OGS](https://www.og.it/) | [Marco Reale](mailto:mreale@ogs.it) |
 | [ENEA](https://impatti.sostenibilita.enea.it/en/structure/clim) | [Gianmaria Sannino](mailto:gianmaria.sannino@enea.it) |
 | [LA](http://www.aero.obs-mip.fr/en) | [Fabien Solmon](mailto:fabien.solmon@aero.obs-mip.fr) |
-| [CNRM](http://www.cnrm-game.fr/?lang=en) | [Samuel Somo](mailto:samuel.somot@meteo.fr) |
+| [CNRM](http://www.cnrm-game.fr/?lang=en) | [Samuel Somot](mailto:samuel.somot@meteo.fr) |
 
 # Contact Points
 
