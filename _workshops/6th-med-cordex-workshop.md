@@ -27,7 +27,7 @@ Researchers interested in Med-CORDEX or CORDEX-FPS modelling activities or in re
 
 # Participants
 
-Load the [list of workshop participants](list_of_participants.pdf).
+Load the [list of workshop participants](documents/list_of_participants.pdf).
 
 ![Group photo](images/groupe.png)
 
