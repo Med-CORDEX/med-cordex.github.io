@@ -38,6 +38,7 @@ kramdown:
     css_class: 'highlight'
 
 plugins:
+  - jekyll-remote-theme
   - jekyll-sitemap
   - jekyll-toc
 
