@@ -6,4 +6,8 @@ date_end: 2015-11-06
 location: Rome, Italy
 ---
 
-Joint regional climate system modelling for the European sea regions. Hosted by ENEA.
+The HyMeX - Baltic Earth workshop on Joint regional climate system modelling for the European sea regions was held in Rome (Italy) and hosted by ENEA.
+
+# Programme
+
+Find the workshop programme [here](/documents/Rome_Programme.pdf).
