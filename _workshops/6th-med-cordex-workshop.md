@@ -25,7 +25,7 @@ Researchers interested in Med-CORDEX or CORDEX-FPS modelling activities or in re
 # Participants
 
 Find here the [list of workshop participants](/documents/list_participants_6th-MedCORDEX-workshop_Toulouse-November2019_version-20191212.pdf)
-and the [group photo](/documents/photo-group_6th-MedCORDEX-workshop_Toulouse_Nov2019_christophe.ciais_PPC_1711.jpg).
+and the [group photo](/images/photo-group_6th-MedCORDEX-workshop_Toulouse_Nov2019_christophe.ciais_PPC_1711.jpg).
 
 # Programme
 
