@@ -32,8 +32,8 @@ as well as the group photos [1](/images/Med-CORDEX-day2-group_photo1.jpg) and [2
 
 # Programme
 
-Find the workshop programme [here](agenda_list-of-participant_9th-Med-CORDEX_workshop_2-3july2025.pdf).
+Find the workshop programme [here](/documents/agenda_list-of-participant_9th-Med-CORDEX_workshop_2-3july2025.pdf).
 Extra documents such as:
-- Introduction talk by G. Jordà and M. Reale
-- Ph. Drobinski's talk on the MedECC MAR2, [here](drobinski_PRES_medecc_MAR2-MEDCORDEX_20250702.pdf).
-- Slides of the Hands-on session on Med-CORDEX simulation data sharing by J. Fernandez and F. Sevault, [here](fernandez_sevault_MedCORDEX_session_data_sharing_3july2025.pdf).
+- Introduction talk by G. Jordà and M. Reale, [here](/documents/Introduction_MEDCORDEX_ONLINE.pdf).
+- Ph. Drobinski's talk on the MedECC MAR2, [here](/documents/drobinski_PRES_medecc_MAR2-MEDCORDEX_20250702.pdf).
+- Slides of the Hands-on session on Med-CORDEX simulation data sharing by J. Fernandez and F. Sevault, [here](/documents/fernandez_sevault_MedCORDEX_session_data_sharing_3july2025.pdf).
