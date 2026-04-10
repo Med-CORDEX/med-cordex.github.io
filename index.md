@@ -22,7 +22,7 @@ It is connected to the Atlantic ocean only by Gibraltar strait and surrounded by
 
 The Mediterranean region is consequently a good case study for climate regionalization and was naturally chosen as a CORDEX sub-domain (MED) leading to the Med-CORDEX initiative endorsed by Med-CLIVAR and HyMeX.
 The MED domain is defined in the [CORDEX domain document](https://web.archive.org/web/20240416072240/https://www.medcordex.eu/cordex_domains_250610.pdf)
-and can be visualize [here](/images/new_cordex_mediterranean.gif) and [here](/images/Fig12_cordex_domains_med-300x300.png) 
+and can be visualized [here](/images/new_cordex_mediterranean.gif) and [here](/images/Fig12_cordex_domains_med-300x300.png) 
 
 
 # Scientific Steering Committee
