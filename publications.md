@@ -3,7 +3,7 @@ layout: page
 title: Publications
 ---
 
-If you plan to submit publications using Med-CORDEX simulations, please refer it with a simple sentence in the Acknowledgment: _"This work is part of the Med-CORDEX initiative (www.medcordex.eu)"_ or _"The simulations used in this work were downloaded from the Med-CORDEX database (www.medcordex.eu)"_.
+If you plan to submit publications using Med-CORDEX simulations, please refer it with a simple sentence in the Acknowledgment: _"This work is a contribution to the Med-CORDEX initiative (https://med-cordex.github.io/)"_ or _"The simulations used in this work belong to the Med-CORDEX initiative (https://med-cordex.github.io/)"_.
 
 We strongly encourage people downloading data from the Med-CORDEX database to contact the model data producers in order to give feedback on the model simulations, interact on the scientific studies and/or propose co-authorships.
 
