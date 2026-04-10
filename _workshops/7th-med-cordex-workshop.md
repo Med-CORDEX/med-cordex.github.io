@@ -7,11 +7,6 @@ location: Online
 
 The 7th Med-CORDEX workshop was held online and brought together scientists and stakeholders to discuss the latest advances in regional climate modeling for the Mediterranean region. The event included presentations, breakout sessions, and collaborative discussions on ongoing and future projects.
 
-# Program Highlights
-- Data sharing and dissemination
-- Impact and adaptation studies
-
-# Registration and Agenda
-- [Registration link](#)
-- [Draft agenda](#)
+# Agenda
+- [Draft agenda](/documents/agenda_Med-CORDEX-online-workshop_May2023_v16052023.pdf)
 
