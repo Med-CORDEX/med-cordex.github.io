@@ -39,7 +39,7 @@ C. Contribute to improve the characterization of the impacts of the Mediterranea
 
 To full-filled these goals, the phase 2 of Med-CORDEX is based on **five modelling pillars**:
 
-- The [Baseline runs](baseline_runs.html) based on a large ensemble of fully-coupled regional climate system models inherited from Med-CORDEX phase 1.
+- The [Baseline runs](baseline_runs.md) based on a large ensemble of fully-coupled regional climate system models inherited from Med-CORDEX phase 1.
 - The [CORDEX FPS-convection](https://cordex.org/strategic-activities/flagship-pilot-studies/endorsed-cordex-flagship-pilote-studies/europe-mediterranean-convective-phenomena-at-high-resolution-over-europe-and-the-mediterranean/) based on convection-permitting regional climate models
 - The [CORDEX FPS-aerosol](https://cordex.org/strategic-activities/flagship-pilot-studies/endorsed-cordex-flagship-pilote-studies/mediterranean-role-of-the-natural-and-anthropogenic-aerosols-in-the-mediterranean-region-past-climate-variability-and-future-climate-sensibility-2/) based on an improved representation of aerosols in the regional climate models
 - The [CORDEX FPS-airsea](https://cordex.org/strategic-activities/flagship-pilot-studies/endorsed-cordex-flagship-pilote-studies/mediterranean-role-of-the-air-sea-coupling-and-small-scale-ocean-processes-on-regional-climate/) based on an improved representation of small-scale oceanic processes and air-sea coupling in the region climate system models
