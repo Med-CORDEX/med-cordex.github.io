@@ -17,7 +17,9 @@ WGII)
 Medicanes, coastal erosion and flooding, coastal urban heat stress, mean and extreme sea level, dust outbreaks, compound hazards
 - Serve the needs of the impact community to assess the risks for the marine and coastal ecosystems, the coastal urban areas, and the small island's environment, tourism, fluvial
 and marine transportation, fisheries and aquaculture, energy production  
+
 To achieve these objectives, the phase 3 is structured around **7 modelling activities**, listed below and supported by the coordination and communication efforts under the supervison of the Med-CORDEX Steering Committee.
+
 - [Med-CORDEX-CMIP6 Baseline runs](cmip6-baseline_runs.md)
 - Marine biogeochemistry dynamics
 - Sea level and coastal hazards
