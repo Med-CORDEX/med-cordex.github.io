@@ -5,9 +5,31 @@ title: Simulations
 
 {% include toc %}
 
+# Phase 3
+
+Starting in 2022, the Med-CORDEX phase 3 is currently on-going guided by the following **main principles and key objectives**:
+
+- Built on the Med-CORDEX history by focusing on coupled RCMs, also called RCSMs (Regional Climate System Models) or RESMs (Regional Earth System Models)
+- Develop specific modelling frameworks (based on the CORDEX-CMIP6 framework) to study the Mediterranean climate from multiple perspectives
+- Create coordinated ensembles of coupled high-resolution climate simulations to fill identified research gaps, e.g. those highlighted by the IPCC-AR6 (WGI,
+WGII)
+- Focus on the impact of global warming for different hazards in the Mediterranean basin at several Global Warming Levels: marine heatwave, severe storm including
+Medicanes, coastal erosion and flooding, coastal urban heat stress, mean and extreme sea level, dust outbreaks, compound hazards
+- Serve the needs of the impact community to assess the risks for the marine and coastal ecosystems, the coastal urban areas, and the small island's environment, tourism, fluvial
+and marine transportation, fisheries and aquaculture, energy production  
+To achieve these objectives, the phase 3 is structured around **7 modelling activities**, listed below and supported by the coordination and communication efforts under the supervison of the Med-CORDEX Steering Committee.
+- [Med-CORDEX-CMIP6 Baseline runs](cmip6-baseline_runs.md)
+- Marine biogeochemistry dynamics
+- Sea level and coastal hazards
+- Ocean stand-alone modelling
+- AI-based empirical and statistical downscaling
+- Seasonal-to-decadal forecast
+
+![chart of the phase 3 activities](images/phase3.png)
+
 # Phase 2
 
-In its phase 2 (from 2016 onwards), the **overarching goals of the Med-CORDEX initiative** (rephrased from Ruti et al. 2016) are to:
+In its phase 2 (from 2016-2021), the **overarching goals of the Med-CORDEX initiative** (rephrased from Ruti et al. 2016) are to:
 
 A. Understand the past variability of the Mediterranean regional climate system and characterize its possible future evolution.  
 B. Investigate, understand and improve the description of regional climate phenomena with emphasis on phenomena of importance for climatic impacts.  
@@ -15,15 +37,15 @@ C. Contribute to improve the characterization of the impacts of the Mediterranea
 
 To full-filled these goals, the phase 2 of Med-CORDEX is based on **five modelling pillars**:
 
-- The [Baseline runs](https://www.medcordex.eu/baseline-runs.php) based on a large ensemble of fully-coupled regional climate system models inherited from Med-CORDEX phase 1.
-- The [CORDEX FPS-convection](https://www.hymex.org/cordexfps-convection/wiki/doku.php) based on convection-permitting regional climate models
-- The [CORDEX FPS-aerosol](https://www.hymex.org/cordexfps-aerosol/wiki/doku.php) based on an improved representation of aerosols in the regional climate models
-- The **CORDEX FPS-airsea** based on an improved representation of small-scale oceanic processes and air-sea coupling in the region climate system models
-- The [Free Modelling Zone (FMZ)](https://www.medcordex.eu/list-activities_Med-CORDEX-FMZ.pdf) targeting to study the limitations of the current Med-CORDEX modelling protocols and to test new modelling ideas
+- The [Baseline runs](baseline_runs.html) based on a large ensemble of fully-coupled regional climate system models inherited from Med-CORDEX phase 1.
+- The [CORDEX FPS-convection](https://cordex.org/strategic-activities/flagship-pilot-studies/endorsed-cordex-flagship-pilote-studies/europe-mediterranean-convective-phenomena-at-high-resolution-over-europe-and-the-mediterranean/) based on convection-permitting regional climate models
+- The [CORDEX FPS-aerosol](https://cordex.org/strategic-activities/flagship-pilot-studies/endorsed-cordex-flagship-pilote-studies/mediterranean-role-of-the-natural-and-anthropogenic-aerosols-in-the-mediterranean-region-past-climate-variability-and-future-climate-sensibility-2/) based on an improved representation of aerosols in the regional climate models
+- The [CORDEX FPS-airsea](https://cordex.org/strategic-activities/flagship-pilot-studies/endorsed-cordex-flagship-pilote-studies/mediterranean-role-of-the-air-sea-coupling-and-small-scale-ocean-processes-on-regional-climate/) based on an improved representation of small-scale oceanic processes and air-sea coupling in the region climate system models
+- The [Free Modelling Zone (FMZ)](documents/list-activities_Med-CORDEX-FMZ.pdf) targeting to study the limitations of the current Med-CORDEX modelling protocols and to test new modelling ideas
 
 *FPS: Flagship Pilot Study, the 3 Med-CORDEX related FPS have been endorsed officially by CORDEX in May 2016*
 
-![chart of the phase tasks](images/phase2.png)
+![chart of the phase 2 tasks](images/phase2.png)
 
 In its phase 2 as in its phase 2, Med-CORDEX is based on the following **motivations and basic principles**:
 
@@ -39,7 +61,7 @@ In its phase 2 as in its phase 2, Med-CORDEX is based on the following **motivat
 
 # Phase 1
 
-In its phase 1, Med-CORDEX simulations gather 3 kinds of runs (evaluation, historical, scenario), 4 kinds of regional models (atmosphere, land-surface, ocean, coupled RCSM) and are classified in two categories: CORE simulations and TIER1 simulations.
+In its phase 1 (2009-2016), Med-CORDEX simulations gather 3 kinds of runs (evaluation, historical, scenario), 4 kinds of regional models (atmosphere, land-surface, ocean, coupled RCSM) and are classified in two categories: CORE simulations and TIER1 simulations.
 
 ## CORE simulations
 
