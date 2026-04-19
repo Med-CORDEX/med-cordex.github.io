@@ -9,23 +9,23 @@ title: Simulations
 
 Starting in 2022, the Med-CORDEX phase 3 is currently on-going guided by the following **main principles and key objectives**:
 
-- Built on the Med-CORDEX history by focusing on coupled RCMs, also called RCSMs (Regional Climate System Models) or RESMs (Regional Earth System Models)
-- Develop specific modelling frameworks (based on the CORDEX-CMIP6 framework) to study the Mediterranean climate from multiple perspectives
-- Create coordinated ensembles of coupled high-resolution climate simulations to fill identified research gaps, e.g. those highlighted by the IPCC-AR6 (WGI,
+  - Built on the Med-CORDEX history by focusing on coupled RCMs, also called RCSMs (Regional Climate System Models) or RESMs (Regional Earth System Models)
+  - Develop specific modelling frameworks (based on the CORDEX-CMIP6 framework) to study the Mediterranean climate from multiple perspectives
+  - Create coordinated ensembles of coupled high-resolution climate simulations to fill identified research gaps, e.g. those highlighted by the IPCC-AR6 (WGI,
 WGII)
-- Focus on the impact of global warming for different hazards in the Mediterranean basin at several Global Warming Levels: marine heatwave, severe storm including
+  - Focus on the impact of global warming for different hazards in the Mediterranean basin at several Global Warming Levels: marine heatwave, severe storm including
 Medicanes, coastal erosion and flooding, coastal urban heat stress, mean and extreme sea level, dust outbreaks, compound hazards
-- Serve the needs of the impact community to assess the risks for the marine and coastal ecosystems, the coastal urban areas, and the small island's environment, tourism, fluvial
+  - Serve the needs of the impact community to assess the risks for the marine and coastal ecosystems, the coastal urban areas, and the small island's environment, tourism, fluvial
 and marine transportation, fisheries and aquaculture, energy production  
 
 To achieve these objectives, the phase 3 is structured around **7 modelling activities**, listed below and supported by the coordination and communication efforts under the supervison of the Med-CORDEX Steering Committee.
 
-- [Med-CORDEX-CMIP6 Baseline runs](cmip6-baseline_runs.md)
-- Marine biogeochemistry dynamics
-- Sea level and coastal hazards
-- Ocean stand-alone modelling
-- AI-based empirical and statistical downscaling
-- Seasonal-to-decadal forecast
+  - [Med-CORDEX-CMIP6 Baseline runs](cmip6-baseline_runs.md)
+  - Marine biogeochemistry dynamics
+  - Sea level and coastal hazards
+  - Ocean stand-alone modelling
+  - AI-based empirical and statistical downscaling
+  - Seasonal-to-decadal forecast
 
 ![chart of the phase 3 activities](images/phase3.png)
 
