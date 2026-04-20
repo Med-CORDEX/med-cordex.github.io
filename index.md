@@ -42,8 +42,8 @@ and can be visualized [here](/images/new_cordex_mediterranean.gif) and [here](/i
 | Institution | Contact Point |
 |-------------|--------------|
 | [AWI](https://www.awi.de/en.html) - [GERICS](http://www.climate-service-center.de/index.php.en) | [William Cabos](mailto:william.cabos@uah.es) - [Dmitry Sein](mailto:dmitry.sein@awi.de) |
-| [CMCC](http://www.cmcc.it/) - [Univ Salento](https://www.unisalento.it/) | [Dario Conte](mailto:dario.conte@cmcc.it) - [Piero Lionello](mailto:piero.lionello@unisalento.it) |
-| [CNRM](http://www.cnrm-game.fr/?lang=en) | [Samuel Somot](mailto:samuel.somot@meteo.fr) |
+| [CMCC](http://www.cmcc.it/) | [Silvio Gualdi](mailto:silvio.gualdi@cmcc.it) - [Piero Lionello](mailto:piero.lionello@unisalento.it) |
+| [CNRM](http://www.cnrm-umr.fr/) | [Samuel Somot](mailto:samuel.somot@meteo.fr) - [Florence Sevault](mailto:florence.sevault@meteo.fr) |
 | [ENEA](http://www.enea.it/) | [Alessandro Anav](mailto:alessandro.anav@enea.it) - [Gianmaria Sannino](mailto:gianmaria.sannino@enea.it) |
 | [GUF](http://www.iau.uni-frankfurt.de/) | [Bodo Ahrens](mailto:bodo.ahrens@iau.uni-frankfurt.de) |
 | [ICTP](http://www.ictp.it/) | [Erika Coppola](mailto:coppolae@ictp.it) |
@@ -52,6 +52,6 @@ and can be visualized [here](/images/new_cordex_mediterranean.gif) and [here](/i
 | [ITU](http://www.itu.edu.tr/) | [Baris Onol](mailto:onolba@itu.edu.tr) |
 | [JRC](https://ec.europa.eu/jrc/en) | [Diego Macias-Moy](mailto:Diego.MACIAS-MOY@ec.europa.eu) |
 | [LMD](http://www.lmd.jussieu.fr/) | [Laurent Li](mailto:laurent.li@lmd.ipsl.fr) |
-| [OGS](http://www.ogs.it/) | [Marco reale](mailto:mreale@ogs.it) |
+| [OGS](http://www.ogs.it/) | [Marco Reale](mailto:mreale@ogs.it) |
 | [UCLM](http://www.uclm.es/) | [Miguel Gaertner](mailto:miguel.gaertner@uclm.es) |
 | [Univ of Belgrade](http://www.ff.bg.ac.rs/) | [Vladimir Djurdjevic](mailto:vdj@ff.bg.ac.rs) |
