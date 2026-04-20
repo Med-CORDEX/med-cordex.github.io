@@ -11,9 +11,7 @@ More specifically, you can find the :
    - [Experiment design, also called Common Protocol](https://doi.org/10.5281/zenodo.7125233)
    - Rendering of various protocol task teams : [Ocean Spin-Up](https://doi.org/10.5281/zenodo.18814027), [GCM Selection](https://doi.org/10.5281/zenodo.8207473)  
    - [List of participating institutes and models](https://doi.org/10.5281/zenodo.7112776) Warning : this list includes all model configurations eveer used in Med-CORDEX during the 3 phases  
-   - [List of Med-CORDEX-CMIP6 simulations on the official CORDEX github](https://wcrp-cordex.github.io/simulation-status/CORDEX_CMIP6_status.html#MED-12)
-   - [List of evaluation runs](https://doi.org/10.5281/zenodo.7112796)
-   - [List of historical and scenario runs](https://doi.org/10.5281/zenodo.7112806)
+   - [List of Med-CORDEX-CMIP6 simulations on the official CORDEX github](https://wcrp-cordex.github.io/simulation-status/CORDEX_CMIP6_status.html#MED-12): [evaluation, historical and scenario runs](https://github.com/WCRP-CORDEX/simulation-status/blob/main/CMIP6_downscaling_plans.csv)
    - [Ocean Variable Data Request](https://doi.org/10.5281/zenodo.8207552)
    - [River Variable Data Request](https://doi.org/10.5281/zenodo.7112672)
    - [Atmosphere and Land Variable Data Request](https://doi.org/10.5281/zenodo.7419220)
