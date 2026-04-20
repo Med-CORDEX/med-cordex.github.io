@@ -13,11 +13,19 @@ The main challenges addressed by the baseline runs are:
 
 You can find below the main documents attached to the production of the Med-CORDEX-2 baseline runs:
 
-   - [Simulation protocol](documents/Med-CORDEX-2_baseline-runs_protocol.pdf)
+   - [Simulation protocol](documents/Med-CORDEX-2_baseline-runs_protocol.pdf) inspired from the [CORDEX experimental protocol for RCM](https://cordex.org/experiment-guidelines/cordex-cmip5/experiment-protocol-cordex-cmip5-rcms/)
    - [List of participating institutes and models](https://doi.org/10.5281/zenodo.7112776)
    - [List of ERAInterim-driven evaluation runs](https://doi.org/10.5281/zenodo.19665474)
    - [List of CMIP5-driven historical and scenario runs](https://doi.org/10.5281/zenodo.19665551)
-   - [Variable requirement and Archive specification](references.md)     
+   - [The CORDEX domain definition document](https://cordex.org/wp-content/uploads/2012/11/CORDEX-domain-description_231015.pdf)
+   - [The MedCORDEX domain picture](images/new_cordex_mediterranean.gif)
+   - [CMIP5 Data Reference Syntax (DRS) and Controlled Vocabularies](documents//cmip5_data_reference_syntax.pdf)
+   - [Atmosphere and Land variables requirement](documents/CORDEX_variables_requirement_table.pdf)
+   - [Ocean variables requirement](documents/CORDEX-ocean_variables_requirement_table_15jan2020.pdf)
+   - [River variables requirement](documents/CORDEX-river_variables_requirement_table_12mar2018.pdf)
+   - [Atmosphere and Land variables CORDEX archive specifications](https://doi.org/10.5281/zenodo.15222640)
+   - [Ocean variables Med-CORDEX archive specifications](documents/CORDEX-ocean_archive_specifications_15jan2020.pdf)
+   - [River variables Med-CORDEX archive specifications](documents/CORDEX-river_archive_specifications_12mar2018.pdf)
 
 More information about the runs (see the metadata tables):
 
