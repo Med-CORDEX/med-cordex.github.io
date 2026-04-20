@@ -1,7 +1,7 @@
 # Med-CORDEX phase 2: the baseline runs
 
 Since its launch, one of the main strength and originality of the Med-CORDEX initiative within CORDEX is the setting, coordination and use of coupled RCMs also called Regional Climate System Models (RCSM) 
-including at least the representation of the atmosphere, land-surface and ocean components (see Ruti et al. 2016 for more details and illustrations of the first results or [read this](simulations.md)). 
+including at least the representation of the atmosphere, land-surface and ocean components (see Ruti et al. 2016 for more details and illustrations of the first results). 
 This led the Med-CORDEX community to propose RCSM simulations to become the baseline runs for the second phase of Med-CORDEX.
 
 The main challenges addressed by the baseline runs are:
@@ -14,9 +14,9 @@ The main challenges addressed by the baseline runs are:
 You can find below the main documents attached to the production of the Med-CORDEX-2 baseline runs:
 
    - [Simulation protocol](documents/Med-CORDEX-2_baseline-runs_protocol.pdf)
-   - [List of participating institutes and models](documents/Med-CORDEX-2_baseline-runs_merged-list-InstituteModel.pdf)
-   - [List of evaluation runs](documents/Med-CORDEX-2_baseline-runs_merged-list-ERAIntEvaluationRuns.pdf)
-   - [List of historical and scenario runs](documents/Med-CORDEX-2_baseline-runs_merged-list-CMIP5ScenarioRuns.pdf)
+   - [List of participating institutes and models](https://doi.org/10.5281/zenodo.7112776)
+   - [List of ERAInterim-driven evaluation runs](https://doi.org/10.5281/zenodo.19665474)
+   - [List of CMIP5-driven historical and scenario runs](https://doi.org/10.5281/zenodo.19665551)
    - [Variable requirement and Archive specification](references.md)     
 
 More information about the runs (see the metadata tables):
