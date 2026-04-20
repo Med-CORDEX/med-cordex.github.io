@@ -1,4 +1,8 @@
-# Med-CORDEX : reference documents and important links
+---
+layout: References
+---
+
+## Med-CORDEX : reference documents and important links
 
 You can find here the main reference documents and links for Med-CORDEX:
 - [The official CORDEX web page](https://cordex.org/)
