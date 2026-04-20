@@ -1,5 +1,6 @@
 ---
-layout: References
+layout: page
+title: References
 ---
 
 ## Med-CORDEX : reference documents and important links
