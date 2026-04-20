@@ -10,13 +10,14 @@ More specifically, you can find the :
 
    - [Experiment design, also called Common Protocol](https://doi.org/10.5281/zenodo.7125233)
    - Rendering of various protocol task teams : [Ocean Spin-Up](https://doi.org/10.5281/zenodo.18814027), [GCM Selection](https://doi.org/10.5281/zenodo.8207473)  
-   - [List of participating institutes and models](https://doi.org/10.5281/zenodo.7112776) Warning : this list includes all model configurations eveer used in Med-CORDEX during the 3 phases  
-   - [List of Med-CORDEX-CMIP6 simulations on the official CORDEX github](https://wcrp-cordex.github.io/simulation-status/CORDEX_CMIP6_status.html#MED-12): [evaluation, historical and scenario runs](https://github.com/WCRP-CORDEX/simulation-status/blob/main/CMIP6_downscaling_plans.csv)
+   - [List of participating institutes and models](https://doi.org/10.5281/zenodo.7112776) Warning : this list includes all model configurations ever used in Med-CORDEX during the 3 phases  
+   - List of Med-CORDEX-CMIP6 evaluation, historical and scenario Baseline simulations is now maintained on the official CORDEX github in [html](https://wcrp-cordex.github.io/simulation-status/CORDEX_CMIP6_status.html#MED-12) or [csv](https://github.com/WCRP-CORDEX/simulation-status/blob/main/CMIP6_downscaling_plans.csv)
    - [Ocean Variable Data Request](https://doi.org/10.5281/zenodo.8207552)
    - [River Variable Data Request](https://doi.org/10.5281/zenodo.7112672)
    - [Atmosphere and Land Variable Data Request](https://doi.org/10.5281/zenodo.7419220)
    - [Aerosol Variable Data Request](https://doi.org/10.5281/zenodo.7112859)
-   - **Archive specification** : *currently in development for coupled RCMs*, please use the official [CORDEX-CMIP6 Archive Specifications](https://doi.org/10.5281/zenodo.10961068) fro Dynamical Downscaling     
+   - Archive specifications : *not yet available for coupled RCMs*. For now, please use the official [CORDEX-CMIP6 Archive Specifications](https://doi.org/10.5281/zenodo.10961068) for Dynamical Downscaling
+   - [How to submit a RCM simulation to CORDEX-CMIP6](https://cordex.org/experiment-guidelines/cordex-cmip6/how-to-provide-cordex-cmip6-data/)
 
 More information about the models :
 
