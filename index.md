@@ -19,7 +19,8 @@ It is connected to the Atlantic ocean only by Gibraltar strait and surrounded by
 The Mediterranean region is consequently a good case study for climate downscaling tool application and was naturally chosen as one of the inititial CORDEX domain (MED) leading to the Med-CORDEX initiative.
 The MED domain is defined in the [CORDEX domain document](https://cordex.org/wp-content/uploads/2012/11/CORDEX-domain-description_231015.pdf)
 
-![Med-CORDEX domain](images/new_cordex_mediterranean.gif)  ![Med-CORDEX domain](images/Fig12_cordex_domains_med-300x300.png)
+![Med-CORDEX domain](images/new_cordex_mediterranean.gif)  
+![Med-CORDEX domain](images/Fig12_cordex_domains_med-300x300.png)
 
 More reference documents and links can be found [here](references.md). 
 
@@ -38,13 +39,14 @@ The Med-CORDEX steering committee is managing the day-to-day life of the initiat
 | [LA](http://www.aero.obs-mip.fr/en) | Fabien Solmon | Former member |
 | [ENEA](https://impatti.sostenibilita.enea.it/en/structure/clim) | Paolo Ruti | Former member |
 
-# Coordination & Communication
+# Coordination and Communication
 
 Med-CORDEX uses various communication tools:
 - The [Steering Committee](mailto:medcordex-sc@meteo.fr) and the current  are the main entry gates
-- The community is gathered in a [general emailing list](mailto:medcordex-sc@meteo.fr)
+- We communicate with the community thanks to a [general emailing list](mailto:medcordex-sc@meteo.fr)
 - We chat using a dedicated [Slack](https://medcordex.slack.com)
-- More information can be found on the [web page](https://med-cordex.github.io/) and on the [github](https://github.com/Med-CORDEX/)
+- We share documents on a dedicated [zenodo community open collection](https://zenodo.org/communities/medcordex/)
+- We share information on the [web page](https://med-cordex.github.io/) and on the [github](https://github.com/Med-CORDEX/)
 
 # Modelling Center Contact Points
 
