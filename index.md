@@ -18,8 +18,9 @@ It is connected to the Atlantic ocean only by Gibraltar strait and surrounded by
 
 The Mediterranean region is consequently a good case study for climate downscaling tool application and was naturally chosen as one of the inititial CORDEX domain (MED) leading to the Med-CORDEX initiative.
 The MED domain is defined in the [CORDEX domain document](https://cordex.org/wp-content/uploads/2012/11/CORDEX-domain-description_231015.pdf)
-and can be visualized [here](/images/new_cordex_mediterranean.gif) and [here](/images/Fig12_cordex_domains_med-300x300.png) 
+
 ![Med-CORDEX domain](images/new_cordex_mediterranean.gif)  ![Med-CORDEX domain](images/Fig12_cordex_domains_med-300x300.png)
+
 More reference documents and links can be found [here](references.md). 
 
 # Steering Committee
