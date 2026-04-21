@@ -5,9 +5,9 @@ title: Simulations
 
 {% include toc %}
 
-# Phase 3
+# Phase 3 (from 2023, on-going)
 
-Starting in 2022, the Med-CORDEX phase 3 is currently on-going guided by the following **main principles and key objectives**:
+Starting in 2023, the Med-CORDEX phase 3 is currently on-going guided by the following **main principles and key objectives**:
 
   - Built on the Med-CORDEX history by focusing on coupled RCMs, also called RCSMs (Regional Climate System Models) or RESMs (Regional Earth System Models)
   - Develop specific modelling frameworks (based on the CORDEX-CMIP6 framework) to study the Mediterranean climate from multiple perspectives
@@ -29,9 +29,9 @@ To achieve these objectives, the phase 3 is structured around **7 modelling acti
 
 ![chart of the phase 3 activities](images/phase3.png)
 
-# Phase 2
+# Phase 2 (2016-2022)
 
-In its phase 2 (from 2016-2021), the **overarching goals of the Med-CORDEX initiative** (rephrased from Ruti et al. 2016) are to:
+In its phase 2, the **overarching goals of the Med-CORDEX initiative** (rephrased from Ruti et al. 2016) are to:
 
 A. Understand the past variability of the Mediterranean regional climate system and characterize its possible future evolution.  
 B. Investigate, understand and improve the description of regional climate phenomena with emphasis on phenomena of importance for climatic impacts.  
@@ -61,9 +61,9 @@ In its phase 2 as in its phase 2, Med-CORDEX is based on the following **motivat
 - Med-CORDEX contributes to the objectives of the following initiatives and projects: CORDEX, MISTRALS (HyMeX, ChArMEx, ImpactCC), Med-CLIVAR, C3S, HORIZON-2020 and MedECC
 
 
-# Phase 1
+# Phase 1 (2009-2015)
 
-In its phase 1 (2009-2016), Med-CORDEX simulations gather 3 kinds of runs (evaluation, historical, scenario), 4 kinds of regional models (atmosphere, land-surface, ocean, coupled RCSM) and are classified in two categories: CORE simulations and TIER1 simulations.
+In its phase 1, Med-CORDEX simulations gather 3 kinds of runs (evaluation, historical, scenario), 4 kinds of regional models (atmosphere, land-surface, ocean, coupled RCSM) and are classified in two categories: CORE simulations and TIER1 simulations.
 
 ## CORE simulations
 
