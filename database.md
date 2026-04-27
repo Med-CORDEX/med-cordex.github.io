@@ -10,4 +10,4 @@ You have various solutions to access the data:
   - You can also contact individually the data producing teams to access the data. 
 Contact of the data producing team can be found on the [home page](https://med-cordex.github.io/)
 
-More information will come when a better solution will become available. In particular, we plan to publish the [Med-CORDEX-CMIP6 Phase 3 baseline runs](cmip--baseline_runs.md) on the ESGF-NG, starting in 2026.
+More information will come when a better solution will become available. In particular, we plan to publish the [Med-CORDEX-CMIP6 Phase 3 baseline runs](cmip6-baseline_runs.md) on the ESGF-NG, starting in 2026.
