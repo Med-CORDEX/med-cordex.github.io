@@ -26,6 +26,7 @@ To achieve these objectives, the phase 3 is structured around **7 modelling acti
   - [Ocean stand-alone modelling](ocean-alone-modelling.md)
   - [AI-based empirical and statistical downscaling](empirical-statistical-downscaling.md)
   - [Seasonal-to-decadal forecast](seasonal-to-decadal.md)
+  - [Free Modelling Zone](free-modelling-zone.md)
 
 ![chart of the phase 3 activities](images/phase3.png)
 
