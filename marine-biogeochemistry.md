@@ -6,3 +6,5 @@ This is all the more relevant given that the Mediterranean Sea is characterized 
 In this context, the biogeochemistry modeling community of the Mediterranean Sea is currently gathering within the Med-CORDEX initiative
 to build a common modeling effort to address gaps and sources of uncertainties (boundary conditions, parametrizations, description of functional groups) 
 in biogeochemical projections for the basin under different emission scenarios.
+
+Points of Contact: Marco Reale (OGS), Melika Baklouti (MIO)
