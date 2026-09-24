@@ -21,10 +21,10 @@ and marine transportation, fisheries and aquaculture, energy production
 To achieve these objectives, the phase 3 is structured around **7 modelling activities**, listed below and supported by the coordination and communication efforts under the supervision of the Med-CORDEX Steering Committee.
 
   - [Med-CORDEX-CMIP6 Baseline runs](cmip6-baseline_runs.md)
-  - Marine biogeochemistry dynamics
-  - Sea level and coastal hazards
-  - Ocean stand-alone modelling
-  - AI-based empirical and statistical downscaling
+  - [Marine biogeochemistry dynamics](marine-biogeochemistry.md)
+  - [Sea level and coastal hazards](sealevel-coastal-hazards.md)
+  - [Ocean stand-alone modelling](ocean-alone-modelling.md)
+  - [AI-based empirical and statistical downscaling](empirical-statistical-downscaling.md)
   - [Seasonal-to-decadal forecast](seasonal-to-decadal.md)
 
 ![chart of the phase 3 activities](images/phase3.png)
