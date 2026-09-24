@@ -1,3 +1,4 @@
+## Med-CORDEX phase 3: the baseline runs, a contribution to the CORDEX-CMIP6 Domain activity
 
 *Points of Contact: Samuel Somot (CNRM), Erika Coppola (ICTP)*
 
