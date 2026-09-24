@@ -8,3 +8,5 @@ are crucial for informing adaptation strategies. While basin-wide sea level rise
 and wind fields are still needed to accurately assess coastal flooding, erosion (both episodic and chronic), and emerging compound events. 
 The Med-CORDEX community currently lacks sufficient wave or storm surge modeling capacity to generate these combined hazard datasets, 
 an important gap it aims to address in the near future.
+
+*Points of Contact: Rosh Ranasinghe (IHE Delft Institute for Water Education), Jose Jimenez (Universitat Politècnica de Catalunya)*
