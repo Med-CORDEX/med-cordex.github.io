@@ -10,9 +10,9 @@ computationally demanding statistical methods and machine-learning tools, which 
 Extending the Med-CORDEX framework to seasonal-to-decadal forecasts, through a coordinated multi-model downscaling exercise, would improve regional climate information 
 and support decision-making. Three main benefits are expected: 
 
-(i) an improved large-scale signal from initialized coupled GCMs driving RCMs, 
-(ii) better representation of local-scale forcing through higher RCM resolution, and 
-(iii) added value from the RCM initialization compared with non-initialized RCMs. 
+- an improved large-scale signal from initialized coupled GCMs driving RCMs,
+- better representation of local-scale forcing through higher RCM resolution,
+- added value from the RCM initialization compared with non-initialized RCMs. 
 
 This combined improvement could be crucial for representing weather–climate extremes, where large-scale forcing is modulated 
 by local processes while initialized GCMs capture “in-phase” natural variability.
