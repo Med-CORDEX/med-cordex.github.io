@@ -16,3 +16,5 @@ and support decision-making. Three main benefits are expected:
 
 This combined improvement could be crucial for representing weather–climate extremes, where large-scale forcing is modulated 
 by local processes while initialized GCMs capture “in-phase” natural variability.
+
+*Points of Contact: Silvio Gualdi (CMCC), Javier Garcia-Serrano (U. Barcelona)*
