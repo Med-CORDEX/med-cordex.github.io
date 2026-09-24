@@ -17,4 +17,4 @@ The envisaged coordinated actions include:
 The team is also investigating AI infrastructures better suited for probabilistic approaches and exploring unique skill sets that 
 combine empirical scaling with modern AI hardware such as GPUs and TPUs.
 
-Points of Contact: Sun Kwok Chun (UWE)
+*Points of Contact: Kwok Chun (UWE)*
