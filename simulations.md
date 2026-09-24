@@ -25,7 +25,7 @@ To achieve these objectives, the phase 3 is structured around **7 modelling acti
   - Sea level and coastal hazards
   - Ocean stand-alone modelling
   - AI-based empirical and statistical downscaling
-  - Seasonal-to-decadal forecast
+  - [Seasonal-to-decadal forecast](seasonal-to-decadal.md)
 
 ![chart of the phase 3 activities](images/phase3.png)
 
