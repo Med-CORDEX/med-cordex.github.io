@@ -17,4 +17,4 @@ this activity complements ongoing Med-CORDEX efforts through five main objective
 This activity will also serve as a hub for communication among modelling groups, promoting the exchange of technical implementations and best practices, 
 including model tuning and spinup strategies and approaches for coupling with other Earth-system components.
 
-* Points of Contact : Gabriel Jordà (IEO), John Karagiorgos (UoA)
+*Points of Contact : Gabriel Jordà (IEO), John Karagiorgos (UoA)*
