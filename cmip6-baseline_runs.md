@@ -1,4 +1,5 @@
-## Med-CORDEX phase 3: the baseline runs
+
+*Points of Contact: Samuel Somot (CNRM), Erika Coppola (ICTP)*
 
 Since its launch, one of the main strength and originality of the Med-CORDEX initiative within CORDEX is the setting, coordination and use of coupled RCMs also called Regional Climate System Models (RCSM) 
 or Regional Earth System Models (RESM), including the high-resolution representation and the full coupling of various components of the Mediterranean regional climate system.
