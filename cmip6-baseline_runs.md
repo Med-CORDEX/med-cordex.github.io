@@ -17,9 +17,8 @@ More specifically, you can find the :
    - [River Variable Data Request](https://doi.org/10.5281/zenodo.7112672)
    - [Atmosphere and Land Variable Data Request](https://doi.org/10.5281/zenodo.7419220)
    - [Aerosol Variable Data Request](https://doi.org/10.5281/zenodo.7112859)
-   - Archive specifications : *not yet available for coupled RCMs*. For now, please use the official [CORDEX-CMIP6 Archive Specifications](https://doi.org/10.5281/zenodo.10961068) for Dynamical Downscaling
+   - The official [CORDEX-CMIP6 Archive Specifications](https://doi.org/10.5281/zenodo.10961068) for Dynamical Downscaling is now valid for coupled RCMs with the *source_type = AORCM*
+   - L'[ESGF-NG](https://metagrid-ceda.east.esgf.io/) is now ready to host the atmosphere, land, river, ocean and aerosols variables of the Med-CORDEX-CMIP6 simulations
+   - More information about CORDEX-CMIP6 technical aspects (cmor tables, controlled vocabulary, archive specifications, data request) on the [WCRP-CORDEX github](https://github.com/WCRP-CORDEX/)
    - [How to submit a RCM simulation to CORDEX-CMIP6](https://cordex.org/experiment-guidelines/cordex-cmip6/how-to-provide-cordex-cmip6-data/)
-
-More information about the models :
-
-  - [Model documentations](https://med-cordex.github.io/model-documentation/)
+   - [Model and run documentations](https://med-cordex.github.io/model-documentation/) (*work in progress*)
