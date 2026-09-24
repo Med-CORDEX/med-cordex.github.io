@@ -7,4 +7,4 @@ In this context, the biogeochemistry modeling community of the Mediterranean Sea
 to build a common modeling effort to address gaps and sources of uncertainties (boundary conditions, parametrizations, description of functional groups) 
 in biogeochemical projections for the basin under different emission scenarios.
 
-Points of Contact: Marco Reale (OGS), Melika Baklouti (MIO)
+*Points of Contact: Marco Reale (OGS), Melika Baklouti (MIO)*
