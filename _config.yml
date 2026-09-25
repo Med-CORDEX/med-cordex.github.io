@@ -6,6 +6,7 @@ title: "Med-CORDEX"
 description: "International initiative for coordinated regional climate modeling in the Mediterranean region."
 url: "https://www.medcordex.eu" # Update if deploying elsewhere
 baseurl: "" # No subdirectory
+future: true
 
 # Author settings
 author:
