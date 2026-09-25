@@ -21,7 +21,7 @@ to configure the near-future of Med-CORDEX in the global context of climate rese
 
 Deadline: **9th of October 2026**
 
-Link for registration [here](https://docs.google.com/forms/d/19IyJKIe0rDBprZL1adO49_CKzLhBEIU17GdlMkOsjZ8/edit?ts=6a60d2bb)
+Link for registration [here](https://forms.gle/rpm4r3ejvTnnYfNz7)
 
 # Participants
 
