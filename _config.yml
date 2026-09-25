@@ -46,3 +46,4 @@ collections:
   workshops:
     output: true
     permalink: /workshops/:name.html
+    future: true
