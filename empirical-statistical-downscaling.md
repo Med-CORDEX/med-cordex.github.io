@@ -17,4 +17,4 @@ The envisaged coordinated actions include:
 The team is also investigating AI infrastructures better suited for probabilistic approaches and exploring unique skill sets that 
 combine empirical scaling with modern AI hardware such as GPUs and TPUs.
 
-*Points of Contact: Kwok (Sun) Chun (UWE), Leonardo Aragão (CMCC), Matias Ezequiel Olmo (BSC), Christoforus Bayu Risanto (Vatican Observatory)*
+*Points of Contact: Sun Kwok (UWE), Leonardo Aragão (CMCC), Matias Ezequiel Olmo (BSC), Christoforus Bayu Risanto (Vatican Observatory)*
