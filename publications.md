@@ -9,10 +9,11 @@ We strongly encourage people downloading data from the Med-CORDEX database to co
 
 {% include toc %}
 
-## Publications based on Med-CORDEX simulations (total: 223)
+## Publications based on Med-CORDEX simulations (total: 224)
 
-### 2026 (7 publications)
+### 2026 (8 publications)
 
+ * Anav, A., Hamitouche, M., Fois, M., Catalano, F., Napolitano, E., Sannino, G., Struglia, M., [The regional Earth system model ENEA-REG (version 3.0): development and validation for the Med-CORDEX region](https://doi.org/10.5194/egusphere-2026-5695), , 2026
  * Baldan, D., Chauvier‐Mendes, Y., Panzeri, D., Cossarini, G., Solidoro, C., Bandelj, V., [The Geography of Mediterranean Benthic Communities Under Climate Change](https://doi.org/10.1111/gcb.70725), Global Change Biology, 2026
  * Barral, Q., Estournel, C., Waldman, R., Parras-Berrocal, I., Marsaleix, P., Sevault, F., [A high-emission future scenario in a sub-kilometric simulation of the Northwestern Mediterranean destabilizes the circulation and induces a seasonal Balearic Gyre](https://doi.org/10.5194/egusphere-2026-1480), , 2026
  * Chun, K., Aragão, L., Olmo, M., Nguyen, V., Risanto, C., Bettolli, M., Ezber, Y., Toker, E., Varotsos, K., [New horizons in statistical downscaling and AI approaches for sustainable km-scale climate simulations](https://doi.org/10.1038/s41612-026-01424-6), npj Climate and Atmospheric Science, 2026
