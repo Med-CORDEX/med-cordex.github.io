@@ -29,4 +29,4 @@ Find the list of workshop participants: coming soon
 
 # Programme
 
-Find the workshop programme: coming soon
+Find the workshop programme [here](/documents/Agenda_10th_Med-CORDEX_workshop_Mallorca_Nov2026.pdf) (updated 2026-11-05)
