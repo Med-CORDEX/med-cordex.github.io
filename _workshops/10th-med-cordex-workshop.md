@@ -25,8 +25,8 @@ Link for registration [here](https://forms.gle/rpm4r3ejvTnnYfNz7)
 
 # Participants
 
-Find the list of workshop participants: coming soon
+Find the list of workshop participants [here](/documents/Participants-List_10th_Med-CORDEX_workshop_Mallorca_Nov2026.pdf) (updated 2026-11-16)
 
 # Programme
 
-Find the workshop programme [here](/documents/Agenda_10th_Med-CORDEX_workshop_Mallorca_Nov2026.pdf) (updated 2026-11-10)
+Find the workshop programme [here](/documents/Agenda_10th_Med-CORDEX_workshop_Mallorca_Nov2026.pdf) (updated 2026-11-16)
