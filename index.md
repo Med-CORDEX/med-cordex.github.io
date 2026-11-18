@@ -53,16 +53,18 @@ Med-CORDEX uses various communication tools:
 | Institution | Contact Point |
 |-------------|--------------|
 | [AWI](https://www.awi.de/en.html) - [GERICS](http://www.climate-service-center.de/index.php.en) | [William Cabos](mailto:william.cabos@uah.es) - [Dmitry Sein](mailto:dmitry.sein@awi.de) |
-| [CMCC](http://www.cmcc.it/) | [Silvio Gualdi](mailto:silvio.gualdi@cmcc.it) - [Piero Lionello](mailto:piero.lionello@unisalento.it) |
+| [CMCC-CLMcom](http://www.cmcc.it/) | [Angelo Campanale](mailto:angelo.campanale@cmcc.it) - [Mario Raffa](mailto:mario.raffa@cmcc.it) - [Marianna Adinolfi](mailto:marianna.adinolfi@cmcc.it) - [Paola Mercogliano](mailto:paola.mercogliano@cmcc.it) |
+| [CMCC-ESYDA](http://www.cmcc.it/) | [Silvio Gualdi](mailto:silvio.gualdi@cmcc.it) - [Piero Lionello](mailto:marco.chericoni@cmcc.it) |
 | [CNRM](https://cnrm.sedoo.fr/en/homepage/) | [Samuel Somot](mailto:samuel.somot@meteo.fr) - [Florence Sevault](mailto:florence.sevault@meteo.fr) |
 | [ENEA](http://www.enea.it/) | [Alessandro Anav](mailto:alessandro.anav@enea.it) - [Gianmaria Sannino](mailto:gianmaria.sannino@enea.it) |
-| [GUF](http://www.iau.uni-frankfurt.de/) | [Bodo Ahrens](mailto:bodo.ahrens@iau.uni-frankfurt.de) |
-| [ICTP](http://www.ictp.it/) | [Erika Coppola](mailto:coppolae@ictp.it) |
+| [GUF](http://www.iau.uni-frankfurt.de/) | [Bodo Ahrens](mailto:bodo.ahrens@iau.uni-frankfurt.de) - [Mostafa Hamouda](mailto:hamouda@iau.uni-frankfurt.de)|
+| [ICTP](http://www.ictp.it/) | [Erika Coppola](mailto:coppolae@ictp.it) - [Graziano Giuliani](mailto:ggiulian@ictp.it) |
 | [IMS](http://ims.gov.il/en) | [Pavel Khain](mailto:pavelkh_il@yahoo.com) head of NWP team - [Leenes Uzan](mailto:uzanl@ims.gov.il) - [Elyakom Vadislavsky](mailto:vadislavskye@ims.gov.il) |
 | [IPSL](http://www.latmos.ipsl.fr/) | [Jan Polcher](mailto:jan.polcher@lmd.ipsl.fr) - [Romain Pennel](mailto:romain.pennel@lmd.ipsl.fr) |
 | [ITU](http://www.itu.edu.tr/) | [Baris Onol](mailto:onolba@itu.edu.tr) |
 | [JRC](https://ec.europa.eu/jrc/en) | [Diego Macias-Moy](mailto:Diego.MACIAS-MOY@ec.europa.eu) |
 | [LMD](http://www.lmd.jussieu.fr/) | [Laurent Li](mailto:laurent.li@lmd.ipsl.fr) |
+| [NKUA](https://en.uoa.gr/) | [John Karagiorgos](mailto:jkaragiorgos@phys.uoa.gr) |
 | [OGS](http://www.ogs.it/) | [Marco Reale](mailto:mreale@ogs.it) |
 | [UCLM](http://www.uclm.es/) | [Miguel Gaertner](mailto:miguel.gaertner@uclm.es) |
 | [Univ of Belgrade](http://www.ff.bg.ac.rs/) | [Vladimir Djurdjevic](mailto:vdj@ff.bg.ac.rs) |
