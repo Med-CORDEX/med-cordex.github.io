@@ -59,7 +59,7 @@ Med-CORDEX uses various communication tools:
 | [ENEA](http://www.enea.it/) | [Alessandro Anav](mailto:alessandro.anav@enea.it) - [Gianmaria Sannino](mailto:gianmaria.sannino@enea.it) |
 | [GUF](http://www.iau.uni-frankfurt.de/) | [Bodo Ahrens](mailto:bodo.ahrens@iau.uni-frankfurt.de) - [Mostafa Hamouda](mailto:hamouda@iau.uni-frankfurt.de)|
 | [ICTP](http://www.ictp.it/) | [Erika Coppola](mailto:coppolae@ictp.it) - [Graziano Giuliani](mailto:ggiulian@ictp.it) |
-| [IMS](http://ims.gov.il/en) | [Pavel Khain](mailto:pavelkh_il@yahoo.com) head of NWP team - [Leenes Uzan](mailto:uzanl@ims.gov.il) - [Elyakom Vadislavsky](mailto:vadislavskye@ims.gov.il) |
+| [IMS](http://ims.gov.il/en) | [Pavel Khain](mailto:pavelkh_il@yahoo.com) - [Leenes Uzan](mailto:uzanl@ims.gov.il) - [Elyakom Vadislavsky](mailto:vadislavskye@ims.gov.il) |
 | [IPSL](http://www.latmos.ipsl.fr/) | [Jan Polcher](mailto:jan.polcher@lmd.ipsl.fr) - [Romain Pennel](mailto:romain.pennel@lmd.ipsl.fr) |
 | [ITU](http://www.itu.edu.tr/) | [Baris Onol](mailto:onolba@itu.edu.tr) |
 | [JRC](https://ec.europa.eu/jrc/en) | [Diego Macias-Moy](mailto:Diego.MACIAS-MOY@ec.europa.eu) |
