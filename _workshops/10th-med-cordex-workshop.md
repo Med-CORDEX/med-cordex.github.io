@@ -29,4 +29,4 @@ Find the list of workshop participants [here](/documents/Participants-List_10th_
 
 # Programme
 
-Find the workshop programme [here](/documents/Agenda_10th_Med-CORDEX_workshop_Mallorca_Nov2026.pdf) (updated 2026-11-16)
+Find the workshop programme [here](/documents/Agenda_10th_Med-CORDEX_workshop_Mallorca_Nov2026.pdf) (updated 2026-11-24)
