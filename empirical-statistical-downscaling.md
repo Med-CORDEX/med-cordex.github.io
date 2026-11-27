@@ -1,5 +1,7 @@
 ## Med-CORDEX phase 3: AI-based empirical and statistical downscaling
 
+HELOOOOOOOOººº
+
 In the early 2010s, Med-CORDEX was established to advance regional climate modelling. 
 At that time, statistical downscaling was developed alongside dynamical downscaling. 
 The rapid emergence of AI in the early 2020s has renewed interest in statistical downscaling. 
