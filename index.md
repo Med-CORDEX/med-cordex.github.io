@@ -64,6 +64,7 @@ Med-CORDEX uses various communication tools:
 | [ITU](http://www.itu.edu.tr/) | [Baris Onol](mailto:onolba@itu.edu.tr) |
 | [JRC](https://ec.europa.eu/jrc/en) | [Diego Macias-Moy](mailto:Diego.MACIAS-MOY@ec.europa.eu) |
 | [LMD](http://www.lmd.jussieu.fr/) | [Laurent Li](mailto:laurent.li@lmd.ipsl.fr) |
+| [MIO](https://www.mio.osupytheas.fr/en/) | [Melika Baklouti](mailto:melika.baklouti@mio.osupytheas.fr) |
 | [NKUA](https://en.uoa.gr/) | [John Karagiorgos](mailto:jkaragiorgos@phys.uoa.gr) |
 | [OGS](http://www.ogs.it/) | [Marco Reale](mailto:mreale@ogs.it) |
 | [UCLM](http://www.uclm.es/) | [Miguel Gaertner](mailto:miguel.gaertner@uclm.es) |
