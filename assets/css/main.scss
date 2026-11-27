@@ -4,6 +4,18 @@ sitemap: false
 @charset "utf-8";
 @import "so-simple";
 
+.site-logo {
+  transform: scale(1.1);
+  transform-origin: top center;
+}
+
+@media (min-width: 48em) {
+  .site-logo {
+    transform: scale(1.15);
+    transform-origin: center;
+  }
+}
+
 /* Custom color styles for Med-CORDEX site */
 
 body h1.page-title,

@@ -2,7 +2,7 @@
 remote_theme: "mmistakes/so-simple-theme@3.2.0"
 
 # Site settings
-title: "Med-CORDEX"
+title: ""
 description: "International initiative for coordinated regional climate modeling in the Mediterranean region."
 url: "https://www.medcordex.eu" # Update if deploying elsewhere
 baseurl: "" # No subdirectory
@@ -14,7 +14,7 @@ author:
   email: "info@medcordex.eu"
 
 # Theme settings (optional, see so-simple-theme docs for more)
-logo: "/images/logo_medcordex_200_square.png" # Add your logo if available
+logo: "/images/logo_medcordex_cube.png" # Add your logo if available
 locale: en-US
 date_format: "%B %-d, %Y"
 mathjax:
